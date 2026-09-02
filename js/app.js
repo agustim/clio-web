@@ -4,7 +4,7 @@
 // (data/u/{font}/{YYYY-MM}-p{N}.json) carregats progressivament segons les
 // fonts seguides. Sota file:// (fetch bloquejat) s'injecta data/links.js com a
 // fallback amb tot l'índex lleuger (sense seguits ni càrrega per mesos).
-const DATAV = '1788381506';
+const DATAV = '1788381572';
 let ALL = [];            // links visibles fusionats (ordre cronològic invers)
 let MANIFEST = null;     // { total, users: [{name,dir,role,total,emb,months}], categories }
 let MONTHS = [];         // línia temporal fusionada de les fonts seguides: [{key,count}] desc
@@ -679,7 +679,7 @@ async function loadDeep(box) {
   let text = DEEP_CACHE.get(id);
   if (text === undefined) {
     try {
-      const r = await fetch('data/deep/' + id + '.json?v=1788381506');
+      const r = await fetch('data/deep/' + id + '.json?v=1788381572');
       text = r.ok ? ((await r.json()).deep_summary || '') : '';
     } catch (e) { text = ''; }
     DEEP_CACHE.set(id, text);
