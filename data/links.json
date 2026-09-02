@@ -1,6 +1,36 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T21:08:21Z",
+    "deep_status": "done",
+    "id": "a54e81fd-94b3-478e-9492-c39886f1506e",
+    "image_file": "a54e81fd-94b3-478e-9492-c39886f1506e.jpg",
+    "image_url": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/191:100/w_1280,c_limit/politics_democrats_prosecute_trump_family.jpg",
+    "img": "img/a54e81fd-94b3-478e-9492-c39886f1506e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Els demòcrates planejen utilitzar el poder de la cartera per forçar la cooperació de l'administració Trump en les investigacions.",
+    "tags": [
+      "demòcrates",
+      "trump",
+      "congress",
+      "investigacions",
+      "finançament",
+      "subpoenas",
+      "whitewestwing",
+      "política",
+      "estatunidencs"
+    ],
+    "title": "Demòcrates amenacen de tallar finançament a Trump",
+    "updated_at": "2026-09-02T21:08:40Z",
+    "url": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T20:37:22Z",
     "deep_status": "done",
     "id": "ba2beb14-0c1d-4048-ba63-87b9fa240625",
