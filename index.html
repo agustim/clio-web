@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ca" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clio · LinkAnalyzer</title>
+  <meta name="description" content="Enllaços recollits, analitzats i resumits per Clio.">
+  <meta name="app-version" content="0.1.36">
+  <link rel="stylesheet" href="css/style.css?v=0.1.36">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">◆</span>
+        <div>
+          <h1>Clio</h1>
+          <p class="tagline">Enllaços analitzats &amp; resumits</p>
+        </div>
+      </div>
+      <div class="menu-wrap">
+        <button id="menu-btn" class="theme-toggle" aria-label="Menú" title="Menú" aria-haspopup="true" aria-expanded="false">☰</button>
+        <div id="menu" class="menu" role="menu" hidden>
+          <button class="menu-item" data-act="search" role="menuitem"><span class="mi-check"></span> Mostra el cercador</button>
+          <button class="menu-item" data-act="tags" role="menuitem"><span class="mi-check"></span> Mostra els tags</button>
+          <button class="menu-item" data-act="new" role="menuitem"><span class="mi-check"></span> Mostra novetats</button>
+          <button class="menu-item" data-act="new-dec" role="menuitem"><span class="mi-ico">◀</span> Novetats: un dia abans</button>
+          <button class="menu-item" data-act="new-inc" role="menuitem"><span class="mi-ico">▶</span> Novetats: un dia després</button>
+          <div class="menu-sep" id="menu-hist-sep" hidden></div>
+          <button class="menu-item" data-act="follow" role="menuitem" hidden><span class="mi-ico">👥</span> Fonts que segueixes</button>
+          <button class="menu-item" data-act="hist-more" role="menuitem" hidden><span class="mi-ico">▼</span> Historial: un mes més</button>
+          <button class="menu-item" data-act="hist-less" role="menuitem" hidden><span class="mi-ico">▲</span> Historial: un mes menys</button>
+          <div class="menu-sep"></div>
+          <button class="menu-item" data-act="cols-dec" role="menuitem"><span class="mi-ico">−</span> Menys columnes</button>
+          <button class="menu-item" data-act="cols-inc" role="menuitem"><span class="mi-ico">+</span> Més columnes</button>
+          <div class="menu-sep"></div>
+          <button class="menu-item" data-act="theme" role="menuitem"><span class="mi-ico theme-icon"></span> Canvia el tema</button>
+          <div class="menu-sep"></div>
+          <button class="menu-item" data-act="about" role="menuitem"><span class="mi-ico">❓</span> Què és això?</button>
+          <div class="menu-sep" id="menu-api-sep" hidden></div>
+          <button class="menu-item" id="mi-token" data-act="token" role="menuitem" hidden>🔑 Sessió</button>
+          <button class="menu-item" id="mi-admin" data-act="admin" role="menuitem" hidden>👤 Usuaris</button>
+          <button class="menu-item" id="mi-add" data-act="add" role="menuitem" hidden>➕ Afegeix enllaç</button>
+        </div>
+      </div>
+    </div>
+    <div id="controls" class="topbar-inner controls">
+      <div class="search-wrap">
+        <svg class="search-ico" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M21 20l-5.6-5.6a7 7 0 10-1.4 1.4L20 21zM5 10a5 5 0 1110 0 5 5 0 01-10 0z"/></svg>
+        <input id="search" type="search" placeholder="Cerca per títol o resum…" autocomplete="off">
+      </div>
+      <select id="type-filter" class="select" aria-label="Filtra per tipus">
+        <option value="">Tots els tipus</option>
+        <option value="news">News</option>
+        <option value="repo">Repo</option>
+        <option value="article">Article</option>
+        <option value="video">Video</option>
+        <option value="blog">Blog</option>
+        <option value="social">Social</option>
+        <option value="other">Other</option>
+      </select>
+      <select id="sent-filter" class="select" aria-label="Filtra per sentiment">
+        <option value="">Tot sentiment</option>
+        <option value="positive">Positiu</option>
+        <option value="neutral">Neutral</option>
+        <option value="negative">Negatiu</option>
+      </select>
+    </div>
+    <div id="stats" class="stats"></div>
+    <div id="perso" class="perso"></div>
+    <div id="filters" class="filters"></div>
+  </header>
+  <main id="grid" class="grid"></main>
+  <footer class="footer"><p>Generat per <strong>Clio</strong> · LinkAnalyzer</p></footer>
+  <script src="js/app.js?v=0.1.36"></script>
+</body>
+</html>

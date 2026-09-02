@@ -1,0 +1,1 @@
+{"deep_summary":"Repositori amb 31 fitxers de codi i 3472 línies. Llenguatges principals: Markdown, Shell, C#, Config, JavaScript.\n\nREADME: # Kubernetes CPU limits make your apps slow and costly  *Platform engineering · analysis*  We tested the same app with and without a CPU limit. Same code, same CPU request, same load."}
