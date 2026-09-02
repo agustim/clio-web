@@ -1,6 +1,459 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d",
+    "image_file": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d.jpg",
+    "image_url": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/191:100/w_1280,c_limit/GettyImages-2259673201.jpg",
+    "img": "img/dbe9119d-7b56-49e0-8bbf-ba1645712b7d.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Tesla debutarà el Cybercab sense volant a Austin, marcant un pas clau en la seva estratègia de vehicles autònoms malgrat els dubtes sobre la seva viabilitat.",
+    "tags": [
+      "tesla",
+      "cybercab",
+      "autonomous",
+      "robotaxi",
+      "austin",
+      "musk",
+      "technology"
+    ],
+    "title": "Tesla presenta el Cybercab a Austin",
+    "updated_at": "2026-09-02T15:07:28Z",
+    "url": "https://www.wired.com/story/here-comes-the-tesla-cybercab"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "processing",
+    "id": "7433b830-f019-4d90-94ce-c9b5bb737f7b",
+    "image_file": "7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
+    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466",
+    "img": "img/7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Setembre ofereix conjuncions de Venus i Espiga, la Lluna amb les Plèiades, l'apogeu dels Èpsilon Perseids i el màxim brillantor de Venus.",
+    "tags": [
+      "astronomia",
+      "setembre 2026",
+      "venus",
+      "pleiades",
+      "lluna",
+      "lluentor de meteors",
+      "equinocci",
+      "observació"
+    ],
+    "title": "Espectacles astronòmics destacats de setembre de 2026",
+    "updated_at": "2026-09-02T15:07:28Z",
+    "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "50671be7-c155-4dc3-8f7b-c278b43f7243",
+    "image_file": "50671be7-c155-4dc3-8f7b-c278b43f7243.jpg",
+    "image_url": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
+    "img": "img/50671be7-c155-4dc3-8f7b-c278b43f7243.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Pangram esdevé referent en detectar contingut generat per IA, però la seva fiabilitat i ètica són qüestionades per autors i experts del sector editorial.",
+    "tags": [
+      "pangram",
+      "detecció ia",
+      "editorial",
+      "continguts ia",
+      "tecnologia",
+      "literatura",
+      "ètica ia",
+      "startups"
+    ],
+    "title": "Pangram, l'estàndard de detecció d'IA, en qüestió",
+    "updated_at": "2026-09-02T15:07:24Z",
+    "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "processing",
+    "id": "6834ccfa-d7ba-4426-a755-dc7df81b96c4",
+    "image_file": "6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
+    "image_url": "https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/191:100/w_1280,c_limit/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg",
+    "img": "img/6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Amazon ofereix descomptes destacats en auriculars Sony, power banks EcoFlow i altres dispositius tecnològics durant la seva venda del Labor Day 2026.",
+    "tags": [
+      "amazon",
+      "labor day",
+      "ofertes",
+      "tecnologia",
+      "sony",
+      "ecoflow",
+      "2026",
+      "descomptes"
+    ],
+    "title": "Les millors ofertes del Labor Day a Amazon 2026",
+    "updated_at": "2026-09-02T15:07:24Z",
+    "url": "https://www.wired.com/story/amazon-labor-day-deals-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "9021743f-3154-4391-90cd-6b51151a5e51",
+    "image_file": "9021743f-3154-4391-90cd-6b51151a5e51.jpg",
+    "image_url": "https://media.wired.com/photos/6a97a097e07384174b88adb7/191:100/w_1280,c_limit/A-Prop-65-Warning-Doesn%E2%80%99t-Mean-What-You-Think.jpg",
+    "img": "img/9021743f-3154-4391-90cd-6b51151a5e51.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La llei californiana Prop 65 obliga a avisar sobre químics perillosos, generant confusió en els consumidors malgrat no prohibir-los.",
+    "tags": [
+      "prop 65",
+      "california",
+      "avisos",
+      "químics",
+      "consumidors",
+      "legislació",
+      "productes"
+    ],
+    "title": "Prop 65: per què apareixen tants avisos als productes?",
+    "updated_at": "2026-09-02T15:07:21Z",
+    "url": "https://www.wired.com/story/why-does-everything-have-a-prop-65-warning"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "processing",
+    "id": "0860b4ae-3103-4dac-9df2-6fe3174ebad2",
+    "image_file": "0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
+    "image_url": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg",
+    "img": "img/0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI anunciarà el llançament d'Astra, el primer model amb capacitats cibernètiques crítiques, restringint-ne l'accés a socis seleccionats per garantir la seguretat.",
+    "tags": [
+      "openai",
+      "astra",
+      "ia",
+      "ciberseguretat",
+      "vulnerabilitats",
+      "seguretat",
+      "tecnologia"
+    ],
+    "title": "OpenAI llançarà Astra, el seu primer model amb capacitats cibernètiques…",
+    "updated_at": "2026-09-02T15:07:21Z",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e",
+    "image_file": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e.jpg",
+    "image_url": "https://media.wired.com/photos/6a9722800b666cfc32288461/191:100/w_1280,c_limit/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg",
+    "img": "img/b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Els auriculars Sony WH-1000XM5 tenen un 50% de descompte, el preu més baix registrat, destacant per la seva cancel·lació de soroll i autonomia.",
+    "tags": [
+      "sony",
+      "auriculars",
+      "ofertes",
+      "wh-1000xm5",
+      "tecnologia",
+      "descompte"
+    ],
+    "title": "Audiòfons Sony amb 50% de descompte",
+    "updated_at": "2026-09-02T15:07:16Z",
+    "url": "https://www.wired.com/story/sony-headphone-deals-september-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "processing",
+    "id": "fea10b35-b468-4684-91b1-b07f04779166",
+    "image_file": "fea10b35-b468-4684-91b1-b07f04779166.jpg",
+    "image_url": "https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+    "img": "img/fea10b35-b468-4684-91b1-b07f04779166.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El primer Range Rover 100% elèctric ja és aquí amb 542 CV, 372 milles d'autonomia i càrrega ràpida, tot i un preu elevat i un mercat luxós escèptic.",
+    "tags": [
+      "range rover",
+      "electric",
+      "jlr",
+      "ev",
+      "suv",
+      "luxury",
+      "automotive",
+      "technology"
+    ],
+    "title": "Arriba el Range Rover Elèctric amb 542 CV i càrrega ràpida",
+    "updated_at": "2026-09-02T15:07:16Z",
+    "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "a79b7415-1ad3-40e0-a911-0ec3dd67444a",
+    "image_file": "a79b7415-1ad3-40e0-a911-0ec3dd67444a.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-1152x648-1788283693.jpg",
+    "img": "img/a79b7415-1ad3-40e0-a911-0ec3dd67444a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La FTC i 22 estats demanden Amazon per manipular subhastes publicitàries i obtenir il·lícitament 20.000 milions de dòlars.",
+    "tags": [
+      "ftc",
+      "amazon",
+      "publicitat",
+      "demanda",
+      "subhastes",
+      "fraud",
+      "estats units",
+      "regulació"
+    ],
+    "title": "La FTC acusa Amazon de manipular subhastes publicitàries per guanyar 20.000…",
+    "updated_at": "2026-09-02T15:07:06Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "4510119b-c6be-438d-b1d4-0b3aaab0eff0",
+    "image_file": "4510119b-c6be-438d-b1d4-0b3aaab0eff0.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+    "img": "img/4510119b-c6be-438d-b1d4-0b3aaab0eff0.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Android 17 integra trobar objectes sense tracker, Guided Vision per a accessibilitat, personalització de xats i Motion Assist oficial contra el mareig.",
+    "tags": [
+      "android",
+      "google",
+      "gemini",
+      "accessibilitat",
+      "motion assist",
+      "find hub",
+      "google messages",
+      "android 17"
+    ],
+    "title": "Android actualitza trobar objectes, accessibilitat i anti-mocions",
+    "updated_at": "2026-09-02T15:07:04Z",
+    "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "425acc09-a623-4c22-bc32-702307f96825",
+    "image_file": "425acc09-a623-4c22-bc32-702307f96825.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/1926-Bentley-Super-Sports-8-1152x648.jpg",
+    "img": "img/425acc09-a623-4c22-bc32-702307f96825.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El Bentley Super Sports de 1926, Smoky, superava els 100 mph en una època on els cotxes normals no arribaven als 40.",
+    "tags": [
+      "bentley",
+      "supersports",
+      "història",
+      "cotxes clàssics",
+      "automobilisme",
+      "1926"
+    ],
+    "title": "Com era un supercotxe fa un segle",
+    "updated_at": "2026-09-02T15:06:58Z",
+    "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "b5610dde-31e9-46dd-ab42-27f554c8e48c",
+    "image_file": "b5610dde-31e9-46dd-ab42-27f554c8e48c.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
+    "img": "img/b5610dde-31e9-46dd-ab42-27f554c8e48c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El CDC exclou dues morts per xarampió de Pennsilvània, qüestionant la determinació estatal i generant controvèrsia política.",
+    "tags": [
+      "cdc",
+      "xarampió",
+      "pennsilvània",
+      "vacunes",
+      "salut pública",
+      "controvèrsia"
+    ],
+    "title": "El CDC exclou dues morts per xarampió de Pennsilvània",
+    "updated_at": "2026-09-02T15:06:55Z",
+    "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "3c22a003-7381-4a54-aee8-c6028288422f",
+    "image_file": "3c22a003-7381-4a54-aee8-c6028288422f.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
+    "img": "img/3c22a003-7381-4a54-aee8-c6028288422f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Rússia enfronta fracassos en el seu intent de replicar Starlink, amb satèl·lits que no aconsegueixen l'òrbita prevista i taxes d'error elevades.",
+    "tags": [
+      "rusia",
+      "starlink",
+      "satellites",
+      "tecnologia",
+      "militar",
+      "espai"
+    ],
+    "title": "El programa espacial rus Rassvet mostra greus fallades",
+    "updated_at": "2026-09-02T15:06:41Z",
+    "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "80e7b7d4-ab18-440a-8220-ef7e03f496bb",
+    "image_file": "80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
+    "img": "img/80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "JLR llança el Range Rover Elèctric 2027, amb 542 cv, 536 km d'autonomia i preu base de 138.000 dòlars, arribant a 80.000 precomandes.",
+    "tags": [
+      "jlr",
+      "range rover",
+      "electric",
+      "ev",
+      "automoció",
+      "sostenibilitat",
+      "tecnologia",
+      "preu",
+      "autonomia",
+      "novetats"
+    ],
+    "title": "JLR presenta el Range Rover Elèctric 2027 amb 536 km d'autonomia",
+    "updated_at": "2026-09-02T15:06:41Z",
+    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a",
+    "image_file": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
+    "img": "img/2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un atacant va infectar xarxes mitjançant un segrest BGP aprofitant errors de seguretat de Softaculous i Hetzner per distribuir programari maliciós.",
+    "tags": [
+      "bgp",
+      "ciberseguretat",
+      "softaculous",
+      "hetzner",
+      "atac",
+      "malware",
+      "internet"
+    ],
+    "title": "Un error en cadena provoca un ciberatac via BGP",
+    "updated_at": "2026-09-02T15:06:36Z",
+    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "ce71e3dc-6193-4e36-8219-30590032b0e1",
+    "image_file": "ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
+    "img": "img/ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Astrònoms identifiquen un nou objecte celeste anomenat 'estrella forat negre' i científics transformen plàstics en galetes comestibles mitjançant microorganismes.",
+    "tags": [
+      "ciència",
+      "astronomia",
+      "forat negre",
+      "plàstics",
+      "microbis",
+      "sostenibilitat",
+      "investigació"
+    ],
+    "title": "Descobreixen l'estrella forat negre i galetes menjar amb microbis",
+    "updated_at": "2026-09-02T15:06:34Z",
+    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T15:03:23Z",
     "deep_status": "done",
     "id": "a5412209-e100-4c69-872b-658e90632ce2",
@@ -26,37 +479,6 @@
     "title": "Per què és millor codificar les banderes de funcions",
     "updated_at": "2026-09-02T15:06:21Z",
     "url": "https://code.mendhak.com/hardcode-feature-flags"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "processing",
-    "id": "80e7b7d4-ab18-440a-8220-ef7e03f496bb",
-    "image_file": "80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
-    "img": "img/80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "JLR llança el Range Rover Elèctric 2027, amb 542 cv, 536 km d'autonomia i preu base de 138.000 dòlars, arribant a 80.000 precomandes.",
-    "tags": [
-      "jlr",
-      "range rover",
-      "electric",
-      "ev",
-      "automoció",
-      "sostenibilitat",
-      "tecnologia",
-      "preu",
-      "autonomia",
-      "novetats"
-    ],
-    "title": "JLR presenta el Range Rover Elèctric 2027 amb 536 km d'autonomia",
-    "updated_at": "2026-09-02T15:06:21Z",
-    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv"
   },
   {
     "code_stats": null,
@@ -116,62 +538,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "processing",
-    "id": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a",
-    "image_file": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-    "img": "img/2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Un atacant va infectar xarxes mitjançant un segrest BGP aprofitant errors de seguretat de Softaculous i Hetzner per distribuir programari maliciós.",
-    "tags": [
-      "bgp",
-      "ciberseguretat",
-      "softaculous",
-      "hetzner",
-      "atac",
-      "malware",
-      "internet"
-    ],
-    "title": "Un error en cadena provoca un ciberatac via BGP",
-    "updated_at": "2026-09-02T15:06:13Z",
-    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "processing",
-    "id": "ce71e3dc-6193-4e36-8219-30590032b0e1",
-    "image_file": "ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
-    "img": "img/ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Astrònoms identifiquen un nou objecte celeste anomenat 'estrella forat negre' i científics transformen plàstics en galetes comestibles mitjançant microorganismes.",
-    "tags": [
-      "ciència",
-      "astronomia",
-      "forat negre",
-      "plàstics",
-      "microbis",
-      "sostenibilitat",
-      "investigació"
-    ],
-    "title": "Descobreixen l'estrella forat negre i galetes menjar amb microbis",
-    "updated_at": "2026-09-02T15:06:13Z",
-    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
     "deep_status": "done",
     "id": "73ab618e-a1b9-44bf-8926-849336ccc45f",
     "link_type": "article",
@@ -193,33 +559,6 @@
     "title": "Lucas Sifoni acaba la seva exploració d'Elixir per la IA",
     "updated_at": "2026-09-02T15:06:12Z",
     "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "processing",
-    "id": "3c22a003-7381-4a54-aee8-c6028288422f",
-    "image_file": "3c22a003-7381-4a54-aee8-c6028288422f.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
-    "img": "img/3c22a003-7381-4a54-aee8-c6028288422f.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Rússia enfronta fracassos en el seu intent de replicar Starlink, amb satèl·lits que no aconsegueixen l'òrbita prevista i taxes d'error elevades.",
-    "tags": [
-      "rusia",
-      "starlink",
-      "satellites",
-      "tecnologia",
-      "militar",
-      "espai"
-    ],
-    "title": "El programa espacial rus Rassvet mostra greus fallades",
-    "updated_at": "2026-09-02T15:06:12Z",
-    "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start"
   },
   {
     "code_stats": null,
@@ -737,345 +1076,6 @@
     "title": "Brussel·les sotmet ChatGPT a les regles digitals més estrictes de la UE",
     "updated_at": "2026-09-02T15:04:45Z",
     "url": "https://www.metadata.cat/noticia/6491/brusselles-sotmet-chatgpt-regles-digitals-estrictes-ue"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "7433b830-f019-4d90-94ce-c9b5bb737f7b",
-    "image_file": "7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
-    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466",
-    "img": "img/7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Setembre ofereix conjuncions de Venus i Espiga, la Lluna amb les Plèiades, l'apogeu dels Èpsilon Perseids i el màxim brillantor de Venus.",
-    "tags": [
-      "astronomia",
-      "setembre 2026",
-      "venus",
-      "pleiades",
-      "lluna",
-      "lluentor de meteors",
-      "equinocci",
-      "observació"
-    ],
-    "title": "Espectacles astronòmics destacats de setembre de 2026",
-    "updated_at": "2026-09-02T15:04:44Z",
-    "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "0860b4ae-3103-4dac-9df2-6fe3174ebad2",
-    "image_file": "0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
-    "image_url": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg",
-    "img": "img/0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "OpenAI anunciarà el llançament d'Astra, el primer model amb capacitats cibernètiques crítiques, restringint-ne l'accés a socis seleccionats per garantir la seguretat.",
-    "tags": [
-      "openai",
-      "astra",
-      "ia",
-      "ciberseguretat",
-      "vulnerabilitats",
-      "seguretat",
-      "tecnologia"
-    ],
-    "title": "OpenAI llançarà Astra, el seu primer model amb capacitats cibernètiques…",
-    "updated_at": "2026-09-02T15:04:42Z",
-    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "6834ccfa-d7ba-4426-a755-dc7df81b96c4",
-    "image_file": "6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
-    "image_url": "https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/191:100/w_1280,c_limit/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg",
-    "img": "img/6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Amazon ofereix descomptes destacats en auriculars Sony, power banks EcoFlow i altres dispositius tecnològics durant la seva venda del Labor Day 2026.",
-    "tags": [
-      "amazon",
-      "labor day",
-      "ofertes",
-      "tecnologia",
-      "sony",
-      "ecoflow",
-      "2026",
-      "descomptes"
-    ],
-    "title": "Les millors ofertes del Labor Day a Amazon 2026",
-    "updated_at": "2026-09-02T15:04:42Z",
-    "url": "https://www.wired.com/story/amazon-labor-day-deals-2026"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "fea10b35-b468-4684-91b1-b07f04779166",
-    "image_file": "fea10b35-b468-4684-91b1-b07f04779166.jpg",
-    "image_url": "https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
-    "img": "img/fea10b35-b468-4684-91b1-b07f04779166.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "El primer Range Rover 100% elèctric ja és aquí amb 542 CV, 372 milles d'autonomia i càrrega ràpida, tot i un preu elevat i un mercat luxós escèptic.",
-    "tags": [
-      "range rover",
-      "electric",
-      "jlr",
-      "ev",
-      "suv",
-      "luxury",
-      "automotive",
-      "technology"
-    ],
-    "title": "Arriba el Range Rover Elèctric amb 542 CV i càrrega ràpida",
-    "updated_at": "2026-09-02T15:04:41Z",
-    "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d",
-    "image_file": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d.jpg",
-    "image_url": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/191:100/w_1280,c_limit/GettyImages-2259673201.jpg",
-    "img": "img/dbe9119d-7b56-49e0-8bbf-ba1645712b7d.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Tesla debutarà el Cybercab sense volant a Austin, marcant un pas clau en la seva estratègia de vehicles autònoms malgrat els dubtes sobre la seva viabilitat.",
-    "tags": [
-      "tesla",
-      "cybercab",
-      "autonomous",
-      "robotaxi",
-      "austin",
-      "musk",
-      "technology"
-    ],
-    "title": "Tesla presenta el Cybercab a Austin",
-    "updated_at": "2026-09-02T15:04:38Z",
-    "url": "https://www.wired.com/story/here-comes-the-tesla-cybercab"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "50671be7-c155-4dc3-8f7b-c278b43f7243",
-    "image_file": "50671be7-c155-4dc3-8f7b-c278b43f7243.jpg",
-    "image_url": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
-    "img": "img/50671be7-c155-4dc3-8f7b-c278b43f7243.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Pangram esdevé referent en detectar contingut generat per IA, però la seva fiabilitat i ètica són qüestionades per autors i experts del sector editorial.",
-    "tags": [
-      "pangram",
-      "detecció ia",
-      "editorial",
-      "continguts ia",
-      "tecnologia",
-      "literatura",
-      "ètica ia",
-      "startups"
-    ],
-    "title": "Pangram, l'estàndard de detecció d'IA, en qüestió",
-    "updated_at": "2026-09-02T15:04:38Z",
-    "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "9021743f-3154-4391-90cd-6b51151a5e51",
-    "image_file": "9021743f-3154-4391-90cd-6b51151a5e51.jpg",
-    "image_url": "https://media.wired.com/photos/6a97a097e07384174b88adb7/191:100/w_1280,c_limit/A-Prop-65-Warning-Doesn%E2%80%99t-Mean-What-You-Think.jpg",
-    "img": "img/9021743f-3154-4391-90cd-6b51151a5e51.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "La llei californiana Prop 65 obliga a avisar sobre químics perillosos, generant confusió en els consumidors malgrat no prohibir-los.",
-    "tags": [
-      "prop 65",
-      "california",
-      "avisos",
-      "químics",
-      "consumidors",
-      "legislació",
-      "productes"
-    ],
-    "title": "Prop 65: per què apareixen tants avisos als productes?",
-    "updated_at": "2026-09-02T15:04:38Z",
-    "url": "https://www.wired.com/story/why-does-everything-have-a-prop-65-warning"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e",
-    "image_file": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e.jpg",
-    "image_url": "https://media.wired.com/photos/6a9722800b666cfc32288461/191:100/w_1280,c_limit/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg",
-    "img": "img/b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Els auriculars Sony WH-1000XM5 tenen un 50% de descompte, el preu més baix registrat, destacant per la seva cancel·lació de soroll i autonomia.",
-    "tags": [
-      "sony",
-      "auriculars",
-      "ofertes",
-      "wh-1000xm5",
-      "tecnologia",
-      "descompte"
-    ],
-    "title": "Audiòfons Sony amb 50% de descompte",
-    "updated_at": "2026-09-02T15:04:37Z",
-    "url": "https://www.wired.com/story/sony-headphone-deals-september-2026"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "4510119b-c6be-438d-b1d4-0b3aaab0eff0",
-    "image_file": "4510119b-c6be-438d-b1d4-0b3aaab0eff0.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-    "img": "img/4510119b-c6be-438d-b1d4-0b3aaab0eff0.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Android 17 integra trobar objectes sense tracker, Guided Vision per a accessibilitat, personalització de xats i Motion Assist oficial contra el mareig.",
-    "tags": [
-      "android",
-      "google",
-      "gemini",
-      "accessibilitat",
-      "motion assist",
-      "find hub",
-      "google messages",
-      "android 17"
-    ],
-    "title": "Android actualitza trobar objectes, accessibilitat i anti-mocions",
-    "updated_at": "2026-09-02T15:04:34Z",
-    "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "b5610dde-31e9-46dd-ab42-27f554c8e48c",
-    "image_file": "b5610dde-31e9-46dd-ab42-27f554c8e48c.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
-    "img": "img/b5610dde-31e9-46dd-ab42-27f554c8e48c.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "El CDC exclou dues morts per xarampió de Pennsilvània, qüestionant la determinació estatal i generant controvèrsia política.",
-    "tags": [
-      "cdc",
-      "xarampió",
-      "pennsilvània",
-      "vacunes",
-      "salut pública",
-      "controvèrsia"
-    ],
-    "title": "El CDC exclou dues morts per xarampió de Pennsilvània",
-    "updated_at": "2026-09-02T15:04:33Z",
-    "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "a79b7415-1ad3-40e0-a911-0ec3dd67444a",
-    "image_file": "a79b7415-1ad3-40e0-a911-0ec3dd67444a.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-1152x648-1788283693.jpg",
-    "img": "img/a79b7415-1ad3-40e0-a911-0ec3dd67444a.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "La FTC i 22 estats demanden Amazon per manipular subhastes publicitàries i obtenir il·lícitament 20.000 milions de dòlars.",
-    "tags": [
-      "ftc",
-      "amazon",
-      "publicitat",
-      "demanda",
-      "subhastes",
-      "fraud",
-      "estats units",
-      "regulació"
-    ],
-    "title": "La FTC acusa Amazon de manipular subhastes publicitàries per guanyar 20.000…",
-    "updated_at": "2026-09-02T15:04:33Z",
-    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "425acc09-a623-4c22-bc32-702307f96825",
-    "image_file": "425acc09-a623-4c22-bc32-702307f96825.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/1926-Bentley-Super-Sports-8-1152x648.jpg",
-    "img": "img/425acc09-a623-4c22-bc32-702307f96825.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "El Bentley Super Sports de 1926, Smoky, superava els 100 mph en una època on els cotxes normals no arribaven als 40.",
-    "tags": [
-      "bentley",
-      "supersports",
-      "història",
-      "cotxes clàssics",
-      "automobilisme",
-      "1926"
-    ],
-    "title": "Com era un supercotxe fa un segle",
-    "updated_at": "2026-09-02T15:04:33Z",
-    "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago"
   },
   {
     "code_stats": null,
