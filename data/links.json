@@ -1,6 +1,538 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "a5412209-e100-4c69-872b-658e90632ce2",
+    "image_file": "a5412209-e100-4c69-872b-658e90632ce2.png",
+    "image_url": "https://code.mendhak.com/assets/images/blogprofile.png",
+    "img": "img/a5412209-e100-4c69-872b-658e90632ce2.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les banderes de funcions codificades són més simples, segures i eviten la complexitat innecessària de gestió runtime.",
+    "tags": [
+      "feature flags",
+      "codi",
+      "arquitectura",
+      "seguretat",
+      "desenvolupament",
+      "optimització",
+      "tecnologia"
+    ],
+    "title": "Per què és millor codificar les banderes de funcions",
+    "updated_at": "2026-09-02T15:06:21Z",
+    "url": "https://code.mendhak.com/hardcode-feature-flags"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "processing",
+    "id": "80e7b7d4-ab18-440a-8220-ef7e03f496bb",
+    "image_file": "80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
+    "img": "img/80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "JLR llança el Range Rover Elèctric 2027, amb 542 cv, 536 km d'autonomia i preu base de 138.000 dòlars, arribant a 80.000 precomandes.",
+    "tags": [
+      "jlr",
+      "range rover",
+      "electric",
+      "ev",
+      "automoció",
+      "sostenibilitat",
+      "tecnologia",
+      "preu",
+      "autonomia",
+      "novetats"
+    ],
+    "title": "JLR presenta el Range Rover Elèctric 2027 amb 536 km d'autonomia",
+    "updated_at": "2026-09-02T15:06:21Z",
+    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "85bc20f6-1c99-46c5-9215-2c86bdd9e82e",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'autor millora un alias per formatar JSON del portapapers amb jq, afegint gestió d'errors per evitar esborrar contingut no vàlid.",
+    "tags": [
+      "jq",
+      "json",
+      "terminal",
+      "linux",
+      "macos",
+      "cli",
+      "scripting",
+      "portapapers"
+    ],
+    "title": "Com formatar JSON del portapapers amb jq i maneig d'errors",
+    "updated_at": "2026-09-02T15:06:13Z",
+    "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "d02fa3b3-9034-426c-9787-ccd82f57a0ff",
+    "image_file": "d02fa3b3-9034-426c-9787-ccd82f57a0ff.png",
+    "image_url": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png",
+    "img": "img/d02fa3b3-9034-426c-9787-ccd82f57a0ff.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Mistral permet als usuaris optar-se del ús de les seves dades per a entrenar models, amb procediments diferents segons la plataforma.",
+    "tags": [
+      "mistral",
+      "privadesa",
+      "opt-out",
+      "entrenament",
+      "dades",
+      "vibe",
+      "api",
+      "configuració"
+    ],
+    "title": "Com optar-se del ús de dades per a entrenar models de Mistral",
+    "updated_at": "2026-09-02T15:06:13Z",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "processing",
+    "id": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a",
+    "image_file": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
+    "img": "img/2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un atacant va infectar xarxes mitjançant un segrest BGP aprofitant errors de seguretat de Softaculous i Hetzner per distribuir programari maliciós.",
+    "tags": [
+      "bgp",
+      "ciberseguretat",
+      "softaculous",
+      "hetzner",
+      "atac",
+      "malware",
+      "internet"
+    ],
+    "title": "Un error en cadena provoca un ciberatac via BGP",
+    "updated_at": "2026-09-02T15:06:13Z",
+    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "processing",
+    "id": "ce71e3dc-6193-4e36-8219-30590032b0e1",
+    "image_file": "ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
+    "img": "img/ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Astrònoms identifiquen un nou objecte celeste anomenat 'estrella forat negre' i científics transformen plàstics en galetes comestibles mitjançant microorganismes.",
+    "tags": [
+      "ciència",
+      "astronomia",
+      "forat negre",
+      "plàstics",
+      "microbis",
+      "sostenibilitat",
+      "investigació"
+    ],
+    "title": "Descobreixen l'estrella forat negre i galetes menjar amb microbis",
+    "updated_at": "2026-09-02T15:06:13Z",
+    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "73ab618e-a1b9-44bf-8926-849336ccc45f",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Lucas Sifoni finalitza els seus articles exploratoris d'Elixir per rebutjar la delegació de la creativitat a la IA i recuperar la veu humana.",
+    "tags": [
+      "elixir",
+      "ia",
+      "escriptura",
+      "creativitat",
+      "programació",
+      "beams",
+      "open-source"
+    ],
+    "title": "Lucas Sifoni acaba la seva exploració d'Elixir per la IA",
+    "updated_at": "2026-09-02T15:06:12Z",
+    "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "processing",
+    "id": "3c22a003-7381-4a54-aee8-c6028288422f",
+    "image_file": "3c22a003-7381-4a54-aee8-c6028288422f.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
+    "img": "img/3c22a003-7381-4a54-aee8-c6028288422f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Rússia enfronta fracassos en el seu intent de replicar Starlink, amb satèl·lits que no aconsegueixen l'òrbita prevista i taxes d'error elevades.",
+    "tags": [
+      "rusia",
+      "starlink",
+      "satellites",
+      "tecnologia",
+      "militar",
+      "espai"
+    ],
+    "title": "El programa espacial rus Rassvet mostra greus fallades",
+    "updated_at": "2026-09-02T15:06:12Z",
+    "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "b7d54201-1977-422e-b9a7-d907bc9b9e99",
+    "image_file": "b7d54201-1977-422e-b9a7-d907bc9b9e99.jpg",
+    "image_url": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
+    "img": "img/b7d54201-1977-422e-b9a7-d907bc9b9e99.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La recerca revela que el cervell envellit no només oblida, sinó que barreja records diferents, creant connexions falses en lloc de recuperar-los amb precisió.",
+    "tags": [
+      "memòria",
+      "envelliment",
+      "neurociència",
+      "hipocamp",
+      "recerca",
+      "salut",
+      "cervell",
+      "estudi"
+    ],
+    "title": "El cervell envellit barreja records en lloc d'oblidar-los",
+    "updated_at": "2026-09-02T15:05:59Z",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "d9007bf8-ed87-45d4-9557-6343cfbd5306",
+    "image_file": "d9007bf8-ed87-45d4-9557-6343cfbd5306.jpg",
+    "image_url": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-09/MG%209092.jpeg?h=947d8e2e",
+    "img": "img/d9007bf8-ed87-45d4-9557-6343cfbd5306.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El DNB trasllada or dels EUA i Canadà al Regne Unit i Holanda per millorar la liquiditat en cas de crisi.",
+    "tags": [
+      "or",
+      "neerlandès",
+      "banc central",
+      "geopolítica",
+      "crisi",
+      "reserves",
+      "londres",
+      "zeist"
+    ],
+    "title": "Banc Central neerlandès trasllada 10.000 milions en or per inseguretat…",
+    "updated_at": "2026-09-02T15:05:54Z",
+    "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672",
+    "image_file": "ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672.jpg",
+    "image_url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/images/cover.jpg",
+    "img": "img/ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Internet no és aire, sinó infraestructura física propietat privada. Milions de quilòmetres de cables submarins transporten les dades, amb punts de desembarcament estratègics com a Ceuta.",
+    "tags": [
+      "internet",
+      "cables submarins",
+      "infraestructura",
+      "ceuta",
+      "fibra òptica",
+      "tecnologia"
+    ],
+    "title": "La realitat oculta dels cables submarins que connecten el món",
+    "updated_at": "2026-09-02T15:05:53Z",
+    "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca",
+    "image_file": "0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
+    "img": "img/0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Malgrat demostracions impressionants, experts alerten que la manipulació física, la flexibilitat i la seguretat encara són reptes majors per als robots.",
+    "tags": [
+      "robots",
+      "humanoides",
+      "tecnologia",
+      "feina",
+      "automatització",
+      "IA",
+      "futur"
+    ],
+    "title": "Els robots humanoides lluny de substituir els humans",
+    "updated_at": "2026-09-02T15:05:53Z",
+    "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "94e780db-0405-4e54-8581-1a69dad6aac1",
+    "image_file": "94e780db-0405-4e54-8581-1a69dad6aac1.svg",
+    "image_url": "https://openteams.com/wp-content/uploads/2026/05/Universal-image-for-the-blog-thumbnails.svg",
+    "img": "img/94e780db-0405-4e54-8581-1a69dad6aac1.svg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Anàlisi de la construcció de contenidors multietapa amb Pixi i UBI-micro per a una implementació més segura i eficient.",
+    "tags": [
+      "pixi",
+      "ubi-micro",
+      "contenidors",
+      "seguretat",
+      "desenvolupament",
+      "ai",
+      "openai",
+      "codi"
+    ],
+    "title": "Pixi a UBI-micro: construcció més segura i petita",
+    "updated_at": "2026-09-02T15:05:39Z",
+    "url": "https://openteams.com/intelligence-vs-cost"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:22Z",
+    "deep_status": "done",
+    "id": "7a02f424-e2df-4462-be59-5117c7210f2a",
+    "image_url": "https://www.science.org/cms/asset/f9542023-ba65-40fa-8ce4-84ab439595dc/_20260901_on_lz_detector.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El detector LZ ha registrat un sol esdeveniment de alta energia que podria ser matèria fosca, tot i que els experts adverteixen que és prematur per afirmar un descobriment.",
+    "tags": [
+      "matèria fosca",
+      "LZ",
+      "detector",
+      "partícula",
+      "xenó",
+      "WIMP",
+      "física",
+      "descobriment"
+    ],
+    "title": "El detector de matèria fosca LZ detecta una partícula inusual",
+    "updated_at": "2026-09-02T15:05:36Z",
+    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "done",
+    "id": "b708f94b-7ed4-40e0-817c-da0626b525e1",
+    "image_file": "b708f94b-7ed4-40e0-817c-da0626b525e1.png",
+    "image_url": "https://i0.wp.com/emsroute.com/wp-content/uploads/2026/03/passkeys-1.png?fit=1200%2C675&ssl=1",
+    "img": "img/b708f94b-7ed4-40e0-817c-da0626b525e1.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Microsoft Entra admet passkeys resistents a phishing, amb modes sincronitzats i lligats al dispositiu per millorar la seguretat i reduir l'atac.",
+    "tags": [
+      "entra",
+      "passkeys",
+      "seguretat",
+      "microsoft",
+      "fido2",
+      "autenticacio",
+      "webauthn",
+      "mfa"
+    ],
+    "title": "Guia completa de Passkeys a Microsoft Entra",
+    "updated_at": "2026-09-02T15:05:31Z",
+    "url": "https://emsroute.com/2026/03/19/passkeys-beginners-101"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:22Z",
+    "deep_status": "done",
+    "id": "4756f505-8f7f-49f7-8292-bdfc5384940e",
+    "image_file": "4756f505-8f7f-49f7-8292-bdfc5384940e.jpg",
+    "image_url": "https://aisle.com/opengraph-image-v3.jpg",
+    "img": "img/4756f505-8f7f-49f7-8292-bdfc5384940e.jpg",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "AISLE descobreix sis vulnerabilitats al curl després que OpenAI i Anthropic no en trobessin cap.",
+    "tags": [
+      "aisle",
+      "curl",
+      "ia",
+      "cves",
+      "seguretat",
+      "openai",
+      "anthropic",
+      "codi",
+      "linux"
+    ],
+    "title": "AISLE troba sis CVEs al curl quan IA avançada no n'ha detectat cap",
+    "updated_at": "2026-09-02T15:05:26Z",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:22Z",
+    "deep_status": "done",
+    "id": "8ce44630-e870-426d-b57f-0f696e9bcae2",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'algorisme de Bridson resol eficientment la distribució de punts amb distància mínima mínima, millorable amb tècniques de cons angulars.",
+    "tags": [
+      "matemàtiques",
+      "gràfics",
+      "algorismes",
+      "simulacions",
+      "geometria"
+    ],
+    "title": "L'algorisme Bridson per a la distribució Poisson",
+    "updated_at": "2026-09-02T15:05:19Z",
+    "url": "https://stripeacross.com/posts/poisson-disk-sampling"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:22Z",
+    "deep_status": "done",
+    "id": "f889f453-3cde-4dc6-bb3e-98ca58418e3c",
+    "image_file": "f889f453-3cde-4dc6-bb3e-98ca58418e3c.png",
+    "image_url": "https://trellner.com/og.png",
+    "img": "img/f889f453-3cde-4dc6-bb3e-98ca58418e3c.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Perplexity cita massiva i erròniament llocs generats per IA per respondre consultes.",
+    "tags": [
+      "ia",
+      "perplexity",
+      "contingut",
+      "web",
+      "recerca",
+      "automatitzat",
+      "enginy",
+      "font",
+      "qualitat",
+      "internet"
+    ],
+    "title": "Perplexity cita llocs fabricats per a IA",
+    "updated_at": "2026-09-02T15:05:12Z",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:22Z",
+    "deep_status": "done",
+    "id": "a617d5bc-2f87-4906-b7c5-7d36375b2457",
+    "link_type": "news",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "James Dyson llança la CameraJet, un raspall amb càmera i IA que detecta espais interdentals i neteja amb precisió.",
+    "tags": [
+      "dyson",
+      "tecnologia",
+      "salut",
+      "innovació",
+      "càmera",
+      "ia",
+      "higiene",
+      "dentista",
+      "parís",
+      "producte"
+    ],
+    "title": "Dyson presenta la CameraJet, raspall dental amb càmera i IA",
+    "updated_at": "2026-09-02T15:05:10Z",
+    "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T15:03:22Z",
     "deep_status": "done",
     "id": "7311f0ba-65e2-49c8-b722-89067cc8e1e4",
@@ -27,36 +559,6 @@
     "title": "Sortir de la Caverna: quan l'esforç no garanteix l'èxit",
     "updated_at": "2026-09-02T15:05:06Z",
     "url": "https://turtlespace.blog/p/exit-the-cave"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:22Z",
-    "deep_status": "processing",
-    "id": "4756f505-8f7f-49f7-8292-bdfc5384940e",
-    "image_file": "4756f505-8f7f-49f7-8292-bdfc5384940e.jpg",
-    "image_url": "https://aisle.com/opengraph-image-v3.jpg",
-    "img": "img/4756f505-8f7f-49f7-8292-bdfc5384940e.jpg",
-    "link_type": "blog",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "AISLE descobreix sis vulnerabilitats al curl després que OpenAI i Anthropic no en trobessin cap.",
-    "tags": [
-      "aisle",
-      "curl",
-      "ia",
-      "cves",
-      "seguretat",
-      "openai",
-      "anthropic",
-      "codi",
-      "linux"
-    ],
-    "title": "AISLE troba sis CVEs al curl quan IA avançada no n'ha detectat cap",
-    "updated_at": "2026-09-02T15:05:06Z",
-    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
   },
   {
     "code_stats": {
@@ -158,29 +660,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-02T15:03:22Z",
-    "deep_status": "processing",
-    "id": "8ce44630-e870-426d-b57f-0f696e9bcae2",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "L'algorisme de Bridson resol eficientment la distribució de punts amb distància mínima mínima, millorable amb tècniques de cons angulars.",
-    "tags": [
-      "matemàtiques",
-      "gràfics",
-      "algorismes",
-      "simulacions",
-      "geometria"
-    ],
-    "title": "L'algorisme Bridson per a la distribució Poisson",
-    "updated_at": "2026-09-02T15:04:57Z",
-    "url": "https://stripeacross.com/posts/poisson-disk-sampling"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:22Z",
     "deep_status": "done",
     "id": "e931a3a6-a727-45a2-844d-0f1aced3a7b0",
     "link_type": "article",
@@ -201,65 +680,6 @@
     "title": "GrapheneOS publica actualitzacions de seguretat",
     "updated_at": "2026-09-02T15:04:49Z",
     "url": "https://grapheneos.social/@grapheneos/117194007157499435"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:22Z",
-    "deep_status": "processing",
-    "id": "a617d5bc-2f87-4906-b7c5-7d36375b2457",
-    "link_type": "news",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "James Dyson llança la CameraJet, un raspall amb càmera i IA que detecta espais interdentals i neteja amb precisió.",
-    "tags": [
-      "dyson",
-      "tecnologia",
-      "salut",
-      "innovació",
-      "càmera",
-      "ia",
-      "higiene",
-      "dentista",
-      "parís",
-      "producte"
-    ],
-    "title": "Dyson presenta la CameraJet, raspall dental amb càmera i IA",
-    "updated_at": "2026-09-02T15:04:49Z",
-    "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:22Z",
-    "deep_status": "processing",
-    "id": "f889f453-3cde-4dc6-bb3e-98ca58418e3c",
-    "image_file": "f889f453-3cde-4dc6-bb3e-98ca58418e3c.png",
-    "image_url": "https://trellner.com/og.png",
-    "img": "img/f889f453-3cde-4dc6-bb3e-98ca58418e3c.png",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Perplexity cita massiva i erròniament llocs generats per IA per respondre consultes.",
-    "tags": [
-      "ia",
-      "perplexity",
-      "contingut",
-      "web",
-      "recerca",
-      "automatitzat",
-      "enginy",
-      "font",
-      "qualitat",
-      "internet"
-    ],
-    "title": "Perplexity cita llocs fabricats per a IA",
-    "updated_at": "2026-09-02T15:04:45Z",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations"
   },
   {
     "code_stats": null,
@@ -660,202 +1080,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "3c22a003-7381-4a54-aee8-c6028288422f",
-    "image_file": "3c22a003-7381-4a54-aee8-c6028288422f.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
-    "img": "img/3c22a003-7381-4a54-aee8-c6028288422f.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Rússia enfronta fracassos en el seu intent de replicar Starlink, amb satèl·lits que no aconsegueixen l'òrbita prevista i taxes d'error elevades.",
-    "tags": [
-      "rusia",
-      "starlink",
-      "satellites",
-      "tecnologia",
-      "militar",
-      "espai"
-    ],
-    "title": "El programa espacial rus Rassvet mostra greus fallades",
-    "updated_at": "2026-09-02T15:04:30Z",
-    "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a",
-    "image_file": "2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-    "img": "img/2544ce0a-b042-4bb9-93ed-ee26d3ef014a.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Un atacant va infectar xarxes mitjançant un segrest BGP aprofitant errors de seguretat de Softaculous i Hetzner per distribuir programari maliciós.",
-    "tags": [
-      "bgp",
-      "ciberseguretat",
-      "softaculous",
-      "hetzner",
-      "atac",
-      "malware",
-      "internet"
-    ],
-    "title": "Un error en cadena provoca un ciberatac via BGP",
-    "updated_at": "2026-09-02T15:04:30Z",
-    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "80e7b7d4-ab18-440a-8220-ef7e03f496bb",
-    "image_file": "80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
-    "img": "img/80e7b7d4-ab18-440a-8220-ef7e03f496bb.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "JLR llança el Range Rover Elèctric 2027, amb 542 cv, 536 km d'autonomia i preu base de 138.000 dòlars, arribant a 80.000 precomandes.",
-    "tags": [
-      "jlr",
-      "range rover",
-      "electric",
-      "ev",
-      "automoció",
-      "sostenibilitat",
-      "tecnologia",
-      "preu",
-      "autonomia",
-      "novetats"
-    ],
-    "title": "JLR presenta el Range Rover Elèctric 2027 amb 536 km d'autonomia",
-    "updated_at": "2026-09-02T15:04:30Z",
-    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "ce71e3dc-6193-4e36-8219-30590032b0e1",
-    "image_file": "ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
-    "img": "img/ce71e3dc-6193-4e36-8219-30590032b0e1.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Astrònoms identifiquen un nou objecte celeste anomenat 'estrella forat negre' i científics transformen plàstics en galetes comestibles mitjançant microorganismes.",
-    "tags": [
-      "ciència",
-      "astronomia",
-      "forat negre",
-      "plàstics",
-      "microbis",
-      "sostenibilitat",
-      "investigació"
-    ],
-    "title": "Descobreixen l'estrella forat negre i galetes menjar amb microbis",
-    "updated_at": "2026-09-02T15:04:30Z",
-    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "73ab618e-a1b9-44bf-8926-849336ccc45f",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Lucas Sifoni finalitza els seus articles exploratoris d'Elixir per rebutjar la delegació de la creativitat a la IA i recuperar la veu humana.",
-    "tags": [
-      "elixir",
-      "ia",
-      "escriptura",
-      "creativitat",
-      "programació",
-      "beams",
-      "open-source"
-    ],
-    "title": "Lucas Sifoni acaba la seva exploració d'Elixir per la IA",
-    "updated_at": "2026-09-02T15:04:26Z",
-    "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "a5412209-e100-4c69-872b-658e90632ce2",
-    "image_file": "a5412209-e100-4c69-872b-658e90632ce2.png",
-    "image_url": "https://code.mendhak.com/assets/images/blogprofile.png",
-    "img": "img/a5412209-e100-4c69-872b-658e90632ce2.png",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Les banderes de funcions codificades són més simples, segures i eviten la complexitat innecessària de gestió runtime.",
-    "tags": [
-      "feature flags",
-      "codi",
-      "arquitectura",
-      "seguretat",
-      "desenvolupament",
-      "optimització",
-      "tecnologia"
-    ],
-    "title": "Per què és millor codificar les banderes de funcions",
-    "updated_at": "2026-09-02T15:04:26Z",
-    "url": "https://code.mendhak.com/hardcode-feature-flags"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "d02fa3b3-9034-426c-9787-ccd82f57a0ff",
-    "image_file": "d02fa3b3-9034-426c-9787-ccd82f57a0ff.png",
-    "image_url": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png",
-    "img": "img/d02fa3b3-9034-426c-9787-ccd82f57a0ff.png",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Mistral permet als usuaris optar-se del ús de les seves dades per a entrenar models, amb procediments diferents segons la plataforma.",
-    "tags": [
-      "mistral",
-      "privadesa",
-      "opt-out",
-      "entrenament",
-      "dades",
-      "vibe",
-      "api",
-      "configuració"
-    ],
-    "title": "Com optar-se del ús de dades per a entrenar models de Mistral",
-    "updated_at": "2026-09-02T15:04:25Z",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
     "deep_status": "none",
     "id": "b7b37ae3-ec89-4a69-bca8-2b6b38bbe88e",
     "link_type": "other",
@@ -878,230 +1102,6 @@
     "title": "Eina per detectar contingut creat amb Claude",
     "updated_at": "2026-09-02T15:04:25Z",
     "url": "https://claude.com/check-content"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "85bc20f6-1c99-46c5-9215-2c86bdd9e82e",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "L'autor millora un alias per formatar JSON del portapapers amb jq, afegint gestió d'errors per evitar esborrar contingut no vàlid.",
-    "tags": [
-      "jq",
-      "json",
-      "terminal",
-      "linux",
-      "macos",
-      "cli",
-      "scripting",
-      "portapapers"
-    ],
-    "title": "Com formatar JSON del portapapers amb jq i maneig d'errors",
-    "updated_at": "2026-09-02T15:04:23Z",
-    "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "b7d54201-1977-422e-b9a7-d907bc9b9e99",
-    "image_file": "b7d54201-1977-422e-b9a7-d907bc9b9e99.jpg",
-    "image_url": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
-    "img": "img/b7d54201-1977-422e-b9a7-d907bc9b9e99.jpg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "La recerca revela que el cervell envellit no només oblida, sinó que barreja records diferents, creant connexions falses en lloc de recuperar-los amb precisió.",
-    "tags": [
-      "memòria",
-      "envelliment",
-      "neurociència",
-      "hipocamp",
-      "recerca",
-      "salut",
-      "cervell",
-      "estudi"
-    ],
-    "title": "El cervell envellit barreja records en lloc d'oblidar-los",
-    "updated_at": "2026-09-02T15:04:22Z",
-    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "d9007bf8-ed87-45d4-9557-6343cfbd5306",
-    "image_file": "d9007bf8-ed87-45d4-9557-6343cfbd5306.jpg",
-    "image_url": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-09/MG%209092.jpeg?h=947d8e2e",
-    "img": "img/d9007bf8-ed87-45d4-9557-6343cfbd5306.jpg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "El DNB trasllada or dels EUA i Canadà al Regne Unit i Holanda per millorar la liquiditat en cas de crisi.",
-    "tags": [
-      "or",
-      "neerlandès",
-      "banc central",
-      "geopolítica",
-      "crisi",
-      "reserves",
-      "londres",
-      "zeist"
-    ],
-    "title": "Banc Central neerlandès trasllada 10.000 milions en or per inseguretat…",
-    "updated_at": "2026-09-02T15:04:22Z",
-    "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca",
-    "image_file": "0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca.jpg",
-    "image_url": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
-    "img": "img/0c65e8c2-a6e5-4649-b2f1-08df3c8b67ca.jpg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Malgrat demostracions impressionants, experts alerten que la manipulació física, la flexibilitat i la seguretat encara són reptes majors per als robots.",
-    "tags": [
-      "robots",
-      "humanoides",
-      "tecnologia",
-      "feina",
-      "automatització",
-      "IA",
-      "futur"
-    ],
-    "title": "Els robots humanoides lluny de substituir els humans",
-    "updated_at": "2026-09-02T15:04:22Z",
-    "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672",
-    "image_file": "ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672.jpg",
-    "image_url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/images/cover.jpg",
-    "img": "img/ed7a2cfb-1317-4d9a-b2c1-f8f6dde6f672.jpg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Internet no és aire, sinó infraestructura física propietat privada. Milions de quilòmetres de cables submarins transporten les dades, amb punts de desembarcament estratègics com a Ceuta.",
-    "tags": [
-      "internet",
-      "cables submarins",
-      "infraestructura",
-      "ceuta",
-      "fibra òptica",
-      "tecnologia"
-    ],
-    "title": "La realitat oculta dels cables submarins que connecten el món",
-    "updated_at": "2026-09-02T15:04:20Z",
-    "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:22Z",
-    "deep_status": "pending",
-    "id": "7a02f424-e2df-4462-be59-5117c7210f2a",
-    "image_url": "https://www.science.org/cms/asset/f9542023-ba65-40fa-8ce4-84ab439595dc/_20260901_on_lz_detector.jpg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "El detector LZ ha registrat un sol esdeveniment de alta energia que podria ser matèria fosca, tot i que els experts adverteixen que és prematur per afirmar un descobriment.",
-    "tags": [
-      "matèria fosca",
-      "LZ",
-      "detector",
-      "partícula",
-      "xenó",
-      "WIMP",
-      "física",
-      "descobriment"
-    ],
-    "title": "El detector de matèria fosca LZ detecta una partícula inusual",
-    "updated_at": "2026-09-02T15:04:18Z",
-    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "94e780db-0405-4e54-8581-1a69dad6aac1",
-    "image_file": "94e780db-0405-4e54-8581-1a69dad6aac1.svg",
-    "image_url": "https://openteams.com/wp-content/uploads/2026/05/Universal-image-for-the-blog-thumbnails.svg",
-    "img": "img/94e780db-0405-4e54-8581-1a69dad6aac1.svg",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Anàlisi de la construcció de contenidors multietapa amb Pixi i UBI-micro per a una implementació més segura i eficient.",
-    "tags": [
-      "pixi",
-      "ubi-micro",
-      "contenidors",
-      "seguretat",
-      "desenvolupament",
-      "ai",
-      "openai",
-      "codi"
-    ],
-    "title": "Pixi a UBI-micro: construcció més segura i petita",
-    "updated_at": "2026-09-02T15:04:18Z",
-    "url": "https://openteams.com/intelligence-vs-cost"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "pending",
-    "id": "b708f94b-7ed4-40e0-817c-da0626b525e1",
-    "image_file": "b708f94b-7ed4-40e0-817c-da0626b525e1.png",
-    "image_url": "https://i0.wp.com/emsroute.com/wp-content/uploads/2026/03/passkeys-1.png?fit=1200%2C675&ssl=1",
-    "img": "img/b708f94b-7ed4-40e0-817c-da0626b525e1.png",
-    "link_type": "article",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Microsoft Entra admet passkeys resistents a phishing, amb modes sincronitzats i lligats al dispositiu per millorar la seguretat i reduir l'atac.",
-    "tags": [
-      "entra",
-      "passkeys",
-      "seguretat",
-      "microsoft",
-      "fido2",
-      "autenticacio",
-      "webauthn",
-      "mfa"
-    ],
-    "title": "Guia completa de Passkeys a Microsoft Entra",
-    "updated_at": "2026-09-02T15:04:17Z",
-    "url": "https://emsroute.com/2026/03/19/passkeys-beginners-101"
   },
   {
     "code_stats": null,
