@@ -1,6 +1,90 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T20:08:21Z",
+    "deep_status": "done",
+    "id": "e5a31f71-4c7a-4a07-8be4-ed3940ac23d7",
+    "image_file": "e5a31f71-4c7a-4a07-8be4-ed3940ac23d7.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg",
+    "img": "img/e5a31f71-4c7a-4a07-8be4-ed3940ac23d7.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Protect Democracy demanda la revelació de les normes secretes que usa l'administració Trump per revisar models d'IA, denunciant opacitat i possibles conflictes d'interès.",
+    "tags": [
+      "trump",
+      "ia",
+      "transparència",
+      "protecció democràcia",
+      "seguretat",
+      "llei",
+      "govern",
+      "tecnologia"
+    ],
+    "title": "Demana transparència sobre les normes secretes d'IA de Trump",
+    "updated_at": "2026-09-02T20:08:49Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:08:21Z",
+    "deep_status": "done",
+    "id": "24cb2390-5d54-4243-8b56-6a8ec03e6bce",
+    "image_file": "24cb2390-5d54-4243-8b56-6a8ec03e6bce.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+    "img": "img/24cb2390-5d54-4243-8b56-6a8ec03e6bce.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Google llança Gemini 3.8 Flash, un model optimitzat per a programació i ciberseguretat, amb preus reduïts i millors resultats en benchmarks tècnics.",
+    "tags": [
+      "google",
+      "gemini",
+      "ia",
+      "flash",
+      "ciberseguretat",
+      "programació",
+      "tecnologia",
+      "llançament"
+    ],
+    "title": "Google presenta Gemini 3.8 Flash, el seu tercer model Flash en sis setmanes",
+    "updated_at": "2026-09-02T20:08:46Z",
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:08:21Z",
+    "deep_status": "done",
+    "id": "3738bfe0-79b7-44e0-b3bb-7afac7b4cfcf",
+    "image_file": "3738bfe0-79b7-44e0-b3bb-7afac7b4cfcf.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-1152x648.jpg",
+    "img": "img/3738bfe0-79b7-44e0-b3bb-7afac7b4cfcf.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "NASA opta per un trajes més senzill amb Axiom Space per accelerar l'Artemis IV i arribar a la Lluna el 2028.",
+    "tags": [
+      "nasa",
+      "artemis",
+      "axiom",
+      "lluna",
+      "espai"
+    ],
+    "title": "NASA simplifica els trajes lunars per arribar el 2028",
+    "updated_at": "2026-09-02T20:08:45Z",
+    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T19:07:22Z",
     "deep_status": "done",
     "id": "2cc444c0-866d-49d9-bb8e-daaee78a568c",
