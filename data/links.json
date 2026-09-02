@@ -1,6 +1,204 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T23:08:22Z",
+    "deep_status": "done",
+    "id": "5d7ff0d2-ba8c-40b4-adfb-95e46a0441d0",
+    "image_file": "5d7ff0d2-ba8c-40b4-adfb-95e46a0441d0.jpg",
+    "image_url": "https://media.wired.com/photos/6a98485377625f71bd332e04/191:100/w_1280,c_limit/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg",
+    "img": "img/5d7ff0d2-ba8c-40b4-adfb-95e46a0441d0.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Amazon augmenta els preus dels seus dispositius fins a 100 dòlars, una estratègia per fer millors les properes ofertes de Black Friday.",
+    "tags": [
+      "amazon",
+      "preus",
+      "dispositius",
+      "kindle",
+      "echo",
+      "fire tv",
+      "estratègia",
+      "black friday"
+    ],
+    "title": "Amazon puja preus dels seus dispositius abans del Black Friday",
+    "updated_at": "2026-09-02T23:09:01Z",
+    "url": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:22Z",
+    "deep_status": "done",
+    "id": "998a8fdc-780f-4633-8d44-7ec5df2ddfdd",
+    "image_file": "998a8fdc-780f-4633-8d44-7ec5df2ddfdd.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-1152x648-1788376254.jpg",
+    "img": "img/998a8fdc-780f-4633-8d44-7ec5df2ddfdd.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La FCC proposa una targeta per valorar operadors segons la seva eficàcia en bloqueig de spam i reclamacions.",
+    "tags": [
+      "fcc",
+      "trucades spam",
+      "protecció consumidors",
+      "telecomunicacions",
+      "regulació",
+      "spam",
+      "scorecard",
+      "telefonía"
+    ],
+    "title": "La FCC crearà una targeta de puntuació per avaluar la lluita contra les…",
+    "updated_at": "2026-09-02T23:08:50Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:22Z",
+    "deep_status": "done",
+    "id": "cf7bdb7b-5d79-4cbc-b756-b408a210da9b",
+    "image_file": "cf7bdb7b-5d79-4cbc-b756-b408a210da9b.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg",
+    "img": "img/cf7bdb7b-5d79-4cbc-b756-b408a210da9b.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El Congrés aprova una mesura que bloqueja l'OMB de controlar políticament les subvencions fins al 11 de desembre.",
+    "tags": [
+      "congresa",
+      "omb",
+      "subvencions",
+      "ciència",
+      "pressupost",
+      "política",
+      "eeuu",
+      "finançament"
+    ],
+    "title": "El Congrés atura el control polític sobre les subvencions científiques",
+    "updated_at": "2026-09-02T23:08:46Z",
+    "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:22Z",
+    "deep_status": "done",
+    "id": "e09e2508-591c-44d4-8cdd-0b06d3b4a4e3",
+    "image_file": "e09e2508-591c-44d4-8cdd-0b06d3b4a4e3.png",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
+    "img": "img/e09e2508-591c-44d4-8cdd-0b06d3b4a4e3.png",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El FBI investiga una filtració que exposa 153 milions de llicències a la dark web mitjançant un servei de tercers.",
+    "tags": [
+      "fbi",
+      "brecha",
+      "darkweb",
+      "identidad",
+      "seguridad",
+      "krebs",
+      "nexus",
+      "ids"
+    ],
+    "title": "El FBI investiga una filtració massiva de llicències de conduir",
+    "updated_at": "2026-09-02T23:08:45Z",
+    "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:21Z",
+    "deep_status": "done",
+    "id": "6afe4860-b243-49a2-b4af-34a923d96301",
+    "image_file": "6afe4860-b243-49a2-b4af-34a923d96301.jpg",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/33c3/live/d18d2af0-a709-11f1-aed2-8d6da8d75094.jpg",
+    "img": "img/6afe4860-b243-49a2-b4af-34a923d96301.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Uber retira's immediatament de Nigèria i Uganda per reestructuració global, deixant només quatre països africans amb servei actiu.",
+    "tags": [
+      "uber",
+      "nigèria",
+      "uganda",
+      "africa",
+      "transport",
+      "negocis"
+    ],
+    "title": "Uber tanca operacions a Nigèria i Uganda",
+    "updated_at": "2026-09-02T23:08:44Z",
+    "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:21Z",
+    "deep_status": "none",
+    "id": "947f3da1-d8ee-4cea-8d63-95322c9ebe28",
+    "image_file": "947f3da1-d8ee-4cea-8d63-95322c9ebe28.png",
+    "image_url": "https://theyfell.com/og.png",
+    "img": "img/947f3da1-d8ee-4cea-8d63-95322c9ebe28.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'eina analitza repos i genera obituàris crítics per millorar projectes abandonats o mal comunicats.",
+    "tags": [
+      "open source",
+      "autòpsia",
+      "crítica",
+      "programari",
+      "desenvolupament",
+      "feedback"
+    ],
+    "title": "Theyfell: l'autòpsia brutal dels teus projectes open source",
+    "updated_at": "2026-09-02T23:08:25Z",
+    "url": "https://theyfell.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T23:08:21Z",
+    "deep_status": "none",
+    "id": "176db626-6d18-4f22-b5e8-130d7478bb0c",
+    "image_file": "176db626-6d18-4f22-b5e8-130d7478bb0c.png",
+    "image_url": "https://storage.googleapis.com/ronanrx-public-assets/img/og-homepage-card.png",
+    "img": "img/176db626-6d18-4f22-b5e8-130d7478bb0c.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "RonanRx personalitza tractaments GLP-1 amb dosificació mèdica i suport farmacèutic per millorar la tolerància i reduir costos.",
+    "tags": [
+      "ronanrx",
+      "glp-1",
+      "medicina",
+      "personalitzacio",
+      "farmacia",
+      "salut",
+      "tractament"
+    ],
+    "title": "RonanRx ofereix GLP-1 personalitzats revisats per metges",
+    "updated_at": "2026-09-02T23:08:25Z",
+    "url": "https://ronanrx.com"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T21:38:21Z",
     "deep_status": "done",
     "id": "e86242cf-fc68-43a7-839b-6547d0c9665a",
