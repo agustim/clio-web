@@ -1,6 +1,156 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T19:07:22Z",
+    "deep_status": "done",
+    "id": "2cc444c0-866d-49d9-bb8e-daaee78a568c",
+    "image_file": "2cc444c0-866d-49d9-bb8e-daaee78a568c.jpg",
+    "image_url": "https://media.wired.com/photos/6a982e027b4ef34fe0b39044/191:100/w_1280,c_limit/GettyImages-2287296637.jpg",
+    "img": "img/2cc444c0-866d-49d9-bb8e-daaee78a568c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "ICE licitarà 5 milions per una base de dades nacional de votants, una mesura criticada per amenaçar la privadesa i minar la confiança electoral.",
+    "tags": [
+      "ice",
+      "votants",
+      "base de dades",
+      "dhs",
+      "frau electoral",
+      "privadesa",
+      "trump",
+      "eleccions"
+    ],
+    "title": "ICE crea base de dades nacional de votants per 5 milions",
+    "updated_at": "2026-09-02T19:07:48Z",
+    "url": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T19:07:22Z",
+    "deep_status": "done",
+    "id": "2b0a4cf0-bae1-42b9-abb2-fcac8999d444",
+    "image_file": "2b0a4cf0-bae1-42b9-abb2-fcac8999d444.jpg",
+    "image_url": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg",
+    "img": "img/2b0a4cf0-bae1-42b9-abb2-fcac8999d444.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El govern dels EUA defensa que l'entrenament d'IA és ús legítim, amenaçant la prosperitat econòmica si es restringeix el desenvolupament tecnològic.",
+    "tags": [
+      "openai",
+      "drets d'autor",
+      "ia",
+      "new york times",
+      "fair use",
+      "trump",
+      "microsoft",
+      "demanda legal"
+    ],
+    "title": "L'administració Trump dona suport a OpenAI en la demanda per drets d'autor",
+    "updated_at": "2026-09-02T19:07:46Z",
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T19:07:22Z",
+    "deep_status": "done",
+    "id": "a5eea4ce-7632-4903-8846-fb1c4c2f0e43",
+    "image_file": "a5eea4ce-7632-4903-8846-fb1c4c2f0e43.jpg",
+    "image_url": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+    "img": "img/a5eea4ce-7632-4903-8846-fb1c4c2f0e43.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "La startup Mostik permet que models d'IA es comuniquin mitjançant valors matemàtics, millorant l'eficiència i reduint costos sense generar text.",
+    "tags": [
+      "ia",
+      "matemàtiques",
+      "mostik",
+      "models",
+      "comunicació",
+      "eficiència",
+      "open-weight",
+      "intel·ligència artificial"
+    ],
+    "title": "Matemàtics russos creen ponts entre models d'IA sense llenguatge",
+    "updated_at": "2026-09-02T19:07:44Z",
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T19:07:21Z",
+    "deep_status": "done",
+    "id": "ca298845-051e-48e5-8b42-ed2043c48dcb",
+    "image_file": "ca298845-051e-48e5-8b42-ed2043c48dcb.webp",
+    "image_url": "https://marius.blog/wp-content/uploads/2026/09/001-firefox-155-safe-paws.webp",
+    "img": "img/ca298845-051e-48e5-8b42-ed2043c48dcb.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El commutador d'IA de Firefox desactiva funcions generatives però manté telemetria i publicitat, malgrat el CEO el defensi com a clau.",
+    "tags": [
+      "firefox",
+      "mozilla",
+      "ia",
+      "telemetria",
+      "privadesa",
+      "anàlisi",
+      "software",
+      "web"
+    ],
+    "title": "Firefox: el botó d'IA apagat, però la telemetria activa",
+    "updated_at": "2026-09-02T19:07:42Z",
+    "url": "https://marius.blog/firefox-155-ai-kill-switch-retest"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "none",
+    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T19:07:22Z",
+    "url": "https://lwn.net/articles/1090585"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T19:07:21Z",
+    "deep_status": "none",
+    "id": "0902d54a-7947-4d75-a8a9-d07bb4d052b6",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T19:07:22Z",
+    "url": "https://textlog.cc/post/895"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T18:06:26Z",
     "deep_status": "done",
     "id": "47d766ef-4b6c-4dd3-a87b-a0176d6d6ad4",
@@ -168,23 +318,6 @@
     "title": "Tangle: editor visual per a pipelines de ML de Shopify",
     "updated_at": "2026-09-02T18:06:32Z",
     "url": "https://tangleml.com"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "none",
-    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-02T18:06:30Z",
-    "url": "https://lwn.net/articles/1090585"
   },
   {
     "code_stats": null,
