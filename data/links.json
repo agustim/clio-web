@@ -1,6 +1,269 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "done",
+    "id": "75a8e60c-ef8c-40c5-af2d-93fd57656b73",
+    "image_file": "75a8e60c-ef8c-40c5-af2d-93fd57656b73.webp",
+    "image_url": "https://staticdelivery.nexusmods.com/images/News/15597_tile_1788277791.png",
+    "img": "img/75a8e60c-ef8c-40c5-af2d-93fd57656b73.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "SteamDB s'ha unit a Nexus Mods per ampliar l'ecosistema de gestió de mods i contingut comunitari.",
+    "tags": [
+      "steamdb",
+      "nexus mods",
+      "videojocs",
+      "mods",
+      "comunitat"
+    ],
+    "title": "SteamDB s'uneix a Nexus Mods",
+    "updated_at": "2026-09-02T17:05:49Z",
+    "url": "https://www.nexusmods.com/news/15597"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "done",
+    "id": "3fc69c0c-9481-43fb-8030-03966f9c10c1",
+    "image_file": "3fc69c0c-9481-43fb-8030-03966f9c10c1.png",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+    "img": "img/3fc69c0c-9481-43fb-8030-03966f9c10c1.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Google llança Gemini 3.8 Flash, millor per raonar i codificar, i la versió Cyber per a ciberseguretat.",
+    "tags": [
+      "google",
+      "gemini",
+      "ia",
+      "flash",
+      "ciberseguretat",
+      "codificació",
+      "deepmind"
+    ],
+    "title": "Google presenta Gemini 3.8 Flash i Cyber",
+    "updated_at": "2026-09-02T17:05:49Z",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T17:05:23Z",
+    "deep_status": "done",
+    "id": "17e02f19-fc47-41f3-882f-b4fa72ceece2",
+    "image_file": "17e02f19-fc47-41f3-882f-b4fa72ceece2.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+    "img": "img/17e02f19-fc47-41f3-882f-b4fa72ceece2.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un tribunal nord-americà decideix que Google no ha de vendre la seva plataforma d'anuncis, tot i haver estat condemnada per pràctiques antitrust il·legals.",
+    "tags": [
+      "google",
+      "antitrust",
+      "doj",
+      "anuncis",
+      "justícia",
+      "tecnologia",
+      "eeuu"
+    ],
+    "title": "Els EUA decideixen que Google no ha de vendre el seu intercanvi d'anuncis",
+    "updated_at": "2026-09-02T17:05:49Z",
+    "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case"
+  },
+  {
+    "code_stats": {
+      "bytes": 7025421,
+      "files": 358,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 74,
+          "loc": 5264
+        },
+        "JavaScript": {
+          "files": 3,
+          "loc": 166
+        },
+        "Markdown": {
+          "files": 34,
+          "loc": 5510
+        },
+        "Python": {
+          "files": 3,
+          "loc": 2652
+        },
+        "Rust": {
+          "files": 239,
+          "loc": 128997
+        },
+        "Shell": {
+          "files": 5,
+          "loc": 952
+        }
+      },
+      "loc": 143541,
+      "top_languages": [
+        {
+          "files": 239,
+          "lang": "Rust",
+          "loc": 128997
+        },
+        {
+          "files": 34,
+          "lang": "Markdown",
+          "loc": 5510
+        },
+        {
+          "files": 74,
+          "lang": "Config",
+          "loc": 5264
+        },
+        {
+          "files": 3,
+          "lang": "Python",
+          "loc": 2652
+        },
+        {
+          "files": 5,
+          "lang": "Shell",
+          "loc": 952
+        }
+      ]
+    },
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "done",
+    "id": "c6c48342-1b95-4b25-954e-dca0d5d04e5b",
+    "image_file": "c6c48342-1b95-4b25-954e-dca0d5d04e5b.png",
+    "image_url": "https://opengraph.githubassets.com/b7fa5fca03335e1ae5ae37e8530680e5e469c05c4f8813c9ec5afa092ee17925/mezmo/aura",
+    "img": "img/c6c48342-1b95-4b25-954e-dca0d5d04e5b.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "AURA és una plataforma SRE amb IA per a producció que automatitza la investigació d'incidències i gestiona el cicle de vida dels agents.",
+    "tags": [
+      "aura",
+      "sre",
+      "ai",
+      "mezmo",
+      "observability",
+      "devops",
+      "agents",
+      "production"
+    ],
+    "title": "AURA, plataforma SRE amb IA per a producció",
+    "updated_at": "2026-09-02T17:05:40Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "none",
+    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T17:05:26Z",
+    "url": "https://lwn.net/articles/1090585"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "none",
+    "id": "3ff0bc94-1ac1-473d-9461-bb998981e8c9",
+    "image_file": "3ff0bc94-1ac1-473d-9461-bb998981e8c9.png",
+    "image_url": "https://dbushell.com/assets/images/ogimage.png",
+    "img": "img/3ff0bc94-1ac1-473d-9461-bb998981e8c9.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un professional rebutja la IA per danys ambientals, violacions de drets d'autor i riscos de seguretat, mantenint estàndards ètics.",
+    "tags": [
+      "ia",
+      "etica",
+      "drets d'autor",
+      "seguretat",
+      "privadesa",
+      "medi ambient",
+      "politica",
+      "professional"
+    ],
+    "title": "Política contra la IA: ètica, drets d'autor i seguretat",
+    "updated_at": "2026-09-02T17:05:26Z",
+    "url": "https://dbushell.com/ai"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "none",
+    "id": "264aadeb-a1d5-49e7-bda4-e1b081d7deac",
+    "image_file": "264aadeb-a1d5-49e7-bda4-e1b081d7deac.png",
+    "image_url": "https://frontierharness.org/og.png?v=12",
+    "img": "img/264aadeb-a1d5-49e7-bda4-e1b081d7deac.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'anàlisi compara 9 entorns d'execució amb el model Kimi K3, identificant Codex com a líder de qualitat i Exo com el més econòmic.",
+    "tags": [
+      "harness",
+      "benchmark",
+      "ai",
+      "codex",
+      "exo",
+      "kimi",
+      "runta",
+      "software",
+      "cost",
+      "quality"
+    ],
+    "title": "Benchmark de 9 harnesses d'IA per a enginyeria de software",
+    "updated_at": "2026-09-02T17:05:25Z",
+    "url": "https://frontierharness.org"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T17:05:22Z",
+    "deep_status": "none",
+    "id": "dc65ec84-b0cd-4f1b-889a-b4ef34d7c591",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T17:05:23Z",
+    "url": "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T16:04:24Z",
     "deep_status": "done",
     "id": "ab5a226c-0b2d-418b-bac8-e6d9d51b1948",
@@ -198,23 +461,6 @@
     "title": "Google presenta Gemini 3.8 Flash per a enginyeria de programari",
     "updated_at": "2026-09-02T16:04:27Z",
     "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "none",
-    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-02T16:04:24Z",
-    "url": "https://lwn.net/articles/1090585"
   },
   {
     "code_stats": null,
