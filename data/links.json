@@ -1,6 +1,222 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T18:06:26Z",
+    "deep_status": "done",
+    "id": "47d766ef-4b6c-4dd3-a87b-a0176d6d6ad4",
+    "image_file": "47d766ef-4b6c-4dd3-a87b-a0176d6d6ad4.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!DQ2X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9898ad82-63a0-4c72-b65e-5f84f5af0c6f_1918x1013.png",
+    "img": "img/47d766ef-4b6c-4dd3-a87b-a0176d6d6ad4.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Assajos clínics a la Xina exploren la quimio-genètica per tractar epilepsia, Parkinson i dolor mitjançant el control remot de neurones.",
+    "tags": [
+      "quimio-genètica",
+      "dreadds",
+      "neurociència",
+      "assajos clínics",
+      "xina",
+      "epilèpsia",
+      "parkinson",
+      "dolor"
+    ],
+    "title": "La quimio-genètica entra en assajos clínics humans a la Xina",
+    "updated_at": "2026-09-02T18:06:58Z",
+    "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:25Z",
+    "deep_status": "done",
+    "id": "d413ecfc-5398-4da0-b836-976aaec8413d",
+    "image_file": "d413ecfc-5398-4da0-b836-976aaec8413d.jpg",
+    "image_url": "https://ploum.net/files/brokenphone.jpg",
+    "img": "img/d413ecfc-5398-4da0-b836-976aaec8413d.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'autor rebutja els smartphones per evitar apps innecessàries, exigint confirmacions formals i qüestionant la dependència tecnològica.",
+    "tags": [
+      "smartphone",
+      "aplicacions",
+      "tecnologia",
+      "privadesa",
+      "consum",
+      "resistència",
+      "digital",
+      "apps"
+    ],
+    "title": "Sense smartphone: la trampa de les aplicacions obligatòries",
+    "updated_at": "2026-09-02T18:06:55Z",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:25Z",
+    "deep_status": "done",
+    "id": "9a34c229-c3a1-46c4-aa04-f9c8198ef0e4",
+    "image_file": "9a34c229-c3a1-46c4-aa04-f9c8198ef0e4.png",
+    "image_url": "https://successfulsoftware.net/wp-content/uploads/2026/09/successful-software-6a97f2939137f.png",
+    "img": "img/9a34c229-c3a1-46c4-aa04-f9c8198ef0e4.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'experiment amb anuncis de ChatGPT revela una taxa de conversió del 0,46%, causada per tràfic mal dirigit i de baixa qualitat, no per bots.",
+    "tags": [
+      "chatgpt",
+      "publicitat",
+      "conversió",
+      "tràfic",
+      "anàlisi",
+      "marketing",
+      "openai"
+    ],
+    "title": "XatsGPT: Anuncis amb conversió nul·la i tràfic mal dirigit",
+    "updated_at": "2026-09-02T18:06:53Z",
+    "url": "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:26Z",
+    "deep_status": "done",
+    "id": "20381a30-31a4-42b9-8f51-8963a31287b1",
+    "image_file": "20381a30-31a4-42b9-8f51-8963a31287b1.jpg",
+    "image_url": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/658f47551b3278421783bf6c/1705422713197/Grade+Crossings+Thumbnail.jpg?format=1500w",
+    "img": "img/20381a30-31a4-42b9-8f51-8963a31287b1.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Els trens necessiten infraestructura de seguretat per compensar la seva llarga distància de frenada en els passos de nivell.",
+    "tags": [
+      "ferrocarril",
+      "seguretat",
+      "enginyeria",
+      "trains",
+      "crossings",
+      "transport",
+      "infraestructura",
+      "senyalització"
+    ],
+    "title": "Com funcionen els passos de nivell ferroviaris",
+    "updated_at": "2026-09-02T18:06:53Z",
+    "url": "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:26Z",
+    "deep_status": "none",
+    "id": "b2ca463c-1098-4e22-8d56-5b51113e8bc0",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Guia per maximitzar el Xiaomi 15 Ultra sense root, congelant Android 16, eliminant bloatware i desactivant telemetria.",
+    "tags": [
+      "xiaomi",
+      "android",
+      "privacitat",
+      "bloatware",
+      "telemetria",
+      "hyperos",
+      "smartphone",
+      "guia"
+    ],
+    "title": "Guia per desbloquejar el Xiaomi 15 Ultra sense root",
+    "updated_at": "2026-09-02T18:06:33Z",
+    "url": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:26Z",
+    "deep_status": "none",
+    "id": "fd74369b-448d-45e8-89e3-850f3dab382f",
+    "image_file": "fd74369b-448d-45e8-89e3-850f3dab382f.png",
+    "image_url": "https://tangleml.com/img/icon.png",
+    "img": "img/fd74369b-448d-45e8-89e3-850f3dab382f.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Shopify ML llança Tangle, un editor visual per crear fluxos de treball de machine learning sense codi, amb caching i suport per a mòduls reutilitzables.",
+    "tags": [
+      "shopify",
+      "machine learning",
+      "editor visual",
+      "open source",
+      "ml pipeline",
+      "tangle",
+      "desenvolupament",
+      "codi"
+    ],
+    "title": "Tangle: editor visual per a pipelines de ML de Shopify",
+    "updated_at": "2026-09-02T18:06:32Z",
+    "url": "https://tangleml.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "none",
+    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T18:06:30Z",
+    "url": "https://lwn.net/articles/1090585"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T18:06:25Z",
+    "deep_status": "none",
+    "id": "ee4ace0c-537c-41d9-a5d8-a5a990947693",
+    "image_file": "ee4ace0c-537c-41d9-a5d8-a5a990947693.png",
+    "image_url": "https://media.invisioncic.com/r125076/monthly_2026_05/image.png.9c0b584dd2d07c26fecac9aa76490a33.png",
+    "img": "img/ee4ace0c-537c-41d9-a5d8-a5a990947693.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "La nova versió alpha actualitza .NET 11, afegeix modes de mosaic i prova suport per a WINE/Linux.",
+    "tags": [
+      "paint.net",
+      "alpha",
+      "linux",
+      "wine",
+      "dotnet",
+      "mosaic",
+      "software",
+      "actualització"
+    ],
+    "title": "Paint.NET 5.2 Alpha 9739 amb suport experimental per a Linux",
+    "updated_at": "2026-09-02T18:06:29Z",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T17:05:22Z",
     "deep_status": "done",
     "id": "75a8e60c-ef8c-40c5-af2d-93fd57656b73",
@@ -167,23 +383,6 @@
     "title": "AURA, plataforma SRE amb IA per a producció",
     "updated_at": "2026-09-02T17:05:40Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "none",
-    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-02T17:05:26Z",
-    "url": "https://lwn.net/articles/1090585"
   },
   {
     "code_stats": null,
