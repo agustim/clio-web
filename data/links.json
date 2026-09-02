@@ -3,6 +3,178 @@
     "code_stats": null,
     "created_at": "2026-09-02T15:03:24Z",
     "deep_status": "done",
+    "id": "870cd794-b5e5-4773-8aba-554cb11ffd30",
+    "image_file": "870cd794-b5e5-4773-8aba-554cb11ffd30.png",
+    "image_url": "https://www.metadata.cat/imatges/og/5339.png",
+    "img": "img/870cd794-b5e5-4773-8aba-554cb11ffd30.png",
+    "link_type": "article",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La Comissió Europea classifica ChatGPT com a motor de cerca de gran dimensió, sotmetent-lo a un règim reforçat de supervisió i obligacions de transparència.",
+    "tags": [
+      "chatgpt",
+      "comissió europea",
+      "dsa",
+      "regulació digital",
+      "intel·ligència artificial",
+      "supervisió",
+      "transparència",
+      "riscos sistèmics"
+    ],
+    "title": "Brussel·les sotmet ChatGPT a les regles digitals més estrictes de la UE",
+    "updated_at": "2026-09-02T15:08:01Z",
+    "url": "https://www.metadata.cat/noticia/6491/brusselles-sotmet-chatgpt-regles-digitals-estrictes-ue"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3",
+    "image_file": "9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3.png",
+    "image_url": "https://www.metadata.cat/imatges/og/5340.png",
+    "img": "img/9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3.png",
+    "link_type": "article",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "John Ternus assumeix la direcció d'Apple per liderar la integració de la IA, mentre Tim Cook passa a presidir el consell d'administració.",
+    "tags": [
+      "apple",
+      "john ternus",
+      "tim cook",
+      "ia",
+      "ceo",
+      "tecnologia",
+      "canvi de direcció"
+    ],
+    "title": "John Ternus substitueix Tim Cook com a CEO d'Apple",
+    "updated_at": "2026-09-02T15:07:59Z",
+    "url": "https://www.metadata.cat/noticia/6492/cook-ternus-apple-canvia-direccio-era-ia"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "7433b830-f019-4d90-94ce-c9b5bb737f7b",
+    "image_file": "7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
+    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466",
+    "img": "img/7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Setembre ofereix conjuncions de Venus i Espiga, la Lluna amb les Plèiades, l'apogeu dels Èpsilon Perseids i el màxim brillantor de Venus.",
+    "tags": [
+      "astronomia",
+      "setembre 2026",
+      "venus",
+      "pleiades",
+      "lluna",
+      "lluentor de meteors",
+      "equinocci",
+      "observació"
+    ],
+    "title": "Espectacles astronòmics destacats de setembre de 2026",
+    "updated_at": "2026-09-02T15:07:51Z",
+    "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "6834ccfa-d7ba-4426-a755-dc7df81b96c4",
+    "image_file": "6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
+    "image_url": "https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/191:100/w_1280,c_limit/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg",
+    "img": "img/6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Amazon ofereix descomptes destacats en auriculars Sony, power banks EcoFlow i altres dispositius tecnològics durant la seva venda del Labor Day 2026.",
+    "tags": [
+      "amazon",
+      "labor day",
+      "ofertes",
+      "tecnologia",
+      "sony",
+      "ecoflow",
+      "2026",
+      "descomptes"
+    ],
+    "title": "Les millors ofertes del Labor Day a Amazon 2026",
+    "updated_at": "2026-09-02T15:07:47Z",
+    "url": "https://www.wired.com/story/amazon-labor-day-deals-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "0860b4ae-3103-4dac-9df2-6fe3174ebad2",
+    "image_file": "0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
+    "image_url": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg",
+    "img": "img/0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI anunciarà el llançament d'Astra, el primer model amb capacitats cibernètiques crítiques, restringint-ne l'accés a socis seleccionats per garantir la seguretat.",
+    "tags": [
+      "openai",
+      "astra",
+      "ia",
+      "ciberseguretat",
+      "vulnerabilitats",
+      "seguretat",
+      "tecnologia"
+    ],
+    "title": "OpenAI llançarà Astra, el seu primer model amb capacitats cibernètiques…",
+    "updated_at": "2026-09-02T15:07:42Z",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
+    "id": "fea10b35-b468-4684-91b1-b07f04779166",
+    "image_file": "fea10b35-b468-4684-91b1-b07f04779166.jpg",
+    "image_url": "https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+    "img": "img/fea10b35-b468-4684-91b1-b07f04779166.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El primer Range Rover 100% elèctric ja és aquí amb 542 CV, 372 milles d'autonomia i càrrega ràpida, tot i un preu elevat i un mercat luxós escèptic.",
+    "tags": [
+      "range rover",
+      "electric",
+      "jlr",
+      "ev",
+      "suv",
+      "luxury",
+      "automotive",
+      "technology"
+    ],
+    "title": "Arriba el Range Rover Elèctric amb 542 CV i càrrega ràpida",
+    "updated_at": "2026-09-02T15:07:41Z",
+    "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:24Z",
+    "deep_status": "done",
     "id": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d",
     "image_file": "dbe9119d-7b56-49e0-8bbf-ba1645712b7d.jpg",
     "image_url": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/191:100/w_1280,c_limit/GettyImages-2259673201.jpg",
@@ -26,35 +198,6 @@
     "title": "Tesla presenta el Cybercab a Austin",
     "updated_at": "2026-09-02T15:07:28Z",
     "url": "https://www.wired.com/story/here-comes-the-tesla-cybercab"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "processing",
-    "id": "7433b830-f019-4d90-94ce-c9b5bb737f7b",
-    "image_file": "7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
-    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466",
-    "img": "img/7433b830-f019-4d90-94ce-c9b5bb737f7b.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Setembre ofereix conjuncions de Venus i Espiga, la Lluna amb les Plèiades, l'apogeu dels Èpsilon Perseids i el màxim brillantor de Venus.",
-    "tags": [
-      "astronomia",
-      "setembre 2026",
-      "venus",
-      "pleiades",
-      "lluna",
-      "lluentor de meteors",
-      "equinocci",
-      "observació"
-    ],
-    "title": "Espectacles astronòmics destacats de setembre de 2026",
-    "updated_at": "2026-09-02T15:07:28Z",
-    "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026"
   },
   {
     "code_stats": null,
@@ -88,35 +231,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "processing",
-    "id": "6834ccfa-d7ba-4426-a755-dc7df81b96c4",
-    "image_file": "6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
-    "image_url": "https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/191:100/w_1280,c_limit/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg",
-    "img": "img/6834ccfa-d7ba-4426-a755-dc7df81b96c4.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Amazon ofereix descomptes destacats en auriculars Sony, power banks EcoFlow i altres dispositius tecnològics durant la seva venda del Labor Day 2026.",
-    "tags": [
-      "amazon",
-      "labor day",
-      "ofertes",
-      "tecnologia",
-      "sony",
-      "ecoflow",
-      "2026",
-      "descomptes"
-    ],
-    "title": "Les millors ofertes del Labor Day a Amazon 2026",
-    "updated_at": "2026-09-02T15:07:24Z",
-    "url": "https://www.wired.com/story/amazon-labor-day-deals-2026"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
     "deep_status": "done",
     "id": "9021743f-3154-4391-90cd-6b51151a5e51",
     "image_file": "9021743f-3154-4391-90cd-6b51151a5e51.jpg",
@@ -145,34 +259,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "processing",
-    "id": "0860b4ae-3103-4dac-9df2-6fe3174ebad2",
-    "image_file": "0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
-    "image_url": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg",
-    "img": "img/0860b4ae-3103-4dac-9df2-6fe3174ebad2.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "OpenAI anunciarà el llançament d'Astra, el primer model amb capacitats cibernètiques crítiques, restringint-ne l'accés a socis seleccionats per garantir la seguretat.",
-    "tags": [
-      "openai",
-      "astra",
-      "ia",
-      "ciberseguretat",
-      "vulnerabilitats",
-      "seguretat",
-      "tecnologia"
-    ],
-    "title": "OpenAI llançarà Astra, el seu primer model amb capacitats cibernètiques…",
-    "updated_at": "2026-09-02T15:07:21Z",
-    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
     "deep_status": "done",
     "id": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e",
     "image_file": "b4c792c7-e319-4b2f-ba4b-116c1d3f0f7e.jpg",
@@ -196,35 +282,6 @@
     "title": "Audiòfons Sony amb 50% de descompte",
     "updated_at": "2026-09-02T15:07:16Z",
     "url": "https://www.wired.com/story/sony-headphone-deals-september-2026"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "processing",
-    "id": "fea10b35-b468-4684-91b1-b07f04779166",
-    "image_file": "fea10b35-b468-4684-91b1-b07f04779166.jpg",
-    "image_url": "https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
-    "img": "img/fea10b35-b468-4684-91b1-b07f04779166.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "El primer Range Rover 100% elèctric ja és aquí amb 542 CV, 372 milles d'autonomia i càrrega ràpida, tot i un preu elevat i un mercat luxós escèptic.",
-    "tags": [
-      "range rover",
-      "electric",
-      "jlr",
-      "ev",
-      "suv",
-      "luxury",
-      "automotive",
-      "technology"
-    ],
-    "title": "Arriba el Range Rover Elèctric amb 542 CV i càrrega ràpida",
-    "updated_at": "2026-09-02T15:07:16Z",
-    "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
   },
   {
     "code_stats": null,
@@ -1019,63 +1076,6 @@
     "title": "GrapheneOS publica actualitzacions de seguretat",
     "updated_at": "2026-09-02T15:04:49Z",
     "url": "https://grapheneos.social/@grapheneos/117194007157499435"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3",
-    "image_file": "9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3.png",
-    "image_url": "https://www.metadata.cat/imatges/og/5340.png",
-    "img": "img/9f8cb6f5-5a1a-4d4f-b923-e6bcaa8489c3.png",
-    "link_type": "article",
-    "reporters": [
-      "metadata"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "John Ternus assumeix la direcció d'Apple per liderar la integració de la IA, mentre Tim Cook passa a presidir el consell d'administració.",
-    "tags": [
-      "apple",
-      "john ternus",
-      "tim cook",
-      "ia",
-      "ceo",
-      "tecnologia",
-      "canvi de direcció"
-    ],
-    "title": "John Ternus substitueix Tim Cook com a CEO d'Apple",
-    "updated_at": "2026-09-02T15:04:45Z",
-    "url": "https://www.metadata.cat/noticia/6492/cook-ternus-apple-canvia-direccio-era-ia"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:24Z",
-    "deep_status": "pending",
-    "id": "870cd794-b5e5-4773-8aba-554cb11ffd30",
-    "image_file": "870cd794-b5e5-4773-8aba-554cb11ffd30.png",
-    "image_url": "https://www.metadata.cat/imatges/og/5339.png",
-    "img": "img/870cd794-b5e5-4773-8aba-554cb11ffd30.png",
-    "link_type": "article",
-    "reporters": [
-      "metadata"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "La Comissió Europea classifica ChatGPT com a motor de cerca de gran dimensió, sotmetent-lo a un règim reforçat de supervisió i obligacions de transparència.",
-    "tags": [
-      "chatgpt",
-      "comissió europea",
-      "dsa",
-      "regulació digital",
-      "intel·ligència artificial",
-      "supervisió",
-      "transparència",
-      "riscos sistèmics"
-    ],
-    "title": "Brussel·les sotmet ChatGPT a les regles digitals més estrictes de la UE",
-    "updated_at": "2026-09-02T15:04:45Z",
-    "url": "https://www.metadata.cat/noticia/6491/brusselles-sotmet-chatgpt-regles-digitals-estrictes-ue"
   },
   {
     "code_stats": null,
