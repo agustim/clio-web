@@ -1,6 +1,223 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T16:04:24Z",
+    "deep_status": "done",
+    "id": "ab5a226c-0b2d-418b-bac8-e6d9d51b1948",
+    "image_file": "ab5a226c-0b2d-418b-bac8-e6d9d51b1948.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/locust-laser-1152x648.jpg",
+    "img": "img/ab5a226c-0b2d-418b-bac8-e6d9d51b1948.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'exèrcit dels EUA ha abatut tres drons sospitosos amb un làser de 20 quilowatts a la frontera amb Mèxic, en una operació contra el tràfic de drogues.",
+    "tags": [
+      "militar",
+      "drons",
+      "làser",
+      "eeuu",
+      "frontera",
+      "defensa",
+      "tecnologia",
+      "mèxic"
+    ],
+    "title": "L'exèrcit dels EUA elimina tres drons amb làser de 20 kW a la frontera",
+    "updated_at": "2026-09-02T16:05:12Z",
+    "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:24Z",
+    "deep_status": "done",
+    "id": "6d639113-e128-479b-8069-5b24db026611",
+    "image_file": "6d639113-e128-479b-8069-5b24db026611.jpg",
+    "image_url": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/191:100/w_1280,c_limit/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg",
+    "img": "img/6d639113-e128-479b-8069-5b24db026611.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un candidat simula una entrevista amb un bot per rebutjar-ne l'ús, revelant la buidor del procés automatitzat.",
+    "tags": [
+      "ia",
+      "recrutament",
+      "bots",
+      "entrevistes",
+      "automatització",
+      "mercat laboral",
+      "tecnologia",
+      "eficiència"
+    ],
+    "title": "Entrevistes d'IA: dos bots parlant entre ells",
+    "updated_at": "2026-09-02T16:05:06Z",
+    "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:23Z",
+    "deep_status": "done",
+    "id": "51a84240-3398-4fac-95d6-3adfbd81d145",
+    "image_file": "51a84240-3398-4fac-95d6-3adfbd81d145.png",
+    "image_url": "https://hausresearch.com/og.png",
+    "img": "img/51a84240-3398-4fac-95d6-3adfbd81d145.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un estudi revela que el 34,7% de les cites de Perplexity no suporten les dades numèriques que afirmen, sovint per enllaços bloquejats o contingut buit.",
+    "tags": [
+      "perplexity",
+      "ia",
+      "hallucinations",
+      "verificacio",
+      "reliabilitat",
+      "recerca",
+      "sonar"
+    ],
+    "title": "Un terç de les cites de Perplexity no contenen les xifres que afirmen",
+    "updated_at": "2026-09-02T16:04:56Z",
+    "url": "https://hausresearch.com/reports/perplexity-citation-audit"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:24Z",
+    "deep_status": "done",
+    "id": "61ff9baa-7ba7-4c7a-9fad-aac76b31a9ea",
+    "image_file": "61ff9baa-7ba7-4c7a-9fad-aac76b31a9ea.png",
+    "image_url": "https://iaroslavelistratov.github.io/assets/social-cards/b200-attention-diagrams-video-capstone-hybrid.png",
+    "img": "img/61ff9baa-7ba7-4c7a-9fad-aac76b31a9ea.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un guia visual amb 60 diagrames explica com optimitzar un kernel d'atenció B200 en CUDA fins al 94,4% del rendiment de FlashAttention-4.",
+    "tags": [
+      "cuda",
+      "b200",
+      "flashattention",
+      "gpu",
+      "deep learning",
+      "optimization",
+      "machine learning",
+      "tutorial"
+    ],
+    "title": "Construcció d'un kernel d'atenció B200 des de zero fins al 94,4% de…",
+    "updated_at": "2026-09-02T16:04:56Z",
+    "url": "https://iaroslavelistratov.github.io/b200-attention"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:24Z",
+    "deep_status": "done",
+    "id": "89ce65bb-bfa7-41ff-9128-84c6c7dbc760",
+    "image_file": "89ce65bb-bfa7-41ff-9128-84c6c7dbc760.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090126a-lg-1152x648.jpg",
+    "img": "img/89ce65bb-bfa7-41ff-9128-84c6c7dbc760.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Toyohiro Akiyama, el primer periodista a informar des de l'espai, ha mort als 84 anys després d'una única missió a la Mir el 1990.",
+    "tags": [
+      "toyohiro akiyama",
+      "espai",
+      "japó",
+      "periodisme",
+      "mir",
+      "soyuz",
+      "cosmonauta",
+      "mort"
+    ],
+    "title": "Mort de Toyohiro Akiyama, primer periodista japonès a l'espai",
+    "updated_at": "2026-09-02T16:04:55Z",
+    "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:23Z",
+    "deep_status": "done",
+    "id": "feda8a68-d645-4ae9-b478-4e44e9504a32",
+    "image_file": "feda8a68-d645-4ae9-b478-4e44e9504a32.png",
+    "image_url": "https://ma.ttias.be/content/sportmotoren-engine-animation/og-image.png",
+    "img": "img/feda8a68-d645-4ae9-b478-4e44e9504a32.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un motor a 9000 RPM gira 150 cops per segon, més ràpid que el refresc de la pantalla, cosa que fa impossible capturar-lo sense desaccelerar la visualització.",
+    "tags": [
+      "tecnologia",
+      "automobilisme",
+      "animació",
+      "enginyeria",
+      "velocitat",
+      "pantalla"
+    ],
+    "title": "El motor a 9000 RPM gira més ràpid que el refresc de la pantalla",
+    "updated_at": "2026-09-02T16:04:45Z",
+    "url": "https://ma.ttias.be/9000-rpm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T16:04:23Z",
+    "deep_status": "none",
+    "id": "72dbd19f-7687-439f-a9cb-90862ff29830",
+    "image_file": "72dbd19f-7687-439f-a9cb-90862ff29830.webp",
+    "image_url": "https://lh3.googleusercontent.com/3LmvDVwFoemhJExm-WrA00dHQJB27CHrOxEDg4GM8PuSD_CpLHbbrFMdVdVXRrC3nbRDOM5Hvtvokj088n7J0p7bWgyxh1rpOY-yvAmuWLA-VsFotA=w1200-h630-n-nu-rw",
+    "img": "img/72dbd19f-7687-439f-a9cb-90862ff29830.webp",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Gemini 3.8 Flash millora l'enginyeria de programari i fluxos de coneixement amb una finestra de context de 1M de tokens.",
+    "tags": [
+      "gemini",
+      "google",
+      "deepmind",
+      "ia",
+      "llm",
+      "flash",
+      "software",
+      "model"
+    ],
+    "title": "Google presenta Gemini 3.8 Flash per a enginyeria de programari",
+    "updated_at": "2026-09-02T16:04:27Z",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T15:03:23Z",
+    "deep_status": "none",
+    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-02T16:04:24Z",
+    "url": "https://lwn.net/articles/1090585"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T15:03:24Z",
     "deep_status": "done",
     "id": "870cd794-b5e5-4773-8aba-554cb11ffd30",
@@ -1102,23 +1319,6 @@
     "title": "Eina per detectar contingut creat amb Claude",
     "updated_at": "2026-09-02T15:04:25Z",
     "url": "https://claude.com/check-content"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-02T15:03:23Z",
-    "deep_status": "none",
-    "id": "1a531c1e-7a86-4000-81d7-d36cfdaa49be",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-02T15:04:14Z",
-    "url": "https://lwn.net/articles/1090585"
   },
   {
     "code_stats": null,
