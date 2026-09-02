@@ -1,6 +1,427 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-02T20:37:22Z",
+    "deep_status": "done",
+    "id": "ba2beb14-0c1d-4048-ba63-87b9fa240625",
+    "image_file": "ba2beb14-0c1d-4048-ba63-87b9fa240625.png",
+    "image_url": "https://media.tweedegolf.nl/images/rustvsc.png",
+    "img": "img/ba2beb14-0c1d-4048-ba63-87b9fa240625.png",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'article compara Embassy/Rust i FreeRTOS/C en un STM32F446, analitzant latència, mida del programa, ús de RAM i facilitat de programació.",
+    "tags": [
+      "rust",
+      "async",
+      "rtos",
+      "embassy",
+      "freertos",
+      "stm32",
+      "embedded",
+      "comparativa"
+    ],
+    "title": "Rust async vs RTOS: comparativa tècnica a STM32F446",
+    "updated_at": "2026-09-02T20:38:24Z",
+    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:22Z",
+    "deep_status": "done",
+    "id": "0a7dbe97-793d-48ab-a7b0-0dfe11dfec08",
+    "image_file": "0a7dbe97-793d-48ab-a7b0-0dfe11dfec08.jpg",
+    "image_url": "https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-facebookJumbo.jpg",
+    "img": "img/0a7dbe97-793d-48ab-a7b0-0dfe11dfec08.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un tribunal federal obliga Google a modificar pràctiques antimonopoli sense imposar la desintegració del seu negoci de tecnologia publicitària.",
+    "tags": [
+      "google",
+      "antitrust",
+      "publicitat",
+      "justicia",
+      "monopoli",
+      "tecnologia",
+      "judici"
+    ],
+    "title": "Un jutge ordena canvis a Google però no la desintegració del seu negoci de…",
+    "updated_at": "2026-09-02T20:38:17Z",
+    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "9d9c158b-cc29-4bdf-a8f2-f360a0738f6a",
+    "image_file": "9d9c158b-cc29-4bdf-a8f2-f360a0738f6a.jpg",
+    "image_url": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
+    "img": "img/9d9c158b-cc29-4bdf-a8f2-f360a0738f6a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un defecte mínim va causar una explosió a l'A380 de Qantas, però els pilots van aterrar sense ferir els 469 a bord.",
+    "tags": [
+      "qantas",
+      "a380",
+      "aviació",
+      "seguretat",
+      "incident",
+      "enginyeria",
+      "pilots",
+      "singapur"
+    ],
+    "title": "Qantas 32: La història de l'incident de l'A380",
+    "updated_at": "2026-09-02T20:38:11Z",
+    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "d30d14ac-9add-45f1-a61c-73d630ad44ae",
+    "image_file": "d30d14ac-9add-45f1-a61c-73d630ad44ae.webp",
+    "image_url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=954058993611225&version=1788350660",
+    "img": "img/d30d14ac-9add-45f1-a61c-73d630ad44ae.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Meta presenta Muse Spark 1.3, un model amb millor rendiment en tasques d'agència i codi, més eficient i amb major capacitat de col·laboració.",
+    "tags": [
+      "meta",
+      "muse spark",
+      "ia",
+      "codi",
+      "agència",
+      "tecnologia",
+      "innovació"
+    ],
+    "title": "Meta llança Muse Spark 1.3 per a tasques d'agència i codi",
+    "updated_at": "2026-09-02T20:38:06Z",
+    "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "765f4275-6046-4c24-a386-e7c928ad18be",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'autor critica la saturació d'IA i bots que fan la xarra inusable, adoptant un consum digital més selectiu i tranquil.",
+    "tags": [
+      "ia",
+      "internet",
+      "continguts",
+      "bots",
+      "rss",
+      "xarxes socials",
+      "tecnologia"
+    ],
+    "title": "La crisi d'usabilitat d'Internet per la IA",
+    "updated_at": "2026-09-02T20:38:04Z",
+    "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "beb35c1b-7853-4f2b-b3bd-4495ef8c1655",
+    "image_file": "beb35c1b-7853-4f2b-b3bd-4495ef8c1655.png",
+    "image_url": "https://nooshu.com/og-images/blog-2026-03-09-using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form.png",
+    "img": "img/beb35c1b-7853-4f2b-b3bd-4495ef8c1655.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un desenvolupador implementa un formulari de contacte per a llocs estàtics utilitzant Cloudflare Workers i reCAPTCHA v3 per evitar spam i enviar correus electrònics.",
+    "tags": [
+      "cloudflare",
+      "recaptcha",
+      "eleventy",
+      "static site",
+      "spam",
+      "web development",
+      "serverless",
+      "email"
+    ],
+    "title": "Formulari de contacte segur amb Cloudflare Workers i reCAPTCHA v3",
+    "updated_at": "2026-09-02T20:37:54Z",
+    "url": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "18230ae7-16de-4b75-8f64-5cbab4cfbcec",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Ser un NPC no és renunciar, sinó viure la pròpia vida sense importar l'entorn, una filosofia d'alliberament de l'ego.",
+    "tags": [
+      "npc",
+      "filosofia",
+      "estoïcisme",
+      "vida",
+      "autonomia",
+      "mentalitat",
+      "jocs",
+      "benestar"
+    ],
+    "title": "La vida NPC: alliberament de l'ego i estoïcisme modern",
+    "updated_at": "2026-09-02T20:37:51Z",
+    "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life"
+  },
+  {
+    "code_stats": {
+      "bytes": 6241104,
+      "files": 160,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 48,
+          "loc": 39332
+        },
+        "HTML": {
+          "files": 1,
+          "loc": 53
+        },
+        "JavaScript": {
+          "files": 21,
+          "loc": 1424
+        },
+        "Markdown": {
+          "files": 32,
+          "loc": 3119
+        },
+        "Python": {
+          "files": 8,
+          "loc": 4719
+        },
+        "TypeScript": {
+          "files": 50,
+          "loc": 6920
+        }
+      },
+      "loc": 55567,
+      "top_languages": [
+        {
+          "files": 48,
+          "lang": "Config",
+          "loc": 39332
+        },
+        {
+          "files": 50,
+          "lang": "TypeScript",
+          "loc": 6920
+        },
+        {
+          "files": 8,
+          "lang": "Python",
+          "loc": 4719
+        },
+        {
+          "files": 32,
+          "lang": "Markdown",
+          "loc": 3119
+        },
+        {
+          "files": 21,
+          "lang": "JavaScript",
+          "loc": 1424
+        }
+      ]
+    },
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "58fdd3fe-3b85-4ee2-a3b0-7f573d276525",
+    "image_file": "58fdd3fe-3b85-4ee2-a3b0-7f573d276525.png",
+    "image_url": "https://opengraph.githubassets.com/b6b28eecf2d2c44eb2e35bdef32463e71dd0f829f0839021ad44e1de21c35132/PhiloLabs/fable51-worlds",
+    "img": "img/58fdd3fe-3b85-4ee2-a3b0-7f573d276525.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Agents autònoms d'IA generen reconstruccions 3D de San Francisco amb Three.js, utilitzant dades obertes per crear entorns navegables sense motors de joc propietaris.",
+    "tags": [
+      "ia",
+      "three.js",
+      "san francisco",
+      "openstreetmap",
+      "reconstrucció 3d",
+      "codi obert",
+      "agents autònoms"
+    ],
+    "title": "Agents d'IA recreen San Francisco amb Three.js",
+    "updated_at": "2026-09-02T20:37:45Z",
+    "url": "https://github.com/philolabs/fable51-worlds"
+  },
+  {
+    "code_stats": {
+      "bytes": 3555706,
+      "files": 328,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 33,
+          "loc": 7779
+        },
+        "JavaScript": {
+          "files": 61,
+          "loc": 20206
+        },
+        "Markdown": {
+          "files": 40,
+          "loc": 3038
+        },
+        "Python": {
+          "files": 44,
+          "loc": 15326
+        },
+        "Shell": {
+          "files": 20,
+          "loc": 200
+        },
+        "TypeScript": {
+          "files": 130,
+          "loc": 38327
+        }
+      },
+      "loc": 84876,
+      "top_languages": [
+        {
+          "files": 130,
+          "lang": "TypeScript",
+          "loc": 38327
+        },
+        {
+          "files": 61,
+          "lang": "JavaScript",
+          "loc": 20206
+        },
+        {
+          "files": 44,
+          "lang": "Python",
+          "loc": 15326
+        },
+        {
+          "files": 33,
+          "lang": "Config",
+          "loc": 7779
+        },
+        {
+          "files": 40,
+          "lang": "Markdown",
+          "loc": 3038
+        }
+      ]
+    },
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "done",
+    "id": "4418f7f0-2459-4877-a810-3402b061bc33",
+    "image_file": "4418f7f0-2459-4877-a810-3402b061bc33.png",
+    "image_url": "https://opengraph.githubassets.com/b2a76fbc3acb28bf1306e4cb4f8bba51e7836316d5cc900d1513172b94de8c38/zvec-ai/zvec-grep",
+    "img": "img/4418f7f0-2459-4877-a810-3402b061bc33.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "zg uneix ripgrep, BM25 i cerca vectorial en una interfície local per a humans i agents d'IA.",
+    "tags": [
+      "zg",
+      "zvec-grep",
+      "cerca",
+      "ia",
+      "agents",
+      "opencode",
+      "ripgrep",
+      "bm25"
+    ],
+    "title": "zg: cerca local unificada per a humans i agents d'IA",
+    "updated_at": "2026-09-02T20:37:42Z",
+    "url": "https://github.com/zvec-ai/zvec-grep"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "none",
+    "id": "3f7f0dcf-052c-4da1-ad29-5d73ba114ee0",
+    "image_file": "3f7f0dcf-052c-4da1-ad29-5d73ba114ee0.png",
+    "image_url": "https://scontent.fbcn16-1.fna.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=035RilvDqSsQ7kNvwElnlXe&_nc_oc=AdpNMrjK95wZxlok9XiZS4r53N1pOx4cRoUTlDYjbI_Ln_ugp1q6ZsFpwcG3SjebLYY&_nc_zt=14&_nc_ht=scontent.fbcn16-1.fna&_nc_gid=qrF4eVd5qq5ZHtAaOi4odQ&_nc_ss=7f289&oh=00_AQKeEWdz59iu5trq4osCCctHzC72tiU7uWUWoDcig0jM_w&oe=6A9E5E91",
+    "img": "img/3f7f0dcf-052c-4da1-ad29-5d73ba114ee0.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Meta presenta Muse Spark 1.3, una eina per generar vídeos a partir de text i imatges, ampliant les capacitats del seu model de IA multimodal.",
+    "tags": [
+      "meta",
+      "ia",
+      "muse spark",
+      "vídeo",
+      "tecnologia",
+      "generació contingut",
+      "multimodal"
+    ],
+    "title": "Meta llança Muse Spark 1.3 per a la generació de vídeo",
+    "updated_at": "2026-09-02T20:37:28Z",
+    "url": "https://developer.meta.com/ai/models/muse-spark"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-02T20:37:21Z",
+    "deep_status": "none",
+    "id": "f0f41007-c0fb-4260-8853-9607ef4fc4d3",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els agents d'IA mantenen sistemes inmanejables sense avisar, ja que no pateixen les limitacions cognitives humanes que tradicionalment disparaven la reflexió de refactoritzar.",
+    "tags": [
+      "ia",
+      "refactoritzacio",
+      "codi",
+      "enginyeria",
+      "manteniment",
+      "desenvolupament",
+      "software",
+      "agents"
+    ],
+    "title": "La IA amaga la necessitat de refactoritzar el codi",
+    "updated_at": "2026-09-02T20:37:24Z",
+    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T20:08:21Z",
     "deep_status": "done",
     "id": "e5a31f71-4c7a-4a07-8be4-ed3940ac23d7",
