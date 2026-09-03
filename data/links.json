@@ -1,6 +1,60 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T03:08:23Z",
+    "deep_status": "done",
+    "id": "27b13cae-b75f-42ef-8337-b269fdf8c1d3",
+    "image_file": "27b13cae-b75f-42ef-8337-b269fdf8c1d3.jpg",
+    "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/c8d748b0-a751-49fb-ae95-f07b9295de23/thumbnail/1200x630g7/e69780cb8ec5c4b664d66f0389e29196/gettyimages-2290492820.jpg",
+    "img": "img/27b13cae-b75f-42ef-8337-b269fdf8c1d3.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un denunciante alerta de riscos greus en el nou sistema de vots per correu del USPS, vinculat a una ordre executiva de Trump.",
+    "tags": [
+      "usps",
+      "vots",
+      "whistleblower",
+      "trump",
+      "eleccions",
+      "mail-ballots",
+      "denuncia"
+    ],
+    "title": "Denuncien problemes \"catastròfics\" del nou sistema de vots per correu del USPS",
+    "updated_at": "2026-09-03T03:08:44Z",
+    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T03:08:23Z",
+    "deep_status": "none",
+    "id": "946b5f2a-3ba0-4dac-80aa-632183c658ed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "RonanRX integra telemedicina, fabricació i distribució de pèptids i GLP-1 per oferir tractaments personalitzats i més assequibles.",
+    "tags": [
+      "ronanrx",
+      "glp1",
+      "peptids",
+      "salut",
+      "tecnologia",
+      "farmacia",
+      "yc",
+      "innovacio"
+    ],
+    "title": "RonanRX, startup de YC, unifica fabricació i prescripció de GLP-1",
+    "updated_at": "2026-09-03T03:08:27Z",
+    "url": "https://news.ycombinator.com/item?id=49543530"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T02:09:21Z",
     "deep_status": "done",
     "id": "439e38aa-403c-449d-b900-4ae1d90433e5",
