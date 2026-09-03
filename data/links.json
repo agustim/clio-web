@@ -1,6 +1,65 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T09:11:21Z",
+    "deep_status": "processing",
+    "id": "163a996b-948e-41e5-80e4-24542c77b2e5",
+    "image_file": "163a996b-948e-41e5-80e4-24542c77b2e5.jpg",
+    "image_url": "https://www.metadata.cat/imatges/targes/articles/6493.jpg",
+    "img": "img/163a996b-948e-41e5-80e4-24542c77b2e5.jpg",
+    "link_type": "article",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La transformació digital fracassa per resistència humana, no per falta d'eines. El canvi requereix gestió del canvi, comunicació i lideratge per adaptar les persones.",
+    "tags": [
+      "tecnologia",
+      "transformació digital",
+      "gestió del canvi",
+      "lideratge",
+      "humans",
+      "empreses",
+      "canvi cultural"
+    ],
+    "title": "Els reptes de la tecnologia són humans, no tècnics",
+    "updated_at": "2026-09-03T09:11:24Z",
+    "url": "https://www.metadata.cat/opinio/6493/els-problemes-mes-dificils-de-la-tecnologia-no-son-tecnologics"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T09:10:21Z",
+    "deep_status": "done",
+    "id": "b77bcf8f-48e4-4669-9d4e-ead4d69eba38",
+    "image_file": "b77bcf8f-48e4-4669-9d4e-ead4d69eba38.jpg",
+    "image_url": "https://media.wired.com/photos/6a9723660bab9c8d3b250211/191:100/w_1280,c_limit/Dating-Arms-Race-Culture.jpg",
+    "img": "img/b77bcf8f-48e4-4669-9d4e-ead4d69eba38.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les plataformes de cites implementen verificació facial obligatòria per frenar estafes amb IA, tot generant preocupacions sobre privadesa i seguretat.",
+    "tags": [
+      "dating apps",
+      "reconeixement facial",
+      "estafes",
+      "ia",
+      "privadesa",
+      "seguretat",
+      "verificació",
+      "tinder",
+      "biometria",
+      "deepfakes"
+    ],
+    "title": "Les apps de cites exigeixen reconeixement facial per combatre estafes",
+    "updated_at": "2026-09-03T09:10:42Z",
+    "url": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T08:39:21Z",
     "deep_status": "done",
     "id": "eafb72a4-b90a-4acd-98e1-e212f4c5855c",
