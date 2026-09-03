@@ -1,6 +1,262 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T19:12:22Z",
+    "deep_status": "done",
+    "id": "4b375180-3180-4c83-ada0-c86265f48f48",
+    "image_file": "4b375180-3180-4c83-ada0-c86265f48f48.jpg",
+    "image_url": "https://media.wired.com/photos/6a99abf8b2409d6188eae980/191:100/w_1280,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg",
+    "img": "img/4b375180-3180-4c83-ada0-c86265f48f48.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "OpenAI llança GPT-6 Astra, un model que afirma dominar la navegació web i la programació, mentre el cofundador Greg Brockman declara que vivim ja l'era de la IA general.",
+    "tags": [
+      "openai",
+      "gpt-6-astra",
+      "ia",
+      "agi",
+      "tecnologia",
+      "intel·ligència-artificial",
+      "greg-brockman"
+    ],
+    "title": "OpenAI presenta GPT-6 Astra i anuncia l'era de la IA general",
+    "updated_at": "2026-09-03T19:12:53Z",
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "done",
+    "id": "81a505f8-8860-4dd5-a39c-7143244df589",
+    "image_file": "81a505f8-8860-4dd5-a39c-7143244df589.jpg",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&w=1920&h=1080",
+    "img": "img/81a505f8-8860-4dd5-a39c-7143244df589.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Hugging Face va contactar Nvidia abans de l'adquisició de 12.900 milions de dòlars per necessitar més recursos i escala en el punt d'inflexió de la IA oberta.",
+    "tags": [
+      "hugging face",
+      "nvidia",
+      "ia",
+      "adquisicio",
+      "codi obert",
+      "jensen huang",
+      "clement delangue"
+    ],
+    "title": "Hugging Face va abordar Nvidia setmanes abans de la compra per 12.900 milions",
+    "updated_at": "2026-09-03T19:12:50Z",
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "done",
+    "id": "207120dd-539d-40fb-bb14-712d3937b2d7",
+    "image_file": "207120dd-539d-40fb-bb14-712d3937b2d7.jpg",
+    "image_url": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fd5ffa75-92b9-459b-9465-2f2d37321e0d/thumbnails/5fdb6aa7-15a3-4f1c-8980-ce664981a95c.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&w=1200",
+    "img": "img/207120dd-539d-40fb-bb14-712d3937b2d7.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Diques artificials a Califòrnia han multiplicat per sis la supervivència dels salmons coho, recuperant hàbitats perduts.",
+    "tags": [
+      "california",
+      "castors",
+      "salmons",
+      "diques",
+      "ecologia",
+      "conservació",
+      "aigua",
+      "fauna"
+    ],
+    "title": "Diques artificials de castors salven salmons a Califòrnia",
+    "updated_at": "2026-09-03T19:12:48Z",
+    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "done",
+    "id": "46f640c7-9ea8-4dc1-9bcb-8ea62cdd1a6a",
+    "image_file": "46f640c7-9ea8-4dc1-9bcb-8ea62cdd1a6a.jpg",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&w=1920&h=1080",
+    "img": "img/46f640c7-9ea8-4dc1-9bcb-8ea62cdd1a6a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI desplega GPT-6 Astra, el primer model amb risc cibernètic crític, amb restriccions d'accés i reforç de seguretat després d'incidents previs.",
+    "tags": [
+      "openai",
+      "astra",
+      "gpt-6",
+      "ciberseguretat",
+      "ia",
+      "empreses",
+      "seguretat",
+      "llançament"
+    ],
+    "title": "OpenAI llança el model Astra amb noves mesures de ciberseguretat",
+    "updated_at": "2026-09-03T19:12:47Z",
+    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "done",
+    "id": "e630b024-eaaa-45b8-86be-71806831b664",
+    "image_file": "e630b024-eaaa-45b8-86be-71806831b664.jpg",
+    "image_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+    "img": "img/e630b024-eaaa-45b8-86be-71806831b664.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "MenysWrong és una comunitat en línia dedicada a la discussió racional i la presa de decisions basada en l'evidència.",
+    "tags": [
+      "menyswrong",
+      "comunitat",
+      "rationalitat",
+      "decisions",
+      "evidència",
+      "en línia"
+    ],
+    "title": "MenysWrong",
+    "updated_at": "2026-09-03T19:12:33Z",
+    "url": "https://www.lesswrong.com/posts/plisnsfir8y5ahkmp/how-concerned-should-we-be-about-astra-s-recurrent"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T19:12:28Z",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "34877964-ec63-43c1-86e3-738ed73398ca",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Mireye ofereix dades, enriquiment i eines deterministes per a agents d'IA, resolent al·lucinacions en consultes geogràfiques amb precisió.",
+    "tags": [
+      "mireye",
+      "ia",
+      "agents",
+      "infraestructura",
+      "geoespacial",
+      "yc",
+      "hackernews",
+      "dades"
+    ],
+    "title": "Mireye, YC S26: Infraestructura per a agents d'IA del món físic",
+    "updated_at": "2026-09-03T19:12:27Z",
+    "url": "https://news.ycombinator.com/item?id=49552616"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "1f603174-b9fd-4184-9b68-f06eda967f59",
+    "image_file": "1f603174-b9fd-4184-9b68-f06eda967f59.png",
+    "image_url": "https://cerebras-inference.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DModel%2BCatalog%26description%3DBrowse%2Ball%2Bmodels%2Bavailable%2Bon%2BCerebras%2Bpublic%2Bendpoints.%26theme%3D0d969de00f05bf51f42e2bb2&w=1200&q=100",
+    "img": "img/1f603174-b9fd-4184-9b68-f06eda967f59.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Cerebras ofereix accés públic als seus models, detallant l'arquitectura, els pruned REAP i conceptes com quantització i poda.",
+    "tags": [
+      "cerebras",
+      "models",
+      "inference",
+      "reap",
+      "quantitzacio",
+      "poda",
+      "compressio",
+      "arquitectura"
+    ],
+    "title": "Models Cerebras: arquitectura, REAP i tècniques de compressió",
+    "updated_at": "2026-09-03T19:12:24Z",
+    "url": "https://inference-docs.cerebras.ai/models/overview"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T19:12:23Z",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "30accda3-456c-4289-a1ec-e1eece7ed9eb",
+    "image_file": "30accda3-456c-4289-a1ec-e1eece7ed9eb.png",
+    "image_url": "https://claude.ai/images/claude_ogimage.png",
+    "img": "img/30accda3-456c-4289-a1ec-e1eece7ed9eb.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Claude Artifact és una funcionalitat que permet visualitzar i interactuar amb codi generat per la IA.",
+    "tags": [
+      "claude",
+      "artifact",
+      "ia",
+      "codi",
+      "interacció"
+    ],
+    "title": "Claude Artifact",
+    "updated_at": "2026-09-03T19:12:23Z",
+    "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T18:11:21Z",
     "deep_status": "done",
     "id": "ae3c9d0d-0c35-4380-bf14-442d919c29bc",
@@ -214,23 +470,6 @@
     "title": null,
     "updated_at": "2026-09-03T18:11:29Z",
     "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T17:10:21Z",
-    "deep_status": "none",
-    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T18:11:26Z",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
   },
   {
     "code_stats": null,
