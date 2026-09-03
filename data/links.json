@@ -1,6 +1,146 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T11:11:21Z",
+    "deep_status": "processing",
+    "id": "696c7df4-7e84-4e35-8fea-48ac55e6b348",
+    "image_file": "696c7df4-7e84-4e35-8fea-48ac55e6b348.png",
+    "image_url": "https://www.metadata.cat/imatges/og/5342.png",
+    "img": "img/696c7df4-7e84-4e35-8fea-48ac55e6b348.png",
+    "link_type": "article",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un estudi revela que els estudiants catalans utilitzen la IA àmpliament però només el 10% verifica sempre la informació, mostrant una manca de competència crítica.",
+    "tags": [
+      "ia",
+      "educacio",
+      "alumnes",
+      "verificacio",
+      "competencies",
+      "uoc",
+      "escolapia",
+      "critica"
+    ],
+    "title": "Només el 10% dels alumnes verifica sempre les respostes de la IA",
+    "updated_at": "2026-09-03T11:11:24Z",
+    "url": "https://www.metadata.cat/reportatge/6495/ia-sap-respondre-alumnes-saben-comprovar-la"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T11:10:21Z",
+    "deep_status": "done",
+    "id": "f3617c4a-2cfd-4188-823b-6330abd849f2",
+    "image_file": "f3617c4a-2cfd-4188-823b-6330abd849f2.jpg",
+    "image_url": "https://media.wired.com/photos/6a98a54e69e7125a8c6504dc/191:100/w_1280,c_limit/The-Best-Air-Quality-Monitors-for-a-Healthier-Home.jpg",
+    "img": "img/f3617c4a-2cfd-4188-823b-6330abd849f2.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Els monitors de qualitat de l'aire mesuren contaminants com PM2.5 i CO2 per garantir aire net. Models com IQAir o Temtop ajuden a controlar la salut en temps real.",
+    "tags": [
+      "qualitat de l'aire",
+      "monitors",
+      "tecnologia",
+      "salut",
+      "contaminació",
+      "residència",
+      "productes"
+    ],
+    "title": "Els millors monitors de qualitat de l'aire per a interiors i exteriors",
+    "updated_at": "2026-09-03T11:10:52Z",
+    "url": "https://www.wired.com/story/best-air-quality-monitors"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T11:10:21Z",
+    "deep_status": "done",
+    "id": "5451392c-c933-4ebf-9ef1-0550fa09aff7",
+    "image_file": "5451392c-c933-4ebf-9ef1-0550fa09aff7.jpg",
+    "image_url": "https://media.wired.com/photos/6a98768add3b222b1bf79e6d/191:100/w_1280,c_limit/The-Blood-of-Dawnwalker.jpg",
+    "img": "img/5451392c-c933-4ebf-9ef1-0550fa09aff7.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El nou joc de Rebel Wolves combina mecàniques de Witcher 3 amb un cicle dia-nit i un límit de temps per salvar la família del protagonista.",
+    "tags": [
+      "videojocs",
+      "vampirs",
+      "rebel wolves",
+      "witcher",
+      "rpg",
+      "simulador"
+    ],
+    "title": "The Blood of Dawnwalker, un simulador vampíric amb aire de Witcher",
+    "updated_at": "2026-09-03T11:10:50Z",
+    "url": "https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T11:10:21Z",
+    "deep_status": "done",
+    "id": "adea87c2-71f6-45a5-aed8-e05c8abb4787",
+    "image_file": "adea87c2-71f6-45a5-aed8-e05c8abb4787.jpg",
+    "image_url": "https://media.wired.com/photos/6a97528b0b666cfc322885bf/191:100/w_1280,c_limit/AI-Menu-Slop-Just-the-Surface-Gear.jpg",
+    "img": "img/adea87c2-71f6-45a5-aed8-e05c8abb4787.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les imatges generades per IA, sovint de baixa qualitat, estan proliferant en menús físics i digitals, revelant una tendència preocupant en la restauració.",
+    "tags": [
+      "ia",
+      "menús",
+      "gastronomia",
+      "tecnologia",
+      "restauració",
+      "imatges"
+    ],
+    "title": "La 'basura' visual de la IA envaeix els menús",
+    "updated_at": "2026-09-03T11:10:49Z",
+    "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T11:10:21Z",
+    "deep_status": "done",
+    "id": "1d0c377a-6879-4174-b258-ab4ae5f2c60f",
+    "image_file": "1d0c377a-6879-4174-b258-ab4ae5f2c60f.jpg",
+    "image_url": "https://media.wired.com/photos/6a9871d993f270ee5698863f/191:100/w_1280,c_limit/GettyImages-2203694533.jpg",
+    "img": "img/1d0c377a-6879-4174-b258-ab4ae5f2c60f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Documents revelen que Christopher Sweet va sol·licitar crèdits universitaris per la seva feina a HUD, utilitzant IA per redactar el pla d'estudis.",
+    "tags": [
+      "doge",
+      "hud",
+      "universitat",
+      "ia",
+      "crèdits",
+      "govern",
+      "transparència",
+      "wiired"
+    ],
+    "title": "Afiliat DOGE demana crèdits universitaris per treballar al govern",
+    "updated_at": "2026-09-03T11:10:46Z",
+    "url": "https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T10:10:21Z",
     "deep_status": "done",
     "id": "7fef9466-f736-4a2e-8413-7066e99a726a",
