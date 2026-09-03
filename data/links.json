@@ -1,6 +1,147 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T23:15:21Z",
+    "deep_status": "done",
+    "id": "bdae3fba-7a26-4c4d-a46c-5fbd3f67ee86",
+    "image_file": "bdae3fba-7a26-4c4d-a46c-5fbd3f67ee86.jpg",
+    "image_url": "https://media.wired.com/photos/6a99964bab64da8be39c7ad7/191:100/w_1280,c_limit/20250125_kaf_transplant_001_srgb.jpg",
+    "img": "img/bdae3fba-7a26-4c4d-a46c-5fbd3f67ee86.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Una dona manté un ronyó porcí transplantat després de 285 dies sense diàlisi, batent el rècord previ i demostrant la viabilitat d'aquesta alternativa.",
+    "tags": [
+      "transplant",
+      "porc",
+      "ronyó",
+      "medicina",
+      "crispr",
+      "egenesis",
+      "dialisi",
+      "innovacio"
+    ],
+    "title": "Ronyó de porc funciona 9 mesos en pacient",
+    "updated_at": "2026-09-03T23:16:01Z",
+    "url": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T23:15:21Z",
+    "deep_status": "done",
+    "id": "38714cd1-2469-4439-8057-dc2eef52613d",
+    "image_file": "38714cd1-2469-4439-8057-dc2eef52613d.jpg",
+    "image_url": "https://media.wired.com/photos/69c6cf4311f836e20d54dee4/191:100/w_1280,c_limit/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg",
+    "img": "img/38714cd1-2469-4439-8057-dc2eef52613d.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El Nest Doorbell de tercera generació destaca per la seva imatge nítida, ampli camp de visió i bona integració, tot i que requereix subscripció per a funcions avançades.",
+    "tags": [
+      "nest doorbell",
+      "google",
+      "timbre intel·ligent",
+      "seguretat",
+      "revisió",
+      "tecnologia",
+      "video",
+      "smart home"
+    ],
+    "title": "Anàlisi del Nest Doorbell de Google: el millor timbre intel·ligent?",
+    "updated_at": "2026-09-03T23:15:53Z",
+    "url": "https://www.wired.com/gallery/best-video-doorbells"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T23:15:21Z",
+    "deep_status": "done",
+    "id": "6843342d-fb79-454a-ac38-172d01aa07c6",
+    "image_file": "6843342d-fb79-454a-ac38-172d01aa07c6.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
+    "img": "img/6843342d-fb79-454a-ac38-172d01aa07c6.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Microsoft imposa límits mensuals al streaming del Game Pass a partir de novembre, afectant un 4% dels subscriptors que hauran de pagar extra.",
+    "tags": [
+      "xbox",
+      "game pass",
+      "streaming",
+      "microsoft",
+      "cloud gaming",
+      "videojocs"
+    ],
+    "title": "Xbox limita el temps de streaming del Game Pass",
+    "updated_at": "2026-09-03T23:15:47Z",
+    "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T23:15:21Z",
+    "deep_status": "done",
+    "id": "68feac3f-d90a-4fdd-9c3c-c8668f2433ad",
+    "image_file": "68feac3f-d90a-4fdd-9c3c-c8668f2433ad.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2259791135-1152x648.jpg",
+    "img": "img/68feac3f-d90a-4fdd-9c3c-c8668f2433ad.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Una diarea en 150 primats ha proporcionat dades valuoses per dissenyar una vacuna contra la Shigella.",
+    "tags": [
+      "shigella",
+      "vacuna",
+      "primats",
+      "diarea",
+      "recerca",
+      "salut",
+      "immunitat",
+      "bacteris"
+    ],
+    "title": "Diarea en primats revela claus per a vacuna contra la Shigella",
+    "updated_at": "2026-09-03T23:15:47Z",
+    "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T23:15:21Z",
+    "deep_status": "done",
+    "id": "b5a33e1f-fe9a-4840-aa31-7a10a1bc33d8",
+    "image_file": "b5a33e1f-fe9a-4840-aa31-7a10a1bc33d8.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-2560x1440.jpg",
+    "img": "img/b5a33e1f-fe9a-4840-aa31-7a10a1bc33d8.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El secretari de Sanitat va pressionar per eliminar dues defuncions de xarampió de les dades públiques del CDC, tot i que internament es mantenen.",
+    "tags": [
+      "rfk jr",
+      "cdc",
+      "xarampió",
+      "vacunes",
+      "salut pública",
+      "estatunidencs"
+    ],
+    "title": "RFK Jr. ordena esborrar morts de xarampió del CDC",
+    "updated_at": "2026-09-03T23:15:46Z",
+    "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T22:14:22Z",
     "deep_status": "done",
     "id": "a38df5f4-8edb-42b1-b58a-c014fcfb4824",
