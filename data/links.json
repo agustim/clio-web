@@ -1,6 +1,109 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T22:14:22Z",
+    "deep_status": "done",
+    "id": "a38df5f4-8edb-42b1-b58a-c014fcfb4824",
+    "image_file": "a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
+    "image_url": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
+    "img": "img/a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI, Anthropic i xAI van patir talls simultanis sense que es confirmés una causa externa compartida.",
+    "tags": [
+      "openai",
+      "anthropic",
+      "xAI",
+      "outages",
+      "ai",
+      "technology",
+      "interruptions"
+    ],
+    "title": "Causes of simultaneous AI outages remain unclear",
+    "updated_at": "2026-09-03T22:14:48Z",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T22:14:21Z",
+    "deep_status": "done",
+    "id": "cc97e4b5-f32e-4e03-91e4-06b30832a65d",
+    "image_file": "cc97e4b5-f32e-4e03-91e4-06b30832a65d.png",
+    "image_url": "https://armature.tech/assets/blog/coding-agents-tool-choice-3.png",
+    "img": "img/cc97e4b5-f32e-4e03-91e4-06b30832a65d.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un estudi mesura 16.893 sessions per determinar quines eines trien Claude Code, Codex i Cursor, revelant que molts actors coneguts es mencionen però mai s'escullen.",
+    "tags": [
+      "claude code",
+      "codex",
+      "cursor",
+      "agents de codi",
+      "anàlisi",
+      "desenvolupament",
+      "tecnologia",
+      "open source"
+    ],
+    "title": "Anàlisi de 16.893 sessions revela les preferències d'agents de codi",
+    "updated_at": "2026-09-03T22:14:44Z",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T22:14:22Z",
+    "deep_status": "done",
+    "id": "83434f96-3bed-4651-97f7-1b39eb9ce972",
+    "image_file": "83434f96-3bed-4651-97f7-1b39eb9ce972.jpg",
+    "image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+    "img": "img/83434f96-3bed-4651-97f7-1b39eb9ce972.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "George Santos i un enginyer de Google han estat sancionats per manipulació i insider trading en mercats de prediccions, revelant normes difuses.",
+    "tags": [
+      "kalshi",
+      "polymarket",
+      "george santos",
+      "google",
+      "mercats de prediccions",
+      "insider trading",
+      "manipulació",
+      "regulació"
+    ],
+    "title": "Santos i un enginyer de Google, sancionats per mercats de prediccions",
+    "updated_at": "2026-09-03T22:14:44Z",
+    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T22:14:23Z",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T21:13:25Z",
     "deep_status": "done",
     "id": "cf74883e-9211-445f-9801-092d65f05399",
@@ -54,23 +157,6 @@
     "title": "OpenAI Astra domina l'ARC-AGI-3 amb gairebé el 100%",
     "updated_at": "2026-09-03T21:13:46Z",
     "url": "https://arcprize.org/blog/astra"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T19:12:21Z",
-    "deep_status": "none",
-    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T21:13:27Z",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
   },
   {
     "code_stats": null,
