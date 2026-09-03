@@ -1,6 +1,305 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T17:11:21Z",
+    "deep_status": "none",
+    "id": "04603837-67d7-436f-9332-1bd225cd2284",
+    "link_type": "other",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "processing",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T17:11:21Z",
+    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:11:21Z",
+    "deep_status": "none",
+    "id": "34a83384-5cc0-48d9-a130-c0dc60494dca",
+    "link_type": "other",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "processing",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T17:11:21Z",
+    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:11:21Z",
+    "deep_status": "none",
+    "id": "1d147955-6344-490b-98ca-c796864afb23",
+    "link_type": "other",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "processing",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T17:11:21Z",
+    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:22Z",
+    "deep_status": "done",
+    "id": "bddd3706-e400-4e10-b304-3be5cff35868",
+    "link_type": "news",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "ICANN autoritza Verisign a eliminar els dominis de tercer nivell .name, provocant la pèrdua de l'identitat digital de milers d'usuaris.",
+    "tags": [
+      "icann",
+      "verisign",
+      "dominis",
+      ".name",
+      "seguretat",
+      "internet",
+      "tecnologia"
+    ],
+    "title": "ICANN aprova la destrucció del domini .name",
+    "updated_at": "2026-09-03T17:10:52Z",
+    "url": "https://neil.fraser.name/news/2026/09/03"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "done",
+    "id": "56b0cbc9-b0fd-419c-a7a8-875fcd6f100c",
+    "image_file": "56b0cbc9-b0fd-419c-a7a8-875fcd6f100c.webp",
+    "image_url": "https://ifm.ai/blog/k2/assets/k2-horizon-social.webp",
+    "img": "img/56b0cbc9-b0fd-419c-a7a8-875fcd6f100c.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Frontier llança K2 Horizon, una flota de sis models oberts amb rendiment de frontera i transparència total en el cicle d'entrenament sota llicència Apache 2.0.",
+    "tags": [
+      "frontier",
+      "k2 horizon",
+      "models oberts",
+      "ia",
+      "deep learning",
+      "apache 2.0",
+      "research",
+      "open source"
+    ],
+    "title": "Frontier presenta K2 Horizon: sis models oberts amb rendiment de frontera",
+    "updated_at": "2026-09-03T17:10:51Z",
+    "url": "https://ifm.ai/blog/k2"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "done",
+    "id": "6a89d965-9040-4e37-b4f2-bbde84048f74",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Anil Dash denuncia com els VC han esdevingut oligarques polítics que financen campanyes i desmantellen la democràcia.",
+    "tags": [
+      "venture capital",
+      "anil dash",
+      "política",
+      "democràcia",
+      "andreessen horowitz",
+      "tecnologia",
+      "oligarquia",
+      "finançament"
+    ],
+    "title": "Anil Dash: El VC s'ha convertit en capital cancerígen",
+    "updated_at": "2026-09-03T17:10:45Z",
+    "url": "https://www.anildash.com/2026/09/02/cancer-capital"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "failed",
+    "id": "8cd01224-445b-4762-a33a-b715f0b39548",
+    "image_file": "8cd01224-445b-4762-a33a-b715f0b39548.webp",
+    "image_url": "https://aginggamer.net/wp-content/uploads/2026/09/PlayStation-Logo_sized.webp",
+    "img": "img/8cd01224-445b-4762-a33a-b715f0b39548.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Sony argumenta que els jocs són llicències, no propietat, en un cas per publicitat enganyosa, tot i que la seva defensa sobre la no-finitud del programació és qüestionada.",
+    "tags": [
+      "sony",
+      "jocs",
+      "licencia",
+      "propietat",
+      "legal",
+      "ps5",
+      "resident-evil"
+    ],
+    "title": "Sony defensa que comprar jocs és només una llicència",
+    "updated_at": "2026-09-03T17:10:43Z",
+    "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "done",
+    "id": "f8a48ead-231d-4671-af12-e4dd8337fcfe",
+    "link_type": "news",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El sistema ha denegat l'accés a la pàgina web sol·licitada, impedint la visualització del contingut.",
+    "tags": [
+      "error",
+      "accés",
+      "web",
+      "denegat",
+      "pàgina"
+    ],
+    "title": "Accés denegat a la pàgina web",
+    "updated_at": "2026-09-03T17:10:33Z",
+    "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "none",
+    "id": "29e6828c-28ed-44cd-8eb4-9700be55bd85",
+    "image_file": "29e6828c-28ed-44cd-8eb4-9700be55bd85.png",
+    "image_url": "https://anyhumanever.com/static/og-card.png?v=100b",
+    "img": "img/29e6828c-28ed-44cd-8eb4-9700be55bd85.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un projecte visual mostra com dibuixar, pas a pas, la vida d'una persona nascuda aleatòriament, revelant que la majoria van néixer recentment.",
+    "tags": [
+      "demografia",
+      "visualització",
+      "història",
+      "població",
+      "dades",
+      "art",
+      "projecte",
+      "natalitat"
+    ],
+    "title": "Més de 100.000 milions de persones han viscut mai",
+    "updated_at": "2026-09-03T17:10:31Z",
+    "url": "https://anyhumanever.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:22Z",
+    "deep_status": "none",
+    "id": "8aa02538-4155-4fb9-9e20-2c5a3be71000",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'alocació estàtica i els pools tipats eviten confusions de tipus i errors d'ús després de l'alliberament en sistemes crítics.",
+    "tags": [
+      "memòria",
+      "c",
+      "seguretat",
+      "programació",
+      "pools",
+      "allocació",
+      "bugs",
+      "estàtica"
+    ],
+    "title": "Seguretat de memòria: pools d'objectes i alocació estàtica",
+    "updated_at": "2026-09-03T17:10:31Z",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T17:10:28Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "6f3baf70-7cad-4496-a015-ba4e02da9960",
+    "image_file": "6f3baf70-7cad-4496-a015-ba4e02da9960.jpg",
+    "image_url": "https://www.mireye.com/opengraph-image.jpg?opengraph-image.3tqhkbq-kchk3.jpg?dpl=dpl_EVktJUdt9mPq4FhQvUfHtJTbhxo8",
+    "img": "img/6f3baf70-7cad-4496-a015-ba4e02da9960.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Mireye ofereix una API única per a agents d'IA que accedeixen a dades geoespacials citades i enriquides sobre ubicacions als EUA i Canadà.",
+    "tags": [
+      "mireye",
+      "ia",
+      "api",
+      "geoespacial",
+      "agents",
+      "dades",
+      "mcp"
+    ],
+    "title": "Mireye, una API per a agents d'IA del món físic",
+    "updated_at": "2026-09-03T17:10:24Z",
+    "url": "https://www.mireye.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T17:10:22Z",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T16:11:21Z",
     "deep_status": "done",
     "id": "0f1163f0-21f5-4474-9a14-62c097a9a9d3",
@@ -113,23 +412,6 @@
   {
     "code_stats": null,
     "created_at": "2026-09-03T15:40:21Z",
-    "deep_status": "none",
-    "id": "29e6828c-28ed-44cd-8eb4-9700be55bd85",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T15:40:34Z",
-    "url": "https://anyhumanever.com"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T15:40:21Z",
     "deep_status": "failed",
     "id": "930a80c4-c0d8-4db7-a7a2-517d7d2cfc93",
     "image_file": "930a80c4-c0d8-4db7-a7a2-517d7d2cfc93.png",
@@ -153,23 +435,6 @@
     "title": "Error 404 bloqueja sessions de GPT-5.4 en codi",
     "updated_at": "2026-09-03T15:40:29Z",
     "url": "https://github.com/openai/codex/issues/28756"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T12:40:21Z",
-    "deep_status": "none",
-    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T15:40:28Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
   },
   {
     "code_stats": null,
