@@ -1,6 +1,64 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T05:10:21Z",
+    "deep_status": "done",
+    "id": "725ef9b5-6661-4e41-86ed-7b3a7fa4d2b3",
+    "image_file": "725ef9b5-6661-4e41-86ed-7b3a7fa4d2b3.png",
+    "image_url": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/191:100/w_1280,c_limit/WIRED-Coupons-R2_4.png",
+    "img": "img/725ef9b5-6661-4e41-86ed-7b3a7fa4d2b3.png",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "ExpressVPN ofereix fins a un 80% de descompte en plans de dos anys, incloent-hi quatre mesos gratuïts i serveis avançats com gestor de contrasenyes.",
+    "tags": [
+      "expressvpn",
+      "vpn",
+      "descompte",
+      "promoció",
+      "cupon",
+      "seguretat",
+      "privadesa",
+      "internet"
+    ],
+    "title": "ExpressVPN: 80% de descompte en plans anuals",
+    "updated_at": "2026-09-03T05:10:40Z",
+    "url": "https://www.wired.com/story/expressvpn-coupons"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T05:10:21Z",
+    "deep_status": "done",
+    "id": "fb73ba57-6de9-44c3-9230-e440cc1d7abe",
+    "image_file": "fb73ba57-6de9-44c3-9230-e440cc1d7abe.png",
+    "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/191:100/w_1280,c_limit/WIRED-Coupons-R2_14.png",
+    "img": "img/fb73ba57-6de9-44c3-9230-e440cc1d7abe.png",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "ABT Electronics ofereix un codi de 25 $ per compres superiors a 250 $, descomptes instantanis fins a 1.200 $ en electrodomèstics i enviament gratuït.",
+    "tags": [
+      "abtelectronics",
+      "descomptes",
+      "electrodomèstics",
+      "codi promocional",
+      "enviament gratuït",
+      "ofertes",
+      "tecnologia",
+      "estalvi"
+    ],
+    "title": "ABT Electronics: Codi de descompte de 25 $ i ofertes fins a 1.200 $",
+    "updated_at": "2026-09-03T05:10:39Z",
+    "url": "https://www.wired.com/story/abt-promo-code"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T04:09:21Z",
     "deep_status": "none",
     "id": "5a43dcc3-c74d-4097-90dc-8a89abc8f037",
