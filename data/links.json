@@ -1,6 +1,90 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T13:10:21Z",
+    "deep_status": "done",
+    "id": "f4375a18-dd39-4fc0-8c1e-3574eb862882",
+    "image_file": "f4375a18-dd39-4fc0-8c1e-3574eb862882.jpg",
+    "image_url": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
+    "img": "img/f4375a18-dd39-4fc0-8c1e-3574eb862882.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Lenovo, Dell i Asus presenten portàtils amb el xip RTX Spark per executar IA localment.",
+    "tags": [
+      "nvidia",
+      "rtx spark",
+      "lenovo",
+      "intel·ligència artificial",
+      "portàtils",
+      "ifa 2026",
+      "dell",
+      "asus"
+    ],
+    "title": "Nvidia revela els primers portàtils amb RTX Spark",
+    "updated_at": "2026-09-03T13:10:46Z",
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T13:10:21Z",
+    "deep_status": "done",
+    "id": "6d53c087-8c87-4cc6-8b89-b7878ddadf75",
+    "image_file": "6d53c087-8c87-4cc6-8b89-b7878ddadf75.jpg",
+    "image_url": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
+    "img": "img/6d53c087-8c87-4cc6-8b89-b7878ddadf75.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Nvidia adquireix Hugging Face per 12.900 milions de dòlars per consolidar-se en el desenvolupament de programari d'IA generativa i promoure els models de pesos oberts.",
+    "tags": [
+      "nvidia",
+      "hugging face",
+      "adquisició",
+      "ia generativa",
+      "codi obert",
+      "desenvolupadors",
+      "tecnologia"
+    ],
+    "title": "Nvidia compra Hugging Face per 12.900 milions en una aposta per l'IA oberta",
+    "updated_at": "2026-09-03T13:10:46Z",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T13:10:21Z",
+    "deep_status": "done",
+    "id": "a6aaaf78-6df6-4329-993a-db7aedaee685",
+    "image_file": "a6aaaf78-6df6-4329-993a-db7aedaee685.jpg",
+    "image_url": "https://media.wired.com/photos/6a9730f1eefd66b661ca46d6/191:100/w_1280,c_limit/Guild-Wars-3-Culture-GW3---Sinkhole.jpg",
+    "img": "img/a6aaaf78-6df6-4329-993a-db7aedaee685.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "ArenaNet presenta Guild Wars 3 amb moviment fluid i combat basat en inèrcia, arribant a PS5 i PC el 2027 sense requerir coneixements previs.",
+    "tags": [
+      "guild wars 3",
+      "arenanet",
+      "mmorpg",
+      "ps5",
+      "videojocs",
+      "gaming"
+    ],
+    "title": "ArenaNet revela detalls de Guild Wars 3 amb moviment fluid",
+    "updated_at": "2026-09-03T13:10:45Z",
+    "url": "https://www.wired.com/story/guild-wars-3-first-look"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T12:40:21Z",
     "deep_status": "done",
     "id": "4dcc1f55-190d-42bb-a81c-9125bd2afc93",
