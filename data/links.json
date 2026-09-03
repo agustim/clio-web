@@ -1,6 +1,239 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "ae3c9d0d-0c35-4380-bf14-442d919c29bc",
+    "image_url": "https://www.sanders.senate.gov/wp-content/uploads/2020/11/bernie-sanders-logo-greens-yellow-768x116.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els legisladors nord-americans proposen prohibir permanentment la superintel·ligència i aturar temporalment el desenvolupament d'IA avançada fins a establir normes de seguretat federals.",
+    "tags": [
+      "sanders",
+      "casar",
+      "ia",
+      "superintel·ligència",
+      "legislació",
+      "seguretat",
+      "bigtech",
+      "regulació"
+    ],
+    "title": "Sanders i Casar presenten una llei per prohibir la superintel·ligència…",
+    "updated_at": "2026-09-03T18:12:15Z",
+    "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "25272db9-0753-441f-bba5-5e89f40b65c4",
+    "image_file": "25272db9-0753-441f-bba5-5e89f40b65c4.png",
+    "image_url": "https://www.babyloniantwins.com/img/og.png",
+    "img": "img/25272db9-0753-441f-bba5-5e89f40b65c4.png",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un model d'IA reconstrueix automàticament el codi assembly d'un joc irakià dels 90 per portar-lo a Godot, superant els límits previs.",
+    "tags": [
+      "ia",
+      "amiga",
+      "godot",
+      "desenvolupament",
+      "jocs",
+      "assembly",
+      "claude",
+      "programació",
+      "retro",
+      "automatització"
+    ],
+    "title": "Un LLM porta el joc Amiga de 1993 a Godot",
+    "updated_at": "2026-09-03T18:12:13Z",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "c6f9286e-a6f6-4f89-ac59-4d971fd55512",
+    "image_file": "c6f9286e-a6f6-4f89-ac59-4d971fd55512.jpg",
+    "image_url": "https://www.servethehome.com/wp-content/uploads/2026/09/MikroTik-CRS804-DDQ-Two-Untis-Front-1.jpg",
+    "img": "img/c6f9286e-a6f6-4f89-ac59-4d971fd55512.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El MikroTik CRS804-4DDQ-hRM ofereix 1,6 Tbps a un preu econòmic, amb quatre ports QSFP56-DD i alimentació redundant.",
+    "tags": [
+      "mikrotik",
+      "switch",
+      "400gbe",
+      "revisió",
+      "xarxa",
+      "hardware",
+      "crs804"
+    ],
+    "title": "Anàlisi del switch 400GbE MikroTik CRS804-4DDQ-hRM",
+    "updated_at": "2026-09-03T18:12:10Z",
+    "url": "https://www.servethehome.com/mikrotik-crs804-4ddq-hrm-review-marvell-annapurna-labs-400gbe"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "e2361e3e-1ed9-4d5e-a9e4-fe222bc021da",
+    "image_file": "e2361e3e-1ed9-4d5e-a9e4-fe222bc021da.jpg",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2fa717dc-2eea-4e9c-9606-239dc6d770d0.jpg?crop=0.664xw:0.498xh;0.137xw,0.257xh&resize=1200:*",
+    "img": "img/e2361e3e-1ed9-4d5e-a9e4-fe222bc021da.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Hyundai ofereix el quadre d'instruments com a opció de pagament en l'Elantra i l'Ioniq 3, una mesura que ja s'aplica al mercat sud-coreà.",
+    "tags": [
+      "hyundai",
+      "ioniq 3",
+      "elantra",
+      "preus",
+      "tecnologia",
+      "automoció",
+      "mercat"
+    ],
+    "title": "Hyundai cobra extra per al quadre d'instruments en dos models",
+    "updated_at": "2026-09-03T18:11:54Z",
+    "url": "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "9f64fa25-7c85-46ac-8f42-6806a515c01b",
+    "image_file": "9f64fa25-7c85-46ac-8f42-6806a515c01b.webp",
+    "image_url": "https://smallrun.net/img/originals/4003fd2e04d820b35c3e36517ae691af6b67ae866075331197a4d59cf61c564d.webp?w=1200&h=630&fit=cover&bg=ffffff",
+    "img": "img/9f64fa25-7c85-46ac-8f42-6806a515c01b.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "LouD crea USBSID-Pico, un dispositiu open-source que connecta xips SID originals del Commodore 64 a equips moderns via USB.",
+    "tags": [
+      "commodore 64",
+      "sider",
+      "hardware",
+      "open source",
+      "retrocomputing",
+      "pico",
+      "usbsid"
+    ],
+    "title": "USBSID-Pico: Un dispositiu USB per a la SID del Commodore 64",
+    "updated_at": "2026-09-03T18:11:52Z",
+    "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "71462489-88e5-4f7e-ad6e-15ed31b68d24",
+    "image_file": "71462489-88e5-4f7e-ad6e-15ed31b68d24.png",
+    "image_url": "http://www.severe-weather.eu/wp-content/uploads/2026/08/winter-2026-2027-first-forecast-temperature-snowfall-pressure-weather-united-states-canada-super-el-nino-pattern-polar-vortex-anomaly-atmospheric-waves.png",
+    "img": "img/71462489-88e5-4f7e-ad6e-15ed31b68d24.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un Super El Niño intens provocarà un hivern 2026/2027 amb patrons climàtics molt diferenciats a Nord-amèrica i Europa.",
+    "tags": [
+      "el niño",
+      "hivern 2026",
+      "clima",
+      "previsió meteorològica",
+      "super el niño",
+      "nord-amèrica",
+      "europa",
+      "canvi climàtic"
+    ],
+    "title": "L'hivern 2026/2027 marcat per un Super El Niño",
+    "updated_at": "2026-09-03T18:11:50Z",
+    "url": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-first-forecast-super-el-nino-polar-vortex-snow-cold-united-states-canada-europe-fa"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T18:11:21Z",
+    "deep_status": "done",
+    "id": "e9e5dde3-36bc-49c0-b917-ba81166e49a9",
+    "image_file": "e9e5dde3-36bc-49c0-b917-ba81166e49a9.jpg",
+    "image_url": "https://images.axios.com/1WBM3-KVcVPMQvbRndQWELRQJXs=/0x0:1280x720/1366x768/2026/09/03/1788450549349.jpg",
+    "img": "img/e9e5dde3-36bc-49c0-b917-ba81166e49a9.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI llança GPT-6 Astra, un salt generacional que podria marcar l'arribada de la IA general, tot i les preocupacions sobre la seva seguretat.",
+    "tags": [
+      "openai",
+      "gpt-6",
+      "astra",
+      "agi",
+      "ia",
+      "tecnologia",
+      "greg-brockman"
+    ],
+    "title": "OpenAI presenta GPT-6 Astra i anuncia l'era de la IA general",
+    "updated_at": "2026-09-03T18:11:49Z",
+    "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T18:11:29Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T18:11:26Z",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T17:11:21Z",
     "deep_status": "done",
     "id": "04603837-67d7-436f-9332-1bd225cd2284",
@@ -276,23 +509,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-03T12:40:21Z",
-    "deep_status": "none",
-    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T17:10:28Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-03T17:10:21Z",
     "deep_status": "none",
     "id": "6f3baf70-7cad-4496-a015-ba4e02da9960",
@@ -318,23 +534,6 @@
     "title": "Mireye, una API per a agents d'IA del món físic",
     "updated_at": "2026-09-03T17:10:24Z",
     "url": "https://www.mireye.com"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T17:10:21Z",
-    "deep_status": "none",
-    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T17:10:22Z",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
   },
   {
     "code_stats": null,
