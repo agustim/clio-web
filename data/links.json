@@ -1,6 +1,56 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T05:39:21Z",
+    "deep_status": "none",
+    "id": "c71c9c21-1ccb-48ad-8161-ba1972944095",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'app OwnTime gestiona pressupostos de temps amb temporitzadors exclusius, sincronització local i exportació de dades sense servidors.",
+    "tags": [
+      "owntime",
+      "gestió del temps",
+      "iphone",
+      "apple watch",
+      "privacitat",
+      "productivitat",
+      "app",
+      "temporitzador"
+    ],
+    "title": "OwnTime: rellotge d'escacs per gestionar el temps diari",
+    "updated_at": "2026-09-03T05:39:24Z",
+    "url": "https://owntime.app"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T05:39:21Z",
+    "deep_status": "none",
+    "id": "4eb9a2e1-8448-4629-89a8-6636ded4f76c",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "arXivLabs permet desenvolupar i compartir funcionalitats, garantint obertura, comunitat i privadesa de dades.",
+    "tags": [
+      "arxiv",
+      "arxivlabs",
+      "col·laboració",
+      "obertura",
+      "privadesa",
+      "tecnologia"
+    ],
+    "title": "arXivLabs: col·laboració oberta per a noves funcionalitats",
+    "updated_at": "2026-09-03T05:39:23Z",
+    "url": "https://arxiv.org/abs/2608.29530"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T05:10:21Z",
     "deep_status": "done",
     "id": "725ef9b5-6661-4e41-86ed-7b3a7fa4d2b3",
