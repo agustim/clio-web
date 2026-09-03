@@ -1,6 +1,35 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T11:39:22Z",
+    "deep_status": "none",
+    "id": "3c31dd2e-4297-4e2e-8537-2e5df72af4ea",
+    "image_file": "3c31dd2e-4297-4e2e-8537-2e5df72af4ea.png",
+    "image_url": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+    "img": "img/3c31dd2e-4297-4e2e-8537-2e5df72af4ea.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Multiverse Computing presenta Quasar 438B, el model d'IA europeu més avançat, que lidera els índexs d'intel·ligència i velocitat respecte a competidors com Mistral o Nemotron.",
+    "tags": [
+      "ia",
+      "quasar",
+      "multiverse computing",
+      "tecnologia",
+      "europa",
+      "intel·ligència artificial",
+      "innovació",
+      "software"
+    ],
+    "title": "Quasar 438B, el nou líder europeu d'IA",
+    "updated_at": "2026-09-03T11:39:25Z",
+    "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T11:11:21Z",
     "deep_status": "done",
     "id": "696c7df4-7e84-4e35-8fea-48ac55e6b348",
