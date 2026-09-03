@@ -3,6 +3,35 @@
     "code_stats": null,
     "created_at": "2026-09-03T20:13:22Z",
     "deep_status": "done",
+    "id": "5e351065-0542-4185-b847-06a60a51e275",
+    "image_file": "5e351065-0542-4185-b847-06a60a51e275.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
+    "img": "img/5e351065-0542-4185-b847-06a60a51e275.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les tarifes del 100% als drons estrangers alarmen els crítics, que temen perjudicar la seguretat pública i devastar milers d'empreses dels EUA.",
+    "tags": [
+      "drons",
+      "trump",
+      "tarifes",
+      "seguretat pública",
+      "estats units",
+      "dji",
+      "fcc",
+      "crisi econòmica"
+    ],
+    "title": "Trump imposa tarifes del 100% als drons, alerta de desastre",
+    "updated_at": "2026-09-03T20:14:29Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
     "id": "e237287a-4839-4c78-950a-71bddd1b3f87",
     "image_file": "e237287a-4839-4c78-950a-71bddd1b3f87.jpg",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg",
@@ -118,35 +147,6 @@
     "title": "Tottenham redueix un 85% els costos de llicències VMware",
     "updated_at": "2026-09-03T20:14:12Z",
     "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T20:13:22Z",
-    "deep_status": "processing",
-    "id": "5e351065-0542-4185-b847-06a60a51e275",
-    "image_file": "5e351065-0542-4185-b847-06a60a51e275.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
-    "img": "img/5e351065-0542-4185-b847-06a60a51e275.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "Les tarifes del 100% als drons estrangers alarmen els crítics, que temen perjudicar la seguretat pública i devastar milers d'empreses dels EUA.",
-    "tags": [
-      "drons",
-      "trump",
-      "tarifes",
-      "seguretat pública",
-      "estats units",
-      "dji",
-      "fcc",
-      "crisi econòmica"
-    ],
-    "title": "Trump imposa tarifes del 100% als drons, alerta de desastre",
-    "updated_at": "2026-09-03T20:14:12Z",
-    "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking"
   },
   {
     "code_stats": null,
