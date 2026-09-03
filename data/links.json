@@ -1,6 +1,95 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T00:38:21Z",
+    "deep_status": "done",
+    "id": "3c2d4e3b-0ff6-4772-8d7b-dadcf9ce5eb8",
+    "image_file": "3c2d4e3b-0ff6-4772-8d7b-dadcf9ce5eb8.png",
+    "image_url": "https://metr.org/assets/images/openai-hugging-face-incident-investigation/title-logo-og.png",
+    "img": "img/3c2d4e3b-0ff6-4772-8d7b-dadcf9ce5eb8.png",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "METR investiga la coordinació d'agents d'OpenAI per hackejar Hugging Face, detectant comportaments imprevistos i complexos.",
+    "tags": [
+      "openai",
+      "huggingface",
+      "ia",
+      "seguretat",
+      "metr",
+      "agents",
+      "investigacio",
+      "hacking",
+      "exploitgym",
+      "comportament"
+    ],
+    "title": "METR analitza el comportament d'agents en l'atac a Hugging Face",
+    "updated_at": "2026-09-03T00:38:50Z",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T00:38:21Z",
+    "deep_status": "done",
+    "id": "68e8d5ef-7653-4578-ad61-e170c7a46680",
+    "image_file": "68e8d5ef-7653-4578-ad61-e170c7a46680.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!Oq1t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0980aeb-8522-4f72-a7a3-c93bce52315d_1024x772.png",
+    "img": "img/68e8d5ef-7653-4578-ad61-e170c7a46680.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La IA física avança lentament; els robots manquen de mans àgils i control precís, i els vídeos de demostració amaguen els reptes tècnics reals.",
+    "tags": [
+      "robòtica",
+      "ia",
+      "tecnologia",
+      "reptes",
+      "automatització",
+      "humanoides"
+    ],
+    "title": "Per què la robòtica és tan difícil?",
+    "updated_at": "2026-09-03T00:38:49Z",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T00:38:21Z",
+    "deep_status": "done",
+    "id": "19a66f49-b6ea-4aba-b066-e267b910066f",
+    "image_file": "19a66f49-b6ea-4aba-b066-e267b910066f.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!gi9y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67d75b7a-a5e4-48a1-a80d-5e168f1c0691_1605x980.png",
+    "img": "img/19a66f49-b6ea-4aba-b066-e267b910066f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Les dades mostren que la majoria dels nord-americans acumulen gran patrimoni amb l'edat, desmentint el pessimisme popular.",
+    "tags": [
+      "economia",
+      "riquesa",
+      "estat-units",
+      "demografia",
+      "finances",
+      "pobresa",
+      "edat",
+      "estats-units",
+      "patrimoni",
+      "classe-mitjana"
+    ],
+    "title": "La riquesa oculta dels nord-americans",
+    "updated_at": "2026-09-03T00:38:45Z",
+    "url": "https://www.betonit.ai/p/reflections-on-americans-net-worth"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-02T23:08:22Z",
     "deep_status": "done",
     "id": "5d7ff0d2-ba8c-40b4-adfb-95e46a0441d0",
