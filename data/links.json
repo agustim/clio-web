@@ -2,53 +2,91 @@
   {
     "code_stats": null,
     "created_at": "2026-09-03T17:11:21Z",
-    "deep_status": "none",
+    "deep_status": "done",
     "id": "04603837-67d7-436f-9332-1bd225cd2284",
-    "link_type": "other",
+    "image_file": "04603837-67d7-436f-9332-1bd225cd2284.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
+    "img": "img/04603837-67d7-436f-9332-1bd225cd2284.jpg",
+    "link_type": "article",
     "reporters": [
       "ars-technica"
     ],
     "sentiment": "neutral",
-    "status": "processing",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T17:11:21Z",
+    "status": "done",
+    "summary": "La cerimònia dels Nobel de la Ximplesa 2026 es trasllada a Zúric per qüestions de seguretat, amb guardons per a recerques sobre besades i aerodinàmica nasal.",
+    "tags": [
+      "ig nobel",
+      "ciència",
+      "cerimònia",
+      "zúric",
+      "besades",
+      "recerca",
+      "premis",
+      "2026"
+    ],
+    "title": "Guanyadors dels Nobel de la Ximplesa 2026",
+    "updated_at": "2026-09-03T17:11:51Z",
     "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners"
   },
   {
     "code_stats": null,
     "created_at": "2026-09-03T17:11:21Z",
-    "deep_status": "none",
-    "id": "34a83384-5cc0-48d9-a130-c0dc60494dca",
-    "link_type": "other",
+    "deep_status": "done",
+    "id": "1d147955-6344-490b-98ca-c796864afb23",
+    "image_file": "1d147955-6344-490b-98ca-c796864afb23.jpg",
+    "image_url": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg",
+    "img": "img/1d147955-6344-490b-98ca-c796864afb23.jpg",
+    "link_type": "article",
     "reporters": [
-      "ars-technica"
+      "wired"
     ],
-    "sentiment": "neutral",
-    "status": "processing",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T17:11:21Z",
-    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "OpenAI rescindeix el contracte amb Cursor, perdent més d'un milió de dòlars anuals, per evitar riscos legals i tecnològics associats a la propietat de SpaceX sobre l'empresa.",
+    "tags": [
+      "openai",
+      "cursor",
+      "elon musk",
+      "spacex",
+      "ia",
+      "negocis",
+      "tecnologia",
+      "chatgpt"
+    ],
+    "title": "OpenAI talla un client de mil milions per desconfiar de Musk",
+    "updated_at": "2026-09-03T17:11:46Z",
+    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue"
   },
   {
     "code_stats": null,
     "created_at": "2026-09-03T17:11:21Z",
-    "deep_status": "none",
-    "id": "1d147955-6344-490b-98ca-c796864afb23",
-    "link_type": "other",
+    "deep_status": "done",
+    "id": "34a83384-5cc0-48d9-a130-c0dc60494dca",
+    "image_file": "34a83384-5cc0-48d9-a130-c0dc60494dca.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+    "img": "img/34a83384-5cc0-48d9-a130-c0dc60494dca.jpg",
+    "link_type": "article",
     "reporters": [
-      "wired"
+      "ars-technica"
     ],
-    "sentiment": "neutral",
-    "status": "processing",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T17:11:21Z",
-    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue"
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Nvidia adquireix Hugging Face per 13.000 milions de dòlars per accelerar l'ecosistema d'IA oberta i controlar un canal clau de distribució.",
+    "tags": [
+      "nvidia",
+      "hugging face",
+      "ia",
+      "adquisició",
+      "tecnologia",
+      "xips",
+      "openai",
+      "negocis",
+      "mercat",
+      "inversió"
+    ],
+    "title": "Nvidia compra Hugging Face per 13.000 milions de dòlars",
+    "updated_at": "2026-09-03T17:11:45Z",
+    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
   },
   {
     "code_stats": null,
