@@ -1,6 +1,132 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T14:10:21Z",
+    "deep_status": "done",
+    "id": "97428e6a-18ea-4dd5-a542-56de7ece3cb8",
+    "image_file": "97428e6a-18ea-4dd5-a542-56de7ece3cb8.jpg",
+    "image_url": "https://static0.mltimages.com/wordpress/wp-content/uploads/styles/full/public/2020-10/mil-marine-cell-phone-1800.jpg?w=1600&h=900&fit=crop",
+    "img": "img/97428e6a-18ea-4dd5-a542-56de7ece3cb8.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "ICE paga 2 milions per Graphite, espionatge que infecta telèfons sense clic, afectant periodistes i activistes a Europa.",
+    "tags": [
+      "ice",
+      "paragon",
+      "graphite",
+      "espionatge",
+      "whatsapp",
+      "signal",
+      "zero-click",
+      "periodistes",
+      "activistes",
+      "seguretat"
+    ],
+    "title": "ICE contracta espionatge mòbil sense clic per 2 milions",
+    "updated_at": "2026-09-03T14:10:48Z",
+    "url": "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T14:10:21Z",
+    "deep_status": "done",
+    "id": "ec0e88d0-8391-4e65-957d-8373a35da78d",
+    "image_file": "ec0e88d0-8391-4e65-957d-8373a35da78d.png",
+    "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+    "img": "img/ec0e88d0-8391-4e65-957d-8373a35da78d.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Rebreu notificacions per correu i SMS sobre incidents de Claude.",
+    "tags": [
+      "claude",
+      "errors",
+      "notifications",
+      "updates",
+      "incidents"
+    ],
+    "title": "Actualitzacions d'errors elevats per a múltiples models",
+    "updated_at": "2026-09-03T14:10:44Z",
+    "url": "https://status.claude.com/incidents/461yvfrzpwtt"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T14:10:21Z",
+    "deep_status": "done",
+    "id": "240b3b80-8c64-4ae9-ad8c-cc905c299f33",
+    "image_file": "240b3b80-8c64-4ae9-ad8c-cc905c299f33.png",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
+    "img": "img/240b3b80-8c64-4ae9-ad8c-cc905c299f33.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "NVIDIA adquireix Hugging Face per 12.930 milions de dòlars per escalar la plataforma i expandir l'accés a la IA oberta globalment.",
+    "tags": [
+      "nvidia",
+      "hugging face",
+      "adquisició",
+      "intel·ligència artificial",
+      "open source",
+      "tecnologia",
+      "ia oberta"
+    ],
+    "title": "NVIDIA compra Hugging Face per 12.930 milions de dòlars",
+    "updated_at": "2026-09-03T14:10:43Z",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T14:10:24Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T14:10:21Z",
+    "deep_status": "none",
+    "id": "36e9bb3c-02fc-4193-80ae-52ba4492afc4",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "FOAAS ofereix una solució RESTful per dir a la gent que es foti, amb filtres opcionals i col·laboració oberta a GitHub.",
+    "tags": [
+      "foaas",
+      "api",
+      "web",
+      "humor",
+      "restful",
+      "github"
+    ],
+    "title": "FOAAS: un servei web per dir a algú que es foti",
+    "updated_at": "2026-09-03T14:10:24Z",
+    "url": "https://foaas.io"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T13:10:21Z",
     "deep_status": "done",
     "id": "f4375a18-dd39-4fc0-8c1e-3574eb862882",
@@ -191,23 +317,6 @@
     "title": "Guia tècnica per fer scraping de l'API mòbil de TikTok",
     "updated_at": "2026-09-03T12:40:45Z",
     "url": "https://tiktok-api.seeksocial.io"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T12:40:21Z",
-    "deep_status": "none",
-    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T12:40:25Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
   },
   {
     "code_stats": null,
