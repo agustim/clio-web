@@ -1,6 +1,224 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "done",
+    "id": "a07f6611-8998-48e3-9171-e18706fe4cd8",
+    "image_file": "a07f6611-8998-48e3-9171-e18706fe4cd8.png",
+    "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*3_ug8Hj3wLVRUWvpn5hIHg.png",
+    "img": "img/a07f6611-8998-48e3-9171-e18706fe4cd8.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El navegador és un programari complex que resol noms, negocia connexions xifrades i aïlla llocs web, convertint recursos en documents interactius.",
+    "tags": [
+      "navegador",
+      "web",
+      "tecnologia",
+      "internet",
+      "programari",
+      "seguretat"
+    ],
+    "title": "Anatomia d'un navegador web",
+    "updated_at": "2026-09-03T15:40:49Z",
+    "url": "https://medium.com/@koukyosyumei/anatomy-of-a-browser-95014ab378f8"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "done",
+    "id": "8eb1d27d-5ee8-4211-a43c-7eeb04964984",
+    "image_file": "8eb1d27d-5ee8-4211-a43c-7eeb04964984.png",
+    "image_url": "https://newsguild.org/wp-content/uploads/2026/09/NYT-rally.png",
+    "img": "img/8eb1d27d-5ee8-4211-a43c-7eeb04964984.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els treballadors sindicats del New York Times i The Athletic rebutgen l'acord amb Kalshi per amenaçar la independència periodística.",
+    "tags": [
+      "sindicats",
+      "new york times",
+      "the athletic",
+      "kalshi",
+      "periodisme",
+      "independència"
+    ],
+    "title": "Sindicats del NYT i The Athletic rebutgen l'acord amb Kalshi",
+    "updated_at": "2026-09-03T15:40:48Z",
+    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "done",
+    "id": "1be79beb-b866-454a-8758-6810c197c9c1",
+    "image_file": "1be79beb-b866-454a-8758-6810c197c9c1.jpg",
+    "image_url": "https://www.sciencealert.com/images/2026/09/saturn-decagon.jpg",
+    "img": "img/1be79beb-b866-454a-8758-6810c197c9c1.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Astrònoms detecten una estructura de deu costats al pol sud de Saturn, revelant que els polígons atmosfèrics són freqüents al planeta.",
+    "tags": [
+      "saturn",
+      "astronomia",
+      "decàgon",
+      "atmosfera",
+      "descobriment",
+      "ciència",
+      "hexàgon"
+    ],
+    "title": "Descobren un decàgon a l'atmosfera de Saturn",
+    "updated_at": "2026-09-03T15:40:47Z",
+    "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "none",
+    "id": "29e6828c-28ed-44cd-8eb4-9700be55bd85",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T15:40:34Z",
+    "url": "https://anyhumanever.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "failed",
+    "id": "930a80c4-c0d8-4db7-a7a2-517d7d2cfc93",
+    "image_file": "930a80c4-c0d8-4db7-a7a2-517d7d2cfc93.png",
+    "image_url": "https://opengraph.githubassets.com/48e797fe6717016bd46ad97b1492bd70a30492bf74b18e4b0b97d077e35e45a7/openai/codex/issues/28756",
+    "img": "img/930a80c4-c0d8-4db7-a7a2-517d7d2cfc93.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'error 404 interromp sessions de GPT-5.4 durant l'execució de subagents, tot i que el problema sembla resolt temporalment.",
+    "tags": [
+      "error",
+      "gpt-5",
+      "openai",
+      "codex",
+      "bug",
+      "session"
+    ],
+    "title": "Error 404 bloqueja sessions de GPT-5.4 en codi",
+    "updated_at": "2026-09-03T15:40:29Z",
+    "url": "https://github.com/openai/codex/issues/28756"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T15:40:28Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "none",
+    "id": "339e1ce3-49a7-46a0-8a57-b077fd9c87f7",
+    "image_file": "339e1ce3-49a7-46a0-8a57-b077fd9c87f7.png",
+    "image_url": "https://cdn.openai.com/chatgpt/share-og.png",
+    "img": "img/339e1ce3-49a7-46a0-8a57-b077fd9c87f7.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Iniciar sessió a ChatGPT permet accedir a respostes basades en xats desats, crear imatges i pujar fitxers.",
+    "tags": [
+      "chatgpt",
+      "personalització",
+      "inici de sessió",
+      "imatges",
+      "fitxers"
+    ],
+    "title": "ChatGPT ofereix respostes personalitzades amb inici de sessió",
+    "updated_at": "2026-09-03T15:40:28Z",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "none",
+    "id": "a9c8085b-79eb-46ca-8a10-3e526b59f8d6",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La caiguda simultània d'OpenAI, Claude i Grok no és casualitat; la migració d'usuaris d'un servei a un altre ha provocat una sobrecàrrega que ha col·lapsat els altres.",
+    "tags": [
+      "openai",
+      "claude",
+      "grok",
+      "hacker-news",
+      "down",
+      "migration",
+      "dos"
+    ],
+    "title": "Caiguda simultània d'OpenAI, Claude i Grok per migració massiva",
+    "updated_at": "2026-09-03T15:40:25Z",
+    "url": "https://news.ycombinator.com/item?id=49551096"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T15:40:21Z",
+    "deep_status": "none",
+    "id": "096431e7-6690-4d70-9e2f-6b8a2d967b7f",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Les dades en temps real del sistema de monitorització indiquen que els serveis Grok funcionen correctament sense incidents declarats.",
+    "tags": [
+      "spacex",
+      "grok",
+      "ai",
+      "estat",
+      "servei",
+      "monitorització"
+    ],
+    "title": "Estat del servei Grok de SpaceX AI",
+    "updated_at": "2026-09-03T15:40:23Z",
+    "url": "https://status.x.ai"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T14:10:21Z",
     "deep_status": "done",
     "id": "97428e6a-18ea-4dd5-a542-56de7ece3cb8",
@@ -83,23 +301,6 @@
     "title": "NVIDIA compra Hugging Face per 12.930 milions de dòlars",
     "updated_at": "2026-09-03T14:10:43Z",
     "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T12:40:21Z",
-    "deep_status": "none",
-    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T14:10:24Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
   },
   {
     "code_stats": null,
