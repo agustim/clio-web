@@ -7225,26 +7225,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-01T09:02:19Z",
-    "deep_status": "failed",
-    "id": "44edd584-484c-4b32-96e8-720d543d64a0",
-    "link_type": "video",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "No s'ha proporcionat cap text per analitzar.",
-    "tags": [
-      "error",
-      "text-buit"
-    ],
-    "title": "Error: Text buit",
-    "updated_at": "2026-09-01T11:04:21Z",
-    "url": "https://www.youtube.com/watch?v=oomx2bhhwte"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-01T10:03:19Z",
     "deep_status": "done",
     "id": "4d4309dc-d42c-4ac7-8614-6a9f97beab42",
@@ -7300,29 +7280,6 @@
     "title": "El freelancing, clau per cobrir el dèficit de talent especialitzat",
     "updated_at": "2026-09-01T09:02:37Z",
     "url": "https://www.metadata.cat/opinio/6488/freelancing-la-solucio-al-problema-de-falta-de-talent"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-01T08:01:19Z",
-    "deep_status": "none",
-    "id": "cc02c817-8175-4f6e-aebe-4307d6553714",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "El sistema ha detectat un error de compilació relacionat amb la variable tmpout_v durant el procés de generació de contingut.",
-    "tags": [
-      "error",
-      "compilació",
-      "tmpout_v",
-      "sistema",
-      "desenvolupament"
-    ],
-    "title": "Error de compilació: tmpout_v",
-    "updated_at": "2026-09-01T09:02:21Z",
-    "url": "https://tmpout.sh/5"
   },
   {
     "code_stats": null,
