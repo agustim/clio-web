@@ -1,6 +1,355 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
+    "id": "e237287a-4839-4c78-950a-71bddd1b3f87",
+    "image_file": "e237287a-4839-4c78-950a-71bddd1b3f87.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg",
+    "img": "img/e237287a-4839-4c78-950a-71bddd1b3f87.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Quatre grans models d'IA van patir interrupcions simultànies per errors elevats, un fet rar que va afectar els serveis d'OpenAI, Anthropic, xAI i Google.",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "grok",
+      "gemini",
+      "caiguda",
+      "servei",
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "title": "Caiguda simultània de ChatGPT, Claude, Grok i Gemini",
+    "updated_at": "2026-09-03T20:14:21Z",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
+    "id": "a67e73de-8f6d-4249-b3dd-b7c438b99aed",
+    "image_file": "a67e73de-8f6d-4249-b3dd-b7c438b99aed.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg",
+    "img": "img/a67e73de-8f6d-4249-b3dd-b7c438b99aed.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un nou algorisme, Spi-Fly, imita el cervell de la mosca per aprendre olors ràpidament i evitar l'oblit catastròfic.",
+    "tags": [
+      "algorisme",
+      "mosca",
+      "inteligència artificial",
+      "olfacte",
+      "aprenentatge",
+      "tecnologia",
+      "neurociència",
+      "spi-fly"
+    ],
+    "title": "Algorisme inspirat en mosques que no oblida olors",
+    "updated_at": "2026-09-03T20:14:19Z",
+    "url": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
+    "id": "10c82283-90d5-4202-a3f4-19ff99851f1e",
+    "image_file": "10c82283-90d5-4202-a3f4-19ff99851f1e.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+    "img": "img/10c82283-90d5-4202-a3f4-19ff99851f1e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Nova Jersey recorre a la Cort Suprema per decidir si els mercats de predicació poden oferir apostes sense respectar les lleis estatals.",
+    "tags": [
+      "supremecourt",
+      "novajersey",
+      "apostes",
+      "kalshi",
+      "jurisdicció",
+      "cftc",
+      "llei",
+      "justícia",
+      "apostesesportives",
+      "regulació"
+    ],
+    "title": "Nova Jersey demana a la Cort Suprema regular les apostes esportives",
+    "updated_at": "2026-09-03T20:14:16Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
+    "id": "249d78a1-2f84-489b-8154-07adbee18dcf",
+    "image_file": "249d78a1-2f84-489b-8154-07adbee18dcf.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
+    "img": "img/249d78a1-2f84-489b-8154-07adbee18dcf.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El Tottenham Hotspur substitueix VMware per HPE Morpheus, estalviant més d'un 85% en llicències i millorant la gestió amb IA.",
+    "tags": [
+      "tottenham",
+      "hpe",
+      "vmware",
+      "morpheus",
+      "alicaments",
+      "ia",
+      "premier-league",
+      "tecnologia"
+    ],
+    "title": "Tottenham redueix un 85% els costos de llicències VMware",
+    "updated_at": "2026-09-03T20:14:12Z",
+    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "processing",
+    "id": "5e351065-0542-4185-b847-06a60a51e275",
+    "image_file": "5e351065-0542-4185-b847-06a60a51e275.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
+    "img": "img/5e351065-0542-4185-b847-06a60a51e275.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les tarifes del 100% als drons estrangers alarmen els crítics, que temen perjudicar la seguretat pública i devastar milers d'empreses dels EUA.",
+    "tags": [
+      "drons",
+      "trump",
+      "tarifes",
+      "seguretat pública",
+      "estats units",
+      "dji",
+      "fcc",
+      "crisi econòmica"
+    ],
+    "title": "Trump imposa tarifes del 100% als drons, alerta de desastre",
+    "updated_at": "2026-09-03T20:14:12Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:22Z",
+    "deep_status": "done",
+    "id": "f00cc646-5b43-43a2-8544-11f9dfc4cd43",
+    "image_file": "f00cc646-5b43-43a2-8544-11f9dfc4cd43.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+    "img": "img/f00cc646-5b43-43a2-8544-11f9dfc4cd43.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El senador Ron Wyden sol·licita a la NSA guies clares per protegir les comunicacions contra espionatge estranger.",
+    "tags": [
+      "senador",
+      "nsa",
+      "vpn",
+      "privadesa",
+      "seguretat",
+      "tecnologia",
+      "eeuu"
+    ],
+    "title": "Un senador demana a la NSA consells sobre VPNs",
+    "updated_at": "2026-09-03T20:13:58Z",
+    "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:21Z",
+    "deep_status": "done",
+    "id": "752d4453-d4b6-45bf-9a90-1d4de9cc5357",
+    "image_file": "752d4453-d4b6-45bf-9a90-1d4de9cc5357.jpg",
+    "image_url": "https://www.sciencealert.com/images/2026/08/aurora-from-space.jpg",
+    "img": "img/752d4453-d4b6-45bf-9a90-1d4de9cc5357.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Una tempesta solar de novembre de 2025 va distorsionar senyals GPS als EUA, causant errors de fins a 10 metres per primera vegada a aquesta escala.",
+    "tags": [
+      "tempesta solar",
+      "GPS",
+      "ionosfera",
+      "ciència",
+      "tecnologia",
+      "EEUU",
+      "espai"
+    ],
+    "title": "Tempesta solar altera GPS als EUA fins a 10 metres",
+    "updated_at": "2026-09-03T20:13:54Z",
+    "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:21Z",
+    "deep_status": "done",
+    "id": "48f714cf-eba2-45b6-8407-9b15cabf60bb",
+    "image_file": "48f714cf-eba2-45b6-8407-9b15cabf60bb.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!zchv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b8e27bc-1fe1-4689-b4b0-20e9ccb412bc_1024x771.jpeg",
+    "img": "img/48f714cf-eba2-45b6-8407-9b15cabf60bb.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Market Street, devastada per la pandèmia i la delinqüència, mostra senyals de recuperació amb la caiguda del crim i l'auge de la IA.",
+    "tags": [
+      "san francisco",
+      "market street",
+      "pandemia",
+      "delinqüència",
+      "recuperació",
+      "urbanisme",
+      "ai",
+      "comerç"
+    ],
+    "title": "La mort de Market Street: de l'abandonament a la recuperació",
+    "updated_at": "2026-09-03T20:13:53Z",
+    "url": "https://www.noahpinion.blog/p/the-death-of-market-street"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:21Z",
+    "deep_status": "done",
+    "id": "34b1b9c9-8f2f-4a48-9f39-87595ed4d809",
+    "image_file": "34b1b9c9-8f2f-4a48-9f39-87595ed4d809.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/40b70b8f5b6aa7ba38af77c2ac99e035c0c765db/0_68_5256_3154/master/5256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43971682c6296560810fc844e5b7bef8",
+    "img": "img/34b1b9c9-8f2f-4a48-9f39-87595ed4d809.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Gloria Steinem, destacada activista i periodista feminista, ha mort als 92 anys a Nova York, deixant un llegat de lluita per la igualtat de gènere.",
+    "tags": [
+      "feminisme",
+      "gloria steinem",
+      "activisme",
+      "drets de les dones",
+      "periodisme",
+      "estat units",
+      "morts",
+      "igualtat"
+    ],
+    "title": "Morta Gloria Steinem, pionera del feminisme, als 92 anys",
+    "updated_at": "2026-09-03T20:13:52Z",
+    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:21Z",
+    "deep_status": "none",
+    "id": "accc3896-1aea-4c66-a70b-8a18fe5d5a7d",
+    "image_file": "accc3896-1aea-4c66-a70b-8a18fe5d5a7d.png",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+    "img": "img/accc3896-1aea-4c66-a70b-8a18fe5d5a7d.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "OpenAI llança GPT-6 Astra, un model amb capacitats avançades en ús d'ordinador, seguretat i eficiència, disponible per a usuaris de pagament.",
+    "tags": [
+      "gpt-6-astra",
+      "openai",
+      "intel·ligència-artificial",
+      "tecnologia",
+      "innovació"
+    ],
+    "title": "OpenAI presenta GPT-6 Astra, el model d'IA més intel·ligent i segur",
+    "updated_at": "2026-09-03T20:13:28Z",
+    "url": "https://openai.com/index/gpt-6-astra"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T20:13:26Z",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T20:13:21Z",
+    "deep_status": "none",
+    "id": "b360ba7a-8dcb-408e-a25f-6b62d56d89eb",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Three-LLM és un motor d'LLM d'open source basat en Three.js que executa models d'intel·ligència artificial directament al navegador mitjançant WebGPU compute.",
+    "tags": [
+      "three-llm",
+      "webgpu",
+      "llm",
+      "three.js",
+      "intel·ligència artificial",
+      "open source",
+      "browser",
+      "ben houston"
+    ],
+    "title": "Three-LLM: motor LLM per a navegadors amb WebGPU",
+    "updated_at": "2026-09-03T20:13:25Z",
+    "url": "https://three-llm.ben3d.ca"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T20:13:22Z",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T19:12:22Z",
     "deep_status": "done",
     "id": "4b375180-3180-4c83-ada0-c86265f48f48",
@@ -144,23 +493,6 @@
     "code_stats": null,
     "created_at": "2026-09-03T19:12:21Z",
     "deep_status": "none",
-    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T19:12:28Z",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T19:12:21Z",
-    "deep_status": "none",
     "id": "34877964-ec63-43c1-86e3-738ed73398ca",
     "link_type": "other",
     "reporters": [
@@ -211,23 +543,6 @@
     "title": "Models Cerebras: arquitectura, REAP i tècniques de compressió",
     "updated_at": "2026-09-03T19:12:24Z",
     "url": "https://inference-docs.cerebras.ai/models/overview"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T17:10:21Z",
-    "deep_status": "none",
-    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T19:12:23Z",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
   },
   {
     "code_stats": null,
