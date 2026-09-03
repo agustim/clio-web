@@ -1,6 +1,156 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "done",
+    "id": "4dcc1f55-190d-42bb-a81c-9125bd2afc93",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/09/750f689a29cd13653d7fe32f0c88b313.jpeg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "StartLux, de Chen Danyan, obté el segon lloc en tests de models grans amb un model local de 27B paràmetres, rivalitzant amb DeepSeek.",
+    "tags": [
+      "chen danyan",
+      "startlux",
+      "models locals",
+      "deepseek",
+      "ia",
+      "tecnologia",
+      "xina",
+      "innovació"
+    ],
+    "title": "Chen Danyan torna amb StartLux i lidera la cursa dels models locals",
+    "updated_at": "2026-09-03T12:40:53Z",
+    "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "done",
+    "id": "d53eb751-75fa-421f-b7f7-ef72c517f2c0",
+    "image_file": "d53eb751-75fa-421f-b7f7-ef72c517f2c0.jpg",
+    "image_url": "https://www.beckershospitalreview.com/wp-content/uploads/sites/9/2025/03/BeckersHospitalReview.jpg",
+    "img": "img/d53eb751-75fa-421f-b7f7-ef72c517f2c0.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Mark Cuban critica que els hospitals nord-americans no coneixen els seus costos reals, cosa que impedeix la transparència i reformes efectives.",
+    "tags": [
+      "mark cuban",
+      "sistema sanitari",
+      "hospitals",
+      "costos",
+      "transparència",
+      "estats units"
+    ],
+    "title": "Mark Cuban: els hospitals desconeixen els seus costos",
+    "updated_at": "2026-09-03T12:40:47Z",
+    "url": "https://www.beckershospitalreview.com/finance/mark-cuban-why-us-hospitals-dont-know-their-costs"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "done",
+    "id": "61440656-2d71-4323-8d02-40120a74b981",
+    "image_file": "61440656-2d71-4323-8d02-40120a74b981.svg",
+    "image_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228c83775fcc75f4e6d_74409af25137110ac04cc39e4d5ea0a2fbcea421-1000x1000.svg",
+    "img": "img/61440656-2d71-4323-8d02-40120a74b981.svg",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Anthropic presenta un pla per desenvolupar agents de comerç amb Claude, amb resultats que mostren cistelles un 35% més grans i una major taxa de conversió.",
+    "tags": [
+      "anthropic",
+      "claude",
+      "commerce",
+      "agents",
+      "ai",
+      "ecommerce",
+      "blueprint",
+      "shopping"
+    ],
+    "title": "Anthropic llança un pla per crear agents de comerç amb Claude",
+    "updated_at": "2026-09-03T12:40:47Z",
+    "url": "https://claude.com/blog/claude-for-commerce-agents"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "done",
+    "id": "df9698b4-f751-4a64-b0dc-348bac9470f0",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un article detalla com accedir a l'API privada d'Android de TikTok per obtenir milers de milions de dades, evitant els mètodes lents i fràgils habituals.",
+    "tags": [
+      "tiktok",
+      "api",
+      "scraping",
+      "android",
+      "programari",
+      "dades",
+      "seguretat",
+      "tutorial"
+    ],
+    "title": "Guia tècnica per fer scraping de l'API mòbil de TikTok",
+    "updated_at": "2026-09-03T12:40:45Z",
+    "url": "https://tiktok-api.seeksocial.io"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "fdc2f1b0-ef19-43c5-928f-230c56b22826",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T12:40:25Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T12:40:21Z",
+    "deep_status": "none",
+    "id": "71b1d36d-cc8a-43a4-80d6-c4fcf2f1fd70",
+    "link_type": "social",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els termes d'Antigravity permeten suspendre comptes de Google si detecten ús de tercers, cosa que dissuadeix alguns usuaris.",
+    "tags": [
+      "antigravity",
+      "google",
+      "comptes",
+      "seguretat",
+      "privacitat",
+      "termes"
+    ],
+    "title": "Antigravity amenaça amb suspensió de comptes per ús no autoritzat",
+    "updated_at": "2026-09-03T12:40:24Z",
+    "url": "https://twitter.com/gergelyorosz/status/2095453567955968398"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T12:10:21Z",
     "deep_status": "done",
     "id": "5472cd22-6f5e-4e3d-8c60-4f3bb76219cd",
