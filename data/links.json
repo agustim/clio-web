@@ -1,6 +1,96 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-03T21:13:25Z",
+    "deep_status": "done",
+    "id": "cf74883e-9211-445f-9801-092d65f05399",
+    "image_file": "cf74883e-9211-445f-9801-092d65f05399.png",
+    "image_url": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
+    "img": "img/cf74883e-9211-445f-9801-092d65f05399.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Experts abandonen o pivoten mentre la IA assumeix tasques frontend, reduint la necessitat de desenvolupadors especialitzats.",
+    "tags": [
+      "ia",
+      "frontend",
+      "desenvolupament",
+      "educació",
+      "web",
+      "automatització"
+    ],
+    "title": "L'IA amenaça l'educació en desenvolupament frontend",
+    "updated_at": "2026-09-03T21:13:47Z",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T21:13:25Z",
+    "deep_status": "done",
+    "id": "db9cf618-74c7-4be7-be1d-ff142bd4d376",
+    "image_file": "db9cf618-74c7-4be7-be1d-ff142bd4d376.png",
+    "image_url": "https://arcprize.org/media/images/blog/astra-action-efficiency.png",
+    "img": "img/db9cf618-74c7-4be7-be1d-ff142bd4d376.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El model Astra d'OpenAI aconsegueix el 99,9% en ARC-AGI-3, superant humans en eficiència i creant models interns.",
+    "tags": [
+      "openai",
+      "astra",
+      "arc-agi-3",
+      "ia",
+      "benchmark",
+      "agentic",
+      "ai",
+      "technology"
+    ],
+    "title": "OpenAI Astra domina l'ARC-AGI-3 amb gairebé el 100%",
+    "updated_at": "2026-09-03T21:13:46Z",
+    "url": "https://arcprize.org/blog/astra"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T19:12:21Z",
+    "deep_status": "none",
+    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T21:13:27Z",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:10:21Z",
+    "deep_status": "none",
+    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-03T21:13:26Z",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T20:13:22Z",
     "deep_status": "done",
     "id": "5e351065-0542-4185-b847-06a60a51e275",
@@ -290,23 +380,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-03T19:12:21Z",
-    "deep_status": "none",
-    "id": "cad84610-d9d0-4808-bd3e-96a902845bd8",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T20:13:26Z",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsview/ked202607210007"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-03T20:13:21Z",
     "deep_status": "none",
     "id": "b360ba7a-8dcb-408e-a25f-6b62d56d89eb",
@@ -330,23 +403,6 @@
     "title": "Three-LLM: motor LLM per a navegadors amb WebGPU",
     "updated_at": "2026-09-03T20:13:25Z",
     "url": "https://three-llm.ben3d.ca"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T17:10:21Z",
-    "deep_status": "none",
-    "id": "afa698bf-400f-4c25-82f2-9dc74d9dac56",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-03T20:13:22Z",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgy8la-founding-creative-engineer"
   },
   {
     "code_stats": null,
