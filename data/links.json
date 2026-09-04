@@ -1,6 +1,131 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T23:26:21Z",
+    "deep_status": "done",
+    "id": "1990237e-2045-4c0c-b031-e9be338fe35b",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'Arca de l'Aliança il·lustra com les imatges perden el seu significat original en ser reutilitzades, un fenomen comparat amb la iconoclasia i la reducció algorítmica.",
+    "tags": [
+      "arca",
+      "iconoclasia",
+      "religió",
+      "filosofia",
+      "imatges",
+      "biblia",
+      "cultura"
+    ],
+    "title": "L'Arca de l'Aliança com a metàfora de la descontextualització",
+    "updated_at": "2026-09-04T23:26:50Z",
+    "url": "https://nravic.com/blog/images"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T23:26:21Z",
+    "deep_status": "done",
+    "id": "de1c3b2d-c7c7-4dca-a3b8-44837fc3542d",
+    "image_file": "de1c3b2d-c7c7-4dca-a3b8-44837fc3542d.jpg",
+    "image_url": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/85e4dc00-82a3-45cb-b881-981ea10dfa90.jpg",
+    "img": "img/de1c3b2d-c7c7-4dca-a3b8-44837fc3542d.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El 89% dels nord-americans consideren que la corrupció governamental és generalitzada, la xifra més alta en 20 anys i per sobre de la mitjana de l'OCDE.",
+    "tags": [
+      "corrupció",
+      "estats units",
+      "opinió pública",
+      "gallup",
+      "política",
+      "ocde"
+    ],
+    "title": "El 89% dels nord-americans creuen que la corrupció governamental és…",
+    "updated_at": "2026-09-04T23:26:47Z",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T23:26:21Z",
+    "deep_status": "done",
+    "id": "90e94942-481e-4b83-8fd2-45ca721b1f7d",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "HEIR compila models ML per a inferència privada; la latència millora amb GPU, reduint la lentitud respecte a dades clares.",
+    "tags": [
+      "heir",
+      "xifratge homomòrfic",
+      "compilador",
+      "criptografia",
+      "intel·ligència artificial",
+      "privadesa",
+      "google",
+      "desenvolupament de programari"
+    ],
+    "title": "Actualitzacions del compilador HEIR per a xifratge homomòrfic",
+    "updated_at": "2026-09-04T23:26:47Z",
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T20:56:21Z",
+    "deep_status": "none",
+    "id": "1ab7651f-e65e-4492-8ad3-9a444ecd1ab0",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T23:26:22Z",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-01T12:05:18Z",
+    "deep_status": "done",
+    "id": "ec381b36-d516-40e7-bd32-74c7e048f588",
+    "image_file": "ec381b36-d516-40e7-bd32-74c7e048f588.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/photo-2-1152x648.jpg",
+    "img": "img/ec381b36-d516-40e7-bd32-74c7e048f588.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica",
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Sense nous landers, NASA llançarà tres helicòpters SkyFall el 2028 amb la missió nuclear Freedom.",
+    "tags": [
+      "nasa",
+      "mars",
+      "helicopters",
+      "skyfall",
+      "space",
+      "rovers",
+      "technology",
+      "exploration"
+    ],
+    "title": "NASA aposta per helicòpters a Mart en absència de nous landers",
+    "updated_at": "2026-09-04T23:26:21Z",
+    "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T23:15:21Z",
     "deep_status": "done",
     "id": "cf33ab45-6f64-4074-823a-01b6abe667b3",
@@ -113,23 +238,6 @@
     "title": "Eric Selin llança statichost.eu, allotjament 100% europeu sense dependre dels…",
     "updated_at": "2026-09-04T22:26:25Z",
     "url": "https://www.statichost.eu"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T20:56:21Z",
-    "deep_status": "none",
-    "id": "1ab7651f-e65e-4492-8ad3-9a444ecd1ab0",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T22:26:24Z",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet"
   },
   {
     "code_stats": null,
@@ -11709,35 +11817,6 @@
     "title": "Un grup privat llançarà la missió més barata a Alpha Centauri",
     "updated_at": "2026-09-01T12:05:48Z",
     "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-01T12:05:18Z",
-    "deep_status": "done",
-    "id": "ec381b36-d516-40e7-bd32-74c7e048f588",
-    "image_file": "ec381b36-d516-40e7-bd32-74c7e048f588.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/photo-2-1152x648.jpg",
-    "img": "img/ec381b36-d516-40e7-bd32-74c7e048f588.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "Sense nous landers, NASA llançarà tres helicòpters SkyFall el 2028 amb la missió nuclear Freedom.",
-    "tags": [
-      "nasa",
-      "mars",
-      "helicopters",
-      "skyfall",
-      "space",
-      "rovers",
-      "technology",
-      "exploration"
-    ],
-    "title": "NASA aposta per helicòpters a Mart en absència de nous landers",
-    "updated_at": "2026-09-01T12:05:46Z",
-    "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program"
   },
   {
     "code_stats": null,
