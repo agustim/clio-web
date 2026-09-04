@@ -1,6 +1,97 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T17:24:21Z",
+    "deep_status": "done",
+    "id": "97f7e68b-224f-4710-affb-936a840a82a6",
+    "image_file": "97f7e68b-224f-4710-affb-936a840a82a6.jpg",
+    "image_url": "https://github.blog/wp-content/uploads/2026/09/OptA_UI.jpg",
+    "img": "img/97f7e68b-224f-4710-affb-936a840a82a6.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "HydraFusion orquestra models per millorar la qualitat del codi i reduir costos, disponible com a vista prèvia a GitHub Copilot.",
+    "tags": [
+      "hydrafusion",
+      "github copilot",
+      "ia",
+      "codi",
+      "orquestració",
+      "costos",
+      "qualitat",
+      "openai",
+      "claude",
+      "desenvolupament"
+    ],
+    "title": "HydraFusion: Orquestració multi-model per a codi de qualitat",
+    "updated_at": "2026-09-04T17:24:45Z",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T17:24:21Z",
+    "deep_status": "none",
+    "id": "076a7a00-f8f6-4330-bbc2-2bdc4be7a156",
+    "image_file": "076a7a00-f8f6-4330-bbc2-2bdc4be7a156.svg",
+    "image_url": "http://www.pnas.org/pb-assets/images/Logos/header-logo/logo.svg",
+    "img": "img/076a7a00-f8f6-4330-bbc2-2bdc4be7a156.svg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El PNAS informa sobre l'ús de cookies per millorar l'experiència de l'usuari i ofereix opcions de recuperació de contrasenya.",
+    "tags": [
+      "pnas",
+      "cookies",
+      "recerca",
+      "ciència",
+      "avís"
+    ],
+    "title": "PNAS: Actualitzacions de recerca i avís de cookies",
+    "updated_at": "2026-09-04T17:24:24Z",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.1118373109"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "none",
+    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T17:24:22Z",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T11:21:21Z",
+    "deep_status": "none",
+    "id": "e85e1fdc-f9cb-426d-82bd-c0b6f6c8fd65",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T17:24:21Z",
+    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T17:15:21Z",
     "deep_status": "done",
     "id": "f9cf8ada-6e31-468a-9fe5-670e1339ba7e",
@@ -224,23 +315,6 @@
     "title": "Gmail elimina el 2027 l'enviament des d'adreces de tercers",
     "updated_at": "2026-09-04T16:23:30Z",
     "url": "https://support.google.com/mail/answer/22370?hl=en"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T12:51:21Z",
-    "deep_status": "none",
-    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T16:23:26Z",
-    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
   },
   {
     "code_stats": null,
@@ -761,23 +835,6 @@
     "title": "Resolució del repte de reverse engineering de Jane Street",
     "updated_at": "2026-09-04T11:21:41Z",
     "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T11:21:21Z",
-    "deep_status": "none",
-    "id": "e85e1fdc-f9cb-426d-82bd-c0b6f6c8fd65",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T11:21:21Z",
-    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04"
   },
   {
     "code_stats": null,
