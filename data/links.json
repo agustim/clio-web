@@ -1,5 +1,165 @@
 [
   {
+    "code_stats": {
+      "bytes": 481114878,
+      "files": 2089,
+      "has_readme": true,
+      "languages": {
+        "CSS": {
+          "files": 2,
+          "loc": 304
+        },
+        "Config": {
+          "files": 8,
+          "loc": 571
+        },
+        "HTML": {
+          "files": 1798,
+          "loc": 334455
+        },
+        "JavaScript": {
+          "files": 267,
+          "loc": 1512
+        },
+        "Markdown": {
+          "files": 6,
+          "loc": 517
+        },
+        "Python": {
+          "files": 6,
+          "loc": 2015
+        },
+        "Shell": {
+          "files": 2,
+          "loc": 139
+        }
+      },
+      "loc": 339513,
+      "top_languages": [
+        {
+          "files": 1798,
+          "lang": "HTML",
+          "loc": 334455
+        },
+        {
+          "files": 6,
+          "lang": "Python",
+          "loc": 2015
+        },
+        {
+          "files": 267,
+          "lang": "JavaScript",
+          "loc": 1512
+        },
+        {
+          "files": 8,
+          "lang": "Config",
+          "loc": 571
+        },
+        {
+          "files": 6,
+          "lang": "Markdown",
+          "loc": 517
+        }
+      ]
+    },
+    "created_at": "2026-09-04T20:56:21Z",
+    "deep_status": "done",
+    "id": "d85c895b-e67f-4cd0-8f97-bee985ae3f53",
+    "image_file": "d85c895b-e67f-4cd0-8f97-bee985ae3f53.png",
+    "image_url": "https://opengraph.githubassets.com/66f8fc0a9fb03445a56363347a4367eedf0193c49d4b66899b33500b4c37bec8/anthropics/fermats-last-theorem",
+    "img": "img/d85c895b-e67f-4cd0-8f97-bee985ae3f53.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Es publica una prova completa i verificada per màquina del Teorema de Fermat en Lean 4, generada per agents d'IA sobre bases humanes.",
+    "tags": [
+      "lean",
+      "fermat",
+      "ia",
+      "matemàtiques",
+      "verificació",
+      "open source",
+      "proof",
+      "mathlib"
+    ],
+    "title": "Demostració del Teorema de Fermat en Lean 4 amb IA",
+    "updated_at": "2026-09-04T20:56:41Z",
+    "url": "https://github.com/anthropics/fermats-last-theorem"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "done",
+    "id": "5e6eb758-3e47-42e1-a945-a897a3643fb5",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Els LLMs superen la predicció de tokens mitjançant RLVR i RLHF, aprenent de noves seqüències explorades per simular assistents útils.",
+    "tags": [
+      "llm",
+      "rlvr",
+      "rlhf",
+      "ia",
+      "aprenatge",
+      "tokens",
+      "exploració",
+      "assistents"
+    ],
+    "title": "Per què els LLM no són només predictors de tokens",
+    "updated_at": "2026-09-04T20:56:38Z",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T20:56:21Z",
+    "deep_status": "none",
+    "id": "f6361a5b-c1ea-4886-b45d-b4d821523510",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Quad9 bloqueja amenaces en temps real i garanteix la privadesa sense registrar dades, operat per la fundació suïssa per a un internet més segur.",
+    "tags": [
+      "quad9",
+      "dns",
+      "seguretat",
+      "privadesa",
+      "internet",
+      "suïssa",
+      "malware",
+      "phishing"
+    ],
+    "title": "Quad9, servei DNS gratuït per a la seguretat i la privadesa",
+    "updated_at": "2026-09-04T20:56:24Z",
+    "url": "https://quad9.net"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T20:56:21Z",
+    "deep_status": "none",
+    "id": "1ab7651f-e65e-4492-8ad3-9a444ecd1ab0",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T20:56:22Z",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet"
+  },
+  {
     "code_stats": null,
     "created_at": "2026-09-04T19:55:23Z",
     "deep_status": "done",
@@ -53,23 +213,6 @@
     "title": "Mullvad tanca els seus servidors DNS i passa a Quad9",
     "updated_at": "2026-09-04T19:55:43Z",
     "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T19:55:23Z",
-    "deep_status": "none",
-    "id": "5e6eb758-3e47-42e1-a945-a897a3643fb5",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T19:55:36Z",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
   },
   {
     "code_stats": null,
