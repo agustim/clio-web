@@ -1,6 +1,61 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T03:45:28Z",
+    "deep_status": "done",
+    "id": "3820849b-b3fa-438c-829b-495e3b81389f",
+    "image_file": "3820849b-b3fa-438c-829b-495e3b81389f.png",
+    "image_url": "https://computer.rip/static/img/nassau/1.png",
+    "img": "img/3820849b-b3fa-438c-829b-495e3b81389f.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Western Electric, fundada per rivals de Bell, va ser adquirida per AT&T el 1881 i va esdevenir el fabricant exclusiu de tot el sistema telefònic.",
+    "tags": [
+      "att",
+      "western electric",
+      "bell system",
+      "historia",
+      "monopolio",
+      "telefonía",
+      "innovación"
+    ],
+    "title": "Com Western Electric va esdevenir el cor del sistema Bell",
+    "updated_at": "2026-09-04T03:45:51Z",
+    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T03:45:28Z",
+    "deep_status": "done",
+    "id": "de7ba180-b288-4a17-8a62-1261cf84ed9a",
+    "image_file": "de7ba180-b288-4a17-8a62-1261cf84ed9a.jpg",
+    "image_url": "https://img.texasmonthly.com/2026/08/Kidney-Disease-CKDU-Texas-Wharton-County-rice-fields.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+    "img": "img/de7ba180-b288-4a17-8a62-1261cf84ed9a.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Una malaltia renal desconeguda afecta joves immigrants a Texas, vinculada a la calor extrema i el treball físic.",
+    "tags": [
+      "salut",
+      "texas",
+      "immigració",
+      "canvi climàtic",
+      "renal",
+      "epidemiologia"
+    ],
+    "title": "Malaltia renal misteriosa arriba a Texas",
+    "updated_at": "2026-09-04T03:45:47Z",
+    "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T03:15:21Z",
     "deep_status": "done",
     "id": "52eb7d9e-6378-432c-ad77-07cfb2011c1d",
