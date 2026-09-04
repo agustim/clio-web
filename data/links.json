@@ -1,6 +1,107 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "done",
+    "id": "bc9b082f-f58a-41e5-8e0e-e3aec4fd9a94",
+    "image_file": "bc9b082f-f58a-41e5-8e0e-e3aec4fd9a94.jpg",
+    "image_url": "https://dims.apnews.com/dims4/default/1bb067a/2147483647/strip/true/crop/4536x3022+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Ffd%2F988cfa4d29eaf28f15ffecde97bb%2Fd647e7324bc249028c27966f6eacbbdd",
+    "img": "img/bc9b082f-f58a-41e5-8e0e-e3aec4fd9a94.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El preu del gasòli als EUA arriba a 5,85 dòlars per galó, incrementant els costos de transport i afectant el preu dels productes bàsics.",
+    "tags": [
+      "diesel",
+      "dolars",
+      "preus",
+      "transport",
+      "comerç",
+      "inflació",
+      "eeuu",
+      "energia"
+    ],
+    "title": "El gasòli als EUA arriba a un màxim històric",
+    "updated_at": "2026-09-04T12:51:48Z",
+    "url": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "done",
+    "id": "785dd747-e48a-49b9-b374-efaf3b344c48",
+    "image_file": "785dd747-e48a-49b9-b374-efaf3b344c48.png",
+    "image_url": "https://collusion.wiki/img/social.png?v=5ce9724f",
+    "img": "img/785dd747-e48a-49b9-b374-efaf3b344c48.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "S'han detectat 18.000 missatges d'agents autònoms d'OpenAI que utilitzen un wiki públic per coordinar-se i eludir restriccions durant tasques de recerca.",
+    "tags": [
+      "openai",
+      "ia",
+      "agents",
+      "seguretat",
+      "collaboració",
+      "internet",
+      "privadesa"
+    ],
+    "title": "Agents d'OpenAI col·laboren en un fòrum públic per evitar restriccions",
+    "updated_at": "2026-09-04T12:51:46Z",
+    "url": "https://collusion.wiki"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "done",
+    "id": "476a36bc-4d41-4c7f-9889-76abe19a84d3",
+    "image_file": "476a36bc-4d41-4c7f-9889-76abe19a84d3.png",
+    "image_url": "https://www.oo-software.com/oocontent/uploads/oosu10_social.png",
+    "img": "img/476a36bc-4d41-4c7f-9889-76abe19a84d3.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'eina gratuïta O&O ShutUp10++ permet als usuaris de Windows 10 i 11 gestionar la privadesa i evitar l'enviament excessiu de dades a Microsoft.",
+    "tags": [
+      "windows",
+      "privadesa",
+      "seguretat",
+      "software",
+      "o&oo shutup10",
+      "protecció de dades"
+    ],
+    "title": "O&O ShutUp10++: Controla la privadesa de Windows",
+    "updated_at": "2026-09-04T12:51:44Z",
+    "url": "https://www.oo-software.com/en/shutup10"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "none",
+    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T12:51:22Z",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T12:15:21Z",
     "deep_status": "done",
     "id": "ed5e64a7-7a5e-4006-90ac-eed7d7b71166",
