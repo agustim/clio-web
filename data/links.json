@@ -1,6 +1,52 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T15:22:28Z",
+    "deep_status": "done",
+    "id": "ff2cbad3-477b-4e16-88bd-f78b0c196a7e",
+    "image_file": "ff2cbad3-477b-4e16-88bd-f78b0c196a7e.png",
+    "image_url": "https://jennywanger.com/wp-content/uploads/2026/09/when-rest-isnt-fixing-your-burnout-header.png",
+    "img": "img/ff2cbad3-477b-4e16-88bd-f78b0c196a7e.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La Maya sent esgotament malgrat la seva reduïda jornada laboral, ja que la inactivitat professional i els fracassos en les entrevistes de feina han malmès la seva autoestima i autoimatge.",
+    "tags": [
+      "burnout",
+      "product",
+      "leadership",
+      "career",
+      "coaching",
+      "self-esteem",
+      "interviews",
+      "work-life"
+    ],
+    "title": "Burnout: quan el descans no funciona",
+    "updated_at": "2026-09-04T15:22:55Z",
+    "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "none",
+    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T15:22:29Z",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T15:15:21Z",
     "deep_status": "done",
     "id": "d13d8713-51ff-4f90-9854-a6fadad7e21b",
@@ -206,23 +252,6 @@
     "title": null,
     "updated_at": "2026-09-04T14:21:37Z",
     "url": "https://www.wsj.com/finance/investing/norways-oil-fund-proposes-cut-to-government-bond-holdings-d930893f"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T12:51:21Z",
-    "deep_status": "none",
-    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T14:21:36Z",
-    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
   },
   {
     "code_stats": null,
