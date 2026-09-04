@@ -1,6 +1,147 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T11:15:21Z",
+    "deep_status": "done",
+    "id": "58d718a9-39a4-4496-a167-778a8abfd19e",
+    "image_file": "58d718a9-39a4-4496-a167-778a8abfd19e.jpg",
+    "image_url": "https://media.wired.com/photos/6a9a00ee5d2ca173f400bbc9/191:100/w_1280,c_limit/Security_ICE%20Wants%20to%20Know%20Who%20Bought%20a%20Certain%20Green%20Beanie%20From%20REI%20in%20the%20Last%202%20Years_v1.jpg",
+    "img": "img/58d718a9-39a4-4496-a167-778a8abfd19e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La DHS exigeix a REI dades de compradors de gorres verdes a Minneapolis per identificar manifestants contra la ICE.",
+    "tags": [
+      "dhs",
+      "rei",
+      "ice",
+      "minneapolis",
+      "protestes",
+      "privacitat",
+      "subpoena",
+      "gonzales"
+    ],
+    "title": "La DHS investiga compradors de gorres verdes a REI",
+    "updated_at": "2026-09-04T11:16:08Z",
+    "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T11:15:21Z",
+    "deep_status": "done",
+    "id": "73b33ec3-140e-4c43-9060-51cbab44bbac",
+    "image_file": "73b33ec3-140e-4c43-9060-51cbab44bbac.jpg",
+    "image_url": "https://media.wired.com/photos/6a98081e0e1a07689023de20/191:100/w_1280,c_limit/Ru_Orangutan-7.jpg",
+    "img": "img/73b33ec3-140e-4c43-9060-51cbab44bbac.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Vuit cries d'orangutans nascudes als zoològics nord-americans des del 2025 reflecteixen l'èxit d'un pla de cria estratègic per salvar l'espècie.",
+    "tags": [
+      "orangutans",
+      "zoos",
+      "cria",
+      "conservació",
+      "estatunidencs",
+      "naixements",
+      "fauna",
+      "primats"
+    ],
+    "title": "Boom de naixements d'orangutans als zoològics dels EUA",
+    "updated_at": "2026-09-04T11:16:07Z",
+    "url": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T11:15:21Z",
+    "deep_status": "done",
+    "id": "051c246e-769b-4244-8d73-1130b9d9a4f7",
+    "image_file": "051c246e-769b-4244-8d73-1130b9d9a4f7.jpg",
+    "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/191:100/w_1280,c_limit/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
+    "img": "img/051c246e-769b-4244-8d73-1130b9d9a4f7.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'anàlisi de WIRED destaca el Purobot Max Pro 2 com a preferit i el Litter-Robot 4 com a segona opció per a gats.",
+    "tags": [
+      "gats",
+      "tecnologia",
+      "resenyes",
+      "productes",
+      "domèstics"
+    ],
+    "title": "Millors caixes de sorra automàtiques per a gats",
+    "updated_at": "2026-09-04T11:15:52Z",
+    "url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T11:15:21Z",
+    "deep_status": "done",
+    "id": "d41e5a75-17bc-49eb-84b4-2d82c75fdf7f",
+    "image_file": "d41e5a75-17bc-49eb-84b4-2d82c75fdf7f.jpg",
+    "image_url": "https://media.wired.com/photos/69459587c5595b6bd09efc8a/191:100/w_1280,c_limit/The%20Best%20Monitors%20for%20the%20Mac%20Mini%20top%20art%20122025%20SOURECE%20Amazon_Apple.jpg",
+    "img": "img/d41e5a75-17bc-49eb-84b4-2d82c75fdf7f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Guia actualitzada amb monitors compatibles amb qualsevol Mac, destacant BenQ, Apple i Asus, amb consells clau sobre resolució, ergonomia i connexions.",
+    "tags": [
+      "mac",
+      "monitors",
+      "tecnologia",
+      "benq",
+      "apple",
+      "asus",
+      "guias"
+    ],
+    "title": "6 monitors ideals per al teu Mac",
+    "updated_at": "2026-09-04T11:15:51Z",
+    "url": "https://www.wired.com/gallery/best-monitors-for-mac"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T11:15:21Z",
+    "deep_status": "done",
+    "id": "d27bd57f-f62e-4e71-981b-d79018dba2ca",
+    "image_file": "d27bd57f-f62e-4e71-981b-d79018dba2ca.jpg",
+    "image_url": "https://media.wired.com/photos/6a999184075950c219e9520c/191:100/w_1280,c_limit/GettyImages-2166820737.jpg",
+    "img": "img/d27bd57f-f62e-4e71-981b-d79018dba2ca.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La reapparició del sarampió obliga els pares de nens immunodeprimits a decidir entre exposar-los al virus o aïllar-los escolarment, arriscant la seva salut mental.",
+    "tags": [
+      "sarampió",
+      "vacunes",
+      "immunodepressió",
+      "escolarització",
+      "salut pública",
+      "pares",
+      "nens",
+      "estat unità"
+    ],
+    "title": "El sarampió obliga els nens immunodeprimits a triar entre risc vital i aïllament",
+    "updated_at": "2026-09-04T11:15:51Z",
+    "url": "https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T10:17:21Z",
     "deep_status": "done",
     "id": "6e320005-88bc-4f63-98dc-e0f54e7d4791",
