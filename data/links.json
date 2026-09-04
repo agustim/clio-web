@@ -2,7 +2,7 @@
   {
     "code_stats": null,
     "created_at": "2026-09-04T10:17:21Z",
-    "deep_status": "processing",
+    "deep_status": "done",
     "id": "6e320005-88bc-4f63-98dc-e0f54e7d4791",
     "image_file": "6e320005-88bc-4f63-98dc-e0f54e7d4791.png",
     "image_url": "https://www.metadata.cat/imatges/og/5344.png",
@@ -25,7 +25,7 @@
       "dfactory"
     ],
     "title": "Barcelona impulsa la ciberseguretat amb Beyond Cybersecurity",
-    "updated_at": "2026-09-04T10:17:24Z",
+    "updated_at": "2026-09-04T10:17:45Z",
     "url": "https://www.metadata.cat/noticia/6497/barcelona-focus-futur-ciberseguretat-beyond-cibersecurity"
   },
   {
