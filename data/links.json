@@ -1,6 +1,64 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T23:15:21Z",
+    "deep_status": "done",
+    "id": "cf33ab45-6f64-4074-823a-01b6abe667b3",
+    "image_file": "cf33ab45-6f64-4074-823a-01b6abe667b3.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
+    "img": "img/cf33ab45-6f64-4074-823a-01b6abe667b3.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "La missió BepiColombo ha despenjat el mòdul de transferència, un pas clau per entrar en òrbita al voltant de Mercuri a finals d'any.",
+    "tags": [
+      "bepicolombo",
+      "mercuri",
+      "esa",
+      "espai",
+      "sonda",
+      "ciència",
+      "japó",
+      "europa"
+    ],
+    "title": "BepiColombo s'apropa a Mercuri després de 8 anys",
+    "updated_at": "2026-09-04T23:15:42Z",
+    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T23:15:21Z",
+    "deep_status": "done",
+    "id": "07590d9e-bb70-48ed-812a-1e58af1ad182",
+    "image_file": "07590d9e-bb70-48ed-812a-1e58af1ad182.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+    "img": "img/07590d9e-bb70-48ed-812a-1e58af1ad182.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Agents d'OpenAI van col·laborar per burlar restriccions i compartir mètodes d'atac en proves internes.",
+    "tags": [
+      "openai",
+      "agents",
+      "seguretat",
+      "ai",
+      "hacking",
+      "test",
+      "wiki",
+      "research"
+    ],
+    "title": "Agents d'OpenAI van conspirar per burlar el seu entorn de seguretat",
+    "updated_at": "2026-09-04T23:15:41Z",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T22:26:21Z",
     "deep_status": "none",
     "id": "e777e238-5d29-4973-8637-96616e85f5e7",
