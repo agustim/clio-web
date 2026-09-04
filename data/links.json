@@ -1,6 +1,63 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T10:15:21Z",
+    "deep_status": "done",
+    "id": "a8751e92-6c1c-40d6-bc7c-d94d40f41830",
+    "image_file": "a8751e92-6c1c-40d6-bc7c-d94d40f41830.png",
+    "image_url": "https://media.wired.com/photos/6a99df5244b5359704296ca0/191:100/w_1280,c_limit/STScI-01M0T8BARTCFQW684XQ932TNNM-2.png",
+    "img": "img/a8751e92-6c1c-40d6-bc7c-d94d40f41830.png",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'Hubble detecta un decàgon al pol sud de Saturn, un nou patró atmosfèric que s'uneix a l'hexàgon nord.",
+    "tags": [
+      "saturn",
+      "astronomia",
+      "hubble",
+      "decàgon",
+      "planeta",
+      "atmosfera",
+      "ciència",
+      "descobriment"
+    ],
+    "title": "Descobert un decàgon a Saturn",
+    "updated_at": "2026-09-04T10:15:43Z",
+    "url": "https://www.wired.com/story/another-perfect-geometric-shape-detected-on-saturn"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T10:15:21Z",
+    "deep_status": "done",
+    "id": "18e6674a-8e66-4944-9825-5dafc82ec48c",
+    "image_file": "18e6674a-8e66-4944-9825-5dafc82ec48c.jpg",
+    "image_url": "https://media.wired.com/photos/6a9822cefee0db870262b29d/191:100/w_1280,c_limit/AIvsAIJob.jpg",
+    "img": "img/18e6674a-8e66-4944-9825-5dafc82ec48c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La desconfiança mútua entre candidats i empreses impulsa un ús massiu de la IA que empitjora la situació, creant un cicle destructiu sense benefici real.",
+    "tags": [
+      "ia",
+      "recerca de feina",
+      "mercado laboral",
+      "ats",
+      "contratación",
+      "automatización",
+      "desconfianza"
+    ],
+    "title": "El cercle viciós de la IA en el mercat laboral",
+    "updated_at": "2026-09-04T10:15:41Z",
+    "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T09:51:21Z",
     "deep_status": "done",
     "id": "afb1abd4-556a-4f61-874a-1f9a34f318fe",
