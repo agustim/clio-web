@@ -1,6 +1,35 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T10:17:21Z",
+    "deep_status": "processing",
+    "id": "6e320005-88bc-4f63-98dc-e0f54e7d4791",
+    "image_file": "6e320005-88bc-4f63-98dc-e0f54e7d4791.png",
+    "image_url": "https://www.metadata.cat/imatges/og/5344.png",
+    "img": "img/6e320005-88bc-4f63-98dc-e0f54e7d4791.png",
+    "link_type": "article",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Barcelona acollirà el 29 de setembre la tercera edició de Beyond Cybersecurity, un esdeveniment que reuneix sector públic i privat per debatre reptes digitals, IA i sobirania.",
+    "tags": [
+      "barcelona",
+      "ciberseguretat",
+      "beyond cybersecurity",
+      "ia",
+      "industria 4.0",
+      "sobirania digital",
+      "apolo cybersecurity",
+      "dfactory"
+    ],
+    "title": "Barcelona impulsa la ciberseguretat amb Beyond Cybersecurity",
+    "updated_at": "2026-09-04T10:17:24Z",
+    "url": "https://www.metadata.cat/noticia/6497/barcelona-focus-futur-ciberseguretat-beyond-cibersecurity"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T10:15:21Z",
     "deep_status": "done",
     "id": "a8751e92-6c1c-40d6-bc7c-d94d40f41830",
