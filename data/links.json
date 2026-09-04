@@ -1,6 +1,130 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T22:26:21Z",
+    "deep_status": "none",
+    "id": "e777e238-5d29-4973-8637-96616e85f5e7",
+    "image_file": "e777e238-5d29-4973-8637-96616e85f5e7.png",
+    "image_url": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+    "img": "img/e777e238-5d29-4973-8637-96616e85f5e7.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI llança GPT-6 Astra per a tasques complexes, amb preus de $10/$50 per milió de tokens i suport per a agents autònoms.",
+    "tags": [
+      "gpt-6-astra",
+      "openai",
+      "preus",
+      "proveïdors",
+      "openrouter",
+      "api",
+      "intel·ligència-artificial",
+      "tecnologia"
+    ],
+    "title": "GPT-6 Astra: preus, proveïdors i característiques tècniques",
+    "updated_at": "2026-09-04T22:26:25Z",
+    "url": "https://openrouter.ai/openai/gpt-6-astra"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T22:26:21Z",
+    "deep_status": "none",
+    "id": "d12d082b-9481-45b1-a4f9-ff4b64703677",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Eric Selin crea statichost.eu per oferir allotjament estàtic amb infraestructura europea, rebutjant AWS i Cloudflare.",
+    "tags": [
+      "allotjament",
+      "europea",
+      "infraestructura",
+      "statichost",
+      "desenvolupament",
+      "web",
+      "privadesa",
+      "soberania",
+      "tecnologia",
+      "servidors"
+    ],
+    "title": "Eric Selin llança statichost.eu, allotjament 100% europeu sense dependre dels…",
+    "updated_at": "2026-09-04T22:26:25Z",
+    "url": "https://www.statichost.eu"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T20:56:21Z",
+    "deep_status": "none",
+    "id": "1ab7651f-e65e-4492-8ad3-9a444ecd1ab0",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T22:26:24Z",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T22:26:21Z",
+    "deep_status": "none",
+    "id": "f62ad90d-598e-48a6-8ef8-0c52117e9572",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Títol original sense contingut associat per analitzar.",
+    "tags": [
+      "nvd",
+      "home",
+      "titol",
+      "sense_text",
+      "analisis"
+    ],
+    "title": "NVD - Home",
+    "updated_at": "2026-09-04T22:26:24Z",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T22:26:21Z",
+    "deep_status": "none",
+    "id": "22798450-dc31-47b3-a864-08667b32ac39",
+    "image_file": "22798450-dc31-47b3-a864-08667b32ac39.jpg",
+    "image_url": "https://madpsy.uk/wp-content/uploads/2015/11/tor-exit.jpg",
+    "img": "img/22798450-dc31-47b3-a864-08667b32ac39.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Tutorial per configurar un node de sortida Tor a Ubuntu, advertint dels riscos legals i tècnics per a l'operador.",
+    "tags": [
+      "tor",
+      "exit node",
+      "linux",
+      "ubuntu",
+      "seguretat",
+      "tutorial"
+    ],
+    "title": "Com configurar un node de sortida Tor",
+    "updated_at": "2026-09-04T22:26:24Z",
+    "url": "https://madpsy.uk/how-to-create-a-tor-exit-node"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T21:15:21Z",
     "deep_status": "done",
     "id": "3fb8017b-aac0-4b5e-851f-767fd47d98a4",
@@ -199,23 +323,6 @@
     "title": "Quad9, servei DNS gratuït per a la seguretat i la privadesa",
     "updated_at": "2026-09-04T20:56:24Z",
     "url": "https://quad9.net"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T20:56:21Z",
-    "deep_status": "none",
-    "id": "1ab7651f-e65e-4492-8ad3-9a444ecd1ab0",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T20:56:22Z",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet"
   },
   {
     "code_stats": null,
