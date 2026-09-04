@@ -1,6 +1,85 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T01:15:21Z",
+    "deep_status": "processing",
+    "id": "fe8b8fec-3d62-4391-b198-45cc8c0aca77",
+    "image_file": "fe8b8fec-3d62-4391-b198-45cc8c0aca77.jpg",
+    "image_url": "https://media.wired.com/photos/6a9a07338aae3f350260c9af/191:100/w_1280,c_limit/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg",
+    "img": "img/fe8b8fec-3d62-4391-b198-45cc8c0aca77.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Més de 200 empleats de la Fundació Wikimedia han votat per unir-se al sindicat CWA, impulsats per la frustració amb les decisions de gestió i la necessitat de tenir veu en l'organització.",
+    "tags": [
+      "wikimedia",
+      "sindicat",
+      "fundació",
+      "treballadors",
+      "unionització",
+      "gestió",
+      "tecnologia",
+      "eeuu"
+    ],
+    "title": "Més de 200 treballadors de la Fundació Wikimedia s'afilien al sindicat",
+    "updated_at": "2026-09-04T01:15:24Z",
+    "url": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T01:14:21Z",
+    "deep_status": "none",
+    "id": "67c5a7ff-4953-473f-bae5-5abd96d5d149",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Usuaris de Firefox reporten errors amb reCAPTCHA, mentre altres comenten que archive.today no utilitza veritat i que tancar la pestanya sol resoldre el problema.",
+    "tags": [
+      "firefox",
+      "google",
+      "recaptcha",
+      "hacker-news",
+      "archive.today",
+      "ad-blocking"
+    ],
+    "title": "Usuaris de Firefox denuncien problemes amb reCAPTCHA de Google",
+    "updated_at": "2026-09-04T01:14:24Z",
+    "url": "https://news.ycombinator.com/item?id=49555592"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T01:14:21Z",
+    "deep_status": "none",
+    "id": "86fbc329-1e2f-44a5-8103-87bc49c0f73e",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Presenten Unscramble!, un joc de construcció de paraules amb anagrames dissenyat per a ús amb una mà, amb sis nivells de dificultat i opcions de personalització.",
+    "tags": [
+      "joc",
+      "anagrames",
+      "aplicació",
+      "mòbil",
+      "divertiment",
+      "tecnologia",
+      "desenvolupament",
+      "hacker news"
+    ],
+    "title": "Unscramble!, un joc de paraules senzill per a un sol dit",
+    "updated_at": "2026-09-04T01:14:24Z",
+    "url": "https://news.ycombinator.com/item?id=49550479"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-03T23:44:21Z",
     "deep_status": "done",
     "id": "f6c4e994-c648-49af-a0da-ecf2aa0de887",
