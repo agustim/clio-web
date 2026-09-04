@@ -1,6 +1,136 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "done",
+    "id": "99663531-e680-47d4-96ea-69b3d1e90992",
+    "image_file": "99663531-e680-47d4-96ea-69b3d1e90992.png",
+    "image_url": "https://rietta.com/images/rietta-og-default.png",
+    "img": "img/99663531-e680-47d4-96ea-69b3d1e90992.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un atac al govern es va produir hores després de parchejar la vulnerabilitat CVE-2026-66066 a Ruby on Rails.",
+    "tags": [
+      "rails",
+      "cve",
+      "govern",
+      "seguretat",
+      "activestorage",
+      "patch"
+    ],
+    "title": "Atac al govern després del parche de Rails",
+    "updated_at": "2026-09-04T19:55:43Z",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "done",
+    "id": "31d4aae7-fa16-421c-a50b-02b5d6212939",
+    "image_file": "31d4aae7-fa16-421c-a50b-02b5d6212939.png",
+    "image_url": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+    "img": "img/31d4aae7-fa16-421c-a50b-02b5d6212939.png",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Mullvad substituirà els seus servidors DNS públics per Quad9 el 2 de novembre de 2026, finançant aquesta fundació en lloc de mantenir la seva pròpia infraestructura.",
+    "tags": [
+      "mullvad",
+      "quad9",
+      "dns",
+      "privacitat",
+      "vpn",
+      "seguretat",
+      "tecnologia"
+    ],
+    "title": "Mullvad tanca els seus servidors DNS i passa a Quad9",
+    "updated_at": "2026-09-04T19:55:43Z",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "none",
+    "id": "5e6eb758-3e47-42e1-a945-a897a3643fb5",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T19:55:36Z",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "none",
+    "id": "a50f6d40-9082-4631-998a-75c128f6da79",
+    "image_file": "a50f6d40-9082-4631-998a-75c128f6da79.jpg",
+    "image_url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/10858",
+    "img": "img/a50f6d40-9082-4631-998a-75c128f6da79.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'adopció del compilador React en Rust redueix dràsticament els temps de construcció i millora la compatibilitat respecte a Babel.",
+    "tags": [
+      "react",
+      "rust",
+      "oxc",
+      "vite",
+      "compilador",
+      "desenvolupament",
+      "rendiment",
+      "javascript"
+    ],
+    "title": "La migració a Rust accelera la compilació de React",
+    "updated_at": "2026-09-04T19:55:28Z",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:55:23Z",
+    "deep_status": "none",
+    "id": "1be2ecf7-a0ea-4606-bde1-e649a83b7d2b",
+    "image_file": "1be2ecf7-a0ea-4606-bde1-e649a83b7d2b.jpg",
+    "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
+    "img": "img/1be2ecf7-a0ea-4606-bde1-e649a83b7d2b.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Claude genera la primera demostració verificada per ordinador del Últim Teorema de Fermat en 11 dies.",
+    "tags": [
+      "claude",
+      "fermat",
+      "lean",
+      "ai",
+      "mathematics",
+      "formalization",
+      "anthropic",
+      "theorem"
+    ],
+    "title": "Claude formalitza la demostració del Últim Teorema de Fermat",
+    "updated_at": "2026-09-04T19:55:26Z",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T19:15:21Z",
     "deep_status": "done",
     "id": "2ec32525-f922-4d67-b4b8-7a16e9717bdf",
