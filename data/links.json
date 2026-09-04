@@ -1,6 +1,31 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T06:05:38Z",
+    "deep_status": "none",
+    "id": "1be5ba01-679d-46fd-a570-6e79f07929c4",
+    "link_type": "social",
+    "reporters": [
+      "agus"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Utopia és un sistema de coneixement obert que registra fets amb dates d'inici i fi, permetent consultar l'historial complet sense sobreescriure informació.",
+    "tags": [
+      "utopia",
+      "open source",
+      "coneixement",
+      "gestió de dades",
+      "tecnologia",
+      "privacitat",
+      "base de dades"
+    ],
+    "title": "Utopia: el model de coneixement obert que gestiona el temps",
+    "updated_at": "2026-09-04T06:05:41Z",
+    "url": "https://x.com/hasantoxr/status/2095111361181405259"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T04:46:22Z",
     "deep_status": "done",
     "id": "34e57f12-9953-4d70-918c-0d5e5715befb",
