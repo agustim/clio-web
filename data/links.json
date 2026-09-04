@@ -1,6 +1,215 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T18:54:25Z",
+    "deep_status": "done",
+    "id": "7d54d4ee-2efa-42fa-8ca8-2058ed92a455",
+    "image_file": "7d54d4ee-2efa-42fa-8ca8-2058ed92a455.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!i51G!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F547cc1a3-4382-458a-b661-4c37d6dd3684_1456x819.webp",
+    "img": "img/7d54d4ee-2efa-42fa-8ca8-2058ed92a455.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La policia japonesa investiga la mort d'una parella a la platja de Kashii, assumint un suïcidi amorós, però un rebuig qüestiona la versió oficial.",
+    "tags": [
+      "matsumoto",
+      "tokyo express",
+      "novel·la negra",
+      "japó",
+      "investigació",
+      "crim",
+      "edició",
+      "literatura"
+    ],
+    "title": "Arrestat per un manuscrit tardà: 'Tokyo Express' de Seicho Matsumoto",
+    "updated_at": "2026-09-04T18:54:47Z",
+    "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:25Z",
+    "deep_status": "failed",
+    "id": "e0690bed-02c3-4041-907f-fd1d643a6084",
+    "image_file": "e0690bed-02c3-4041-907f-fd1d643a6084.png",
+    "image_url": "https://opengraph.githubassets.com/b108164941fbcbabd8fab99f6c845ce42ead61ed8fb1194ed9c52ad5df081d05/gioblu/NPC-Forge",
+    "img": "img/e0690bed-02c3-4041-907f-fd1d643a6084.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "NPC-Forge desenvolupa un assistent terminal amb IA minimalista, evitant models pesats mitjançant un format de dades propi.",
+    "tags": [
+      "npc-forge",
+      "ia",
+      "terminal",
+      "desenvolupament",
+      "minimalisme",
+      "python",
+      "ai",
+      "open-source",
+      "software",
+      "tecnologia"
+    ],
+    "title": "NPC-Forge: assistent terminal amb IA minimalista",
+    "updated_at": "2026-09-04T18:54:31Z",
+    "url": "https://github.com/gioblu/npc-forge/blob/main/docs/development.md"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:24Z",
+    "deep_status": "none",
+    "id": "b3701ebb-9b97-4a8c-84a1-80a3169d04f2",
+    "link_type": "social",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "NVIDIA adquireix Hugging Face, projecte clau per a la IA local, garantint la continuïtat del suport comunitari i l'agosticitat de llama.cpp.",
+    "tags": [
+      "nvidia",
+      "hugging face",
+      "llama.cpp",
+      "ia",
+      "adquisició",
+      "tecnologia",
+      "open source"
+    ],
+    "title": "NVIDIA adquireix Hugging Face i reforça el suport a llama.cpp",
+    "updated_at": "2026-09-04T18:54:28Z",
+    "url": "https://twitter.com/ggerganov/status/2095897173376618881"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:24Z",
+    "deep_status": "none",
+    "id": "316bc10f-bc33-4cc4-b17b-bd3764d4a1ae",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El projecte OpenTrailPaper utilitza un ESP32-S3 amb 16 MB de flash i pantalla e-paper, suggerint millores com altímetre, GPS i bateria més gran.",
+    "tags": [
+      "esp32",
+      "epaper",
+      "hardware",
+      "open-source",
+      "iot",
+      "electronics"
+    ],
+    "title": "OpenTrailPaper: ESP32-S3 amb pantalla e-paper i suggeriments de millora",
+    "updated_at": "2026-09-04T18:54:27Z",
+    "url": "https://opentrailpaper.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:24Z",
+    "deep_status": "none",
+    "id": "46c5c81f-e193-48de-9209-673de6b50eb7",
+    "image_file": "46c5c81f-e193-48de-9209-673de6b50eb7.jpg",
+    "image_url": "https://torrentfreak.com/images/fappening-naked.jpg",
+    "img": "img/46c5c81f-e193-48de-9209-673de6b50eb7.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Strike 3 Holdings acusa un executiu de Reality Labs de Meta de descarregar gairebé 20.000 fitxers per a la formació d'IA.",
+    "tags": [
+      "meta",
+      "strike3holdings",
+      "torrent",
+      "ia",
+      "pirateria",
+      "realitylabs",
+      "copyright",
+      "lawsuit"
+    ],
+    "title": "Strike 3 vincula un executiu de Meta amb la pirateria torrent",
+    "updated_at": "2026-09-04T18:54:27Z",
+    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:25Z",
+    "deep_status": "none",
+    "id": "f5382ccc-61c3-4940-90b1-6d7862a3317f",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "deSEC ofereix un servei DNS segur i gratuït per millorar la privadesa i seguretat a Internet.",
+    "tags": [
+      "desec",
+      "dns",
+      "seguretat",
+      "privadesa",
+      "gratuït",
+      "internet",
+      "tecnologia"
+    ],
+    "title": "deSEC: DNS segur i gratuït",
+    "updated_at": "2026-09-04T18:54:27Z",
+    "url": "https://desec.io"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T18:54:24Z",
+    "deep_status": "none",
+    "id": "12952ee2-dcfb-4dce-b5fa-43aec8b103f6",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T18:54:25Z",
+    "url": "https://en.wikipedia.org/wiki/hayes_at_command_set"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T22:14:22Z",
+    "deep_status": "done",
+    "id": "a38df5f4-8edb-42b1-b58a-c014fcfb4824",
+    "image_file": "a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
+    "image_url": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
+    "img": "img/a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired",
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI, Anthropic i xAI van patir talls simultanis sense que es confirmés una causa externa compartida.",
+    "tags": [
+      "openai",
+      "anthropic",
+      "xAI",
+      "outages",
+      "ai",
+      "technology",
+      "interruptions"
+    ],
+    "title": "Causes of simultaneous AI outages remain unclear",
+    "updated_at": "2026-09-04T18:54:24Z",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T17:24:21Z",
     "deep_status": "done",
     "id": "97f7e68b-224f-4710-affb-936a840a82a6",
@@ -1765,34 +1974,6 @@
     "title": "RFK Jr. ordena esborrar morts de xarampió del CDC",
     "updated_at": "2026-09-03T23:15:46Z",
     "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T22:14:22Z",
-    "deep_status": "done",
-    "id": "a38df5f4-8edb-42b1-b58a-c014fcfb4824",
-    "image_file": "a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
-    "image_url": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
-    "img": "img/a38df5f4-8edb-42b1-b58a-c014fcfb4824.jpg",
-    "link_type": "article",
-    "reporters": [
-      "wired"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "OpenAI, Anthropic i xAI van patir talls simultanis sense que es confirmés una causa externa compartida.",
-    "tags": [
-      "openai",
-      "anthropic",
-      "xAI",
-      "outages",
-      "ai",
-      "technology",
-      "interruptions"
-    ],
-    "title": "Causes of simultaneous AI outages remain unclear",
-    "updated_at": "2026-09-03T22:14:48Z",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today"
   },
   {
     "code_stats": null,
