@@ -1,6 +1,103 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T16:23:25Z",
+    "deep_status": "done",
+    "id": "037abfe3-6a9f-4076-9260-0a5695272f49",
+    "image_file": "037abfe3-6a9f-4076-9260-0a5695272f49.png",
+    "image_url": "https://static01.nyt.com/images/2026/08/29/business/00OPEN-SOURCE-AI/00OPEN-SOURCE-AI-facebookJumbo.png",
+    "img": "img/037abfe3-6a9f-4076-9260-0a5695272f49.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "AT&T, Airbnb i Deloitte adopten models d'IA de codi obert per reduir costos, que ja representen el 58% de l'ús als EUA.",
+    "tags": [
+      "ia",
+      "codi obert",
+      "att",
+      "empreses",
+      "tecnologia",
+      "estats units",
+      "estalvi"
+    ],
+    "title": "Les grans empreses nord-americanes s'aposten per la IA oberta",
+    "updated_at": "2026-09-04T16:24:11Z",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T16:23:25Z",
+    "deep_status": "done",
+    "id": "900db0a1-da2a-49c5-ad67-0c00a31f72fc",
+    "image_file": "900db0a1-da2a-49c5-ad67-0c00a31f72fc.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/28a6d4d584aaee15675af89663fbbe5829d4ad4b/399_0_3990_3192/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4104ffbce74c1feb8da3cae643abcc81",
+    "img": "img/900db0a1-da2a-49c5-ad67-0c00a31f72fc.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Les forces armades nord-americanes han desactivat els identificadors publicitaris en dispositius militars per evitar que dades de localització siguin utilitzades per enemics al Pròxim Orient.",
+    "tags": [
+      "militar",
+      "seguretat",
+      "privadesa",
+      "dades",
+      "tecnologia",
+      "eeuu"
+    ],
+    "title": "L'exèrcit dels EUA bloqueja rastrejadors publicitaris als mòbils",
+    "updated_at": "2026-09-04T16:23:51Z",
+    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T16:23:25Z",
+    "deep_status": "none",
+    "id": "9a3c83f5-e12f-4b18-a539-2c0eaffb8662",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Gmail deixarà de suportar l'enviament des d'adreces de tercers el 2027, afectant comptes com Yahoo o Outlook, però no els alias de Workspace.",
+    "tags": [
+      "gmail",
+      "enviament",
+      "tercers",
+      "canvis",
+      "2027",
+      "configuració",
+      "seguretat"
+    ],
+    "title": "Gmail elimina el 2027 l'enviament des d'adreces de tercers",
+    "updated_at": "2026-09-04T16:23:30Z",
+    "url": "https://support.google.com/mail/answer/22370?hl=en"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "none",
+    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T16:23:26Z",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T16:15:21Z",
     "deep_status": "done",
     "id": "31537974-938d-4fb2-98a2-48fda78a0e5c",
@@ -55,23 +152,6 @@
     "title": "Burnout: quan el descans no funciona",
     "updated_at": "2026-09-04T15:22:55Z",
     "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T12:51:21Z",
-    "deep_status": "none",
-    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T15:22:29Z",
-    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
   },
   {
     "code_stats": null,
