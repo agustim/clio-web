@@ -1,6 +1,65 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T14:15:21Z",
+    "deep_status": "done",
+    "id": "b874631a-b20a-4e9f-830e-771b627ce192",
+    "image_file": "b874631a-b20a-4e9f-830e-771b627ce192.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
+    "img": "img/b874631a-b20a-4e9f-830e-771b627ce192.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Isar, PLD Space i HyImpulse renoven finançament mentre Isar intenta el llançament del Spectrum a Noruega.",
+    "tags": [
+      "space",
+      "rocket",
+      "startup",
+      "europe",
+      "launch",
+      "fundraising",
+      "isar",
+      "pld",
+      "hyimpulse"
+    ],
+    "title": "Startups europees recapten fons i Isar Aerospace intenta llançar",
+    "updated_at": "2026-09-04T14:15:45Z",
+    "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:15:21Z",
+    "deep_status": "done",
+    "id": "d7bfab1b-e5fc-4929-88d6-c15ce527141c",
+    "image_file": "d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
+    "img": "img/d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Fairphone llança als EUA el Gen 6+, un mòdul dissenyat per a la longevitat i la reparació fàcil, prioritzant la sostenibilitat i la propietat real del dispositiu.",
+    "tags": [
+      "fairphone",
+      "gen 6+",
+      "reparabilitat",
+      "sostenibilitat",
+      "tecnologia",
+      "mercat americà",
+      "modularitat",
+      "electrònica"
+    ],
+    "title": "Fairphone Gen 6+: el telèfon ètic i reparable que arriba als EUA",
+    "updated_at": "2026-09-04T14:15:41Z",
+    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T12:51:21Z",
     "deep_status": "done",
     "id": "bc9b082f-f58a-41e5-8e0e-e3aec4fd9a94",
