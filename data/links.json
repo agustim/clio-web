@@ -1,6 +1,152 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T17:15:21Z",
+    "deep_status": "done",
+    "id": "f9cf8ada-6e31-468a-9fe5-670e1339ba7e",
+    "image_file": "f9cf8ada-6e31-468a-9fe5-670e1339ba7e.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940-1152x648.jpg",
+    "img": "img/f9cf8ada-6e31-468a-9fe5-670e1339ba7e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La Casa Blanca va pressionar empreses nord-americanes per abandonar la cimera espacial de Macron, tement polítiques perjudicials.",
+    "tags": [
+      "trump",
+      "espai",
+      "macron",
+      "estats units",
+      "frança",
+      "spaceX",
+      "diplomàcia",
+      "política"
+    ],
+    "title": "Trump pressiona empreses espacials per boicotejar cimera francesa",
+    "updated_at": "2026-09-04T17:16:02Z",
+    "url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T17:15:21Z",
+    "deep_status": "done",
+    "id": "91713fd6-f6f9-464a-93f8-fbc4f198e450",
+    "image_file": "91713fd6-f6f9-464a-93f8-fbc4f198e450.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x648.jpeg",
+    "img": "img/91713fd6-f6f9-464a-93f8-fbc4f198e450.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Investigadors han cartografiat per segona vegada cada neurona i connexió del cervell de la mosca de la fruita, un avanç clau per a la neurobiologia.",
+    "tags": [
+      "neurobiologia",
+      "connectoma",
+      "mosca de la fruita",
+      "cerne",
+      "recerca",
+      "ciència",
+      "tecnologia",
+      "synapses"
+    ],
+    "title": "Completada la segona connexoma del cervell de la mosca de la fruita",
+    "updated_at": "2026-09-04T17:15:50Z",
+    "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T17:15:21Z",
+    "deep_status": "done",
+    "id": "72002c3c-8167-40e4-8a32-d4d0adeab210",
+    "image_file": "72002c3c-8167-40e4-8a32-d4d0adeab210.png",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/l4d2-1152x648-1788538783.png",
+    "img": "img/72002c3c-8167-40e4-8a32-d4d0adeab210.png",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Valve va filtrar el tràiler de Left 4 Dead 2 el 2009 perquè l'ESRB no el va aprovar, evitant així restriccions sobre la violència.",
+    "tags": [
+      "valve",
+      "left 4 dead 2",
+      "esrb",
+      "tràiler",
+      "filtració",
+      "chris faliszek",
+      "jocs"
+    ],
+    "title": "Valve va filtrar el tràiler de Left 4 Dead 2 per saltar-se la censura de l'ESRB",
+    "updated_at": "2026-09-04T17:15:48Z",
+    "url": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T17:15:21Z",
+    "deep_status": "done",
+    "id": "ebc3e022-5404-4323-aa9a-a8ccd4328907",
+    "image_file": "ebc3e022-5404-4323-aa9a-a8ccd4328907.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+    "img": "img/ebc3e022-5404-4323-aa9a-a8ccd4328907.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La IPO d'Anthropic exposa el seu model de governança únic, on un trust extern controla el consell per equilibrar beneficis i propòsit social.",
+    "tags": [
+      "anthropic",
+      "ipo",
+      "governança",
+      "ia",
+      "trust",
+      "negocis",
+      "tecnologia",
+      "regulació",
+      "consell",
+      "profit"
+    ],
+    "title": "El trust extern d'Anthropic posa a prova la seva governança davant la IPO",
+    "updated_at": "2026-09-04T17:15:46Z",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T17:15:21Z",
+    "deep_status": "done",
+    "id": "b72425a6-ce21-459a-b2a0-bc0573a4c030",
+    "image_file": "b72425a6-ce21-459a-b2a0-bc0573a4c030.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-1152x648.jpg",
+    "img": "img/b72425a6-ce21-459a-b2a0-bc0573a4c030.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El tribunal atura Operation Bluebird d'usar el nom Twitter, però reconeix l'abandonament de la marca \"tweet\" i el logotip de l'ocell.",
+    "tags": [
+      "musk",
+      "x",
+      "twitter",
+      "legal",
+      "marca",
+      "judicial",
+      "trademark",
+      "bluebird"
+    ],
+    "title": "Musk obté ordre judicial per bloquejar l'ús del nom \"Twitter\"",
+    "updated_at": "2026-09-04T17:15:45Z",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T16:23:25Z",
     "deep_status": "done",
     "id": "037abfe3-6a9f-4076-9260-0a5695272f49",
