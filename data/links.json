@@ -1,6 +1,60 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T04:46:22Z",
+    "deep_status": "done",
+    "id": "34e57f12-9953-4d70-918c-0d5e5715befb",
+    "image_file": "34e57f12-9953-4d70-918c-0d5e5715befb.png",
+    "image_url": "https://agentconnect.md/blog/grep-beat-lsp-harness/opengraph-image?d16862f2020c5939",
+    "img": "img/34e57f12-9953-4d70-918c-0d5e5715befb.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un estudi revela que els agents LLM opten per grep per la seva simplicitat, tot i que LSP ofereix més precisió en contextos sorollosos.",
+    "tags": [
+      "llm",
+      "grep",
+      "lsp",
+      "codi",
+      "agents",
+      "programació",
+      "anàlisi"
+    ],
+    "title": "Per què els agents de codi prefereixen grep a LSP",
+    "updated_at": "2026-09-04T04:46:40Z",
+    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T04:46:22Z",
+    "deep_status": "none",
+    "id": "6c8092e3-2b23-44c9-b98d-92c1c1f3b0e6",
+    "image_file": "6c8092e3-2b23-44c9-b98d-92c1c1f3b0e6.png",
+    "image_url": "https://reactoratlas.com/og/home/en.png",
+    "img": "img/6c8092e3-2b23-44c9-b98d-92c1c1f3b0e6.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Dades sobre la potència elèctrica neta en megawatts dels reactors nuclears en funcionament durant l'any seleccionat.",
+    "tags": [
+      "energia",
+      "nuclear",
+      "reactors",
+      "potencia",
+      "electricitat"
+    ],
+    "title": "Potència neta dels reactors operatius",
+    "updated_at": "2026-09-04T04:46:24Z",
+    "url": "https://reactoratlas.com"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T03:45:28Z",
     "deep_status": "done",
     "id": "3820849b-b3fa-438c-829b-495e3b81389f",
