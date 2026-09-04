@@ -1,6 +1,181 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "2ec32525-f922-4d67-b4b8-7a16e9717bdf",
+    "image_file": "2ec32525-f922-4d67-b4b8-7a16e9717bdf.jpg",
+    "image_url": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/191:100/w_1280,c_limit/Home-Depot's-Labor-Day-Sale-Includes-BOGO-Deals-on-the-Best-Grills-and-Tools.jpg",
+    "img": "img/2ec32525-f922-4d67-b4b8-7a16e9717bdf.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Home Depot llança ofertes BOGO en eines i descomptes en brises, destacant models Traeger i Milwaukee.",
+    "tags": [
+      "home depot",
+      "labor day",
+      "grills",
+      "tools",
+      "traeger",
+      "weber",
+      "milwaukee",
+      "ryobi",
+      "deals",
+      "diy"
+    ],
+    "title": "Ofertes del Dia del Treball a Home Depot: Brises i eines",
+    "updated_at": "2026-09-04T19:16:05Z",
+    "url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "bef52847-9bcf-4c94-9ae6-1f498662b051",
+    "image_file": "bef52847-9bcf-4c94-9ae6-1f498662b051.jpg",
+    "image_url": "https://media.wired.com/photos/6a9af6d18a4288faa89a786c/191:100/w_1280,c_limit/Casio-Leaked-Top.jpg",
+    "img": "img/bef52847-9bcf-4c94-9ae6-1f498662b051.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Fuiten imatges del nou G-Shock GMC-2500 i GAC-2500, anomenat 'CasioNaut', amb disseny molt similar al Patek Philippe Nautilus.",
+    "tags": [
+      "casio",
+      "g-shock",
+      "relojeria",
+      "casionaut",
+      "nautilus",
+      "patek philippe",
+      "genta",
+      "luxury",
+      "tech",
+      "watch"
+    ],
+    "title": "Casio filtra el nou G-Shock 'CasioNaut', inspirat en el Patek Philippe Nautilus",
+    "updated_at": "2026-09-04T19:16:05Z",
+    "url": "https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "1acefb19-c16e-49a3-9eb2-40557479f06e",
+    "image_file": "1acefb19-c16e-49a3-9eb2-40557479f06e.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+    "img": "img/1acefb19-c16e-49a3-9eb2-40557479f06e.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Broadcom admet que ha posat massa èmfasi en VCF, alienant les PMEs per preus elevats i tàctiques de venda agressives, la qual cosa ha erosionat la confiança del mercat.",
+    "tags": [
+      "vmware",
+      "broadcom",
+      "smb",
+      "vcf",
+      "vsphere",
+      "trust",
+      "licensing",
+      "cloud"
+    ],
+    "title": "VMware reconeix que ha prioritzat VCF i perd confiança dels PMEs",
+    "updated_at": "2026-09-04T19:15:50Z",
+    "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "caa512cf-f12f-4af0-aa04-93c73a0f1de9",
+    "image_file": "caa512cf-f12f-4af0-aa04-93c73a0f1de9.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+    "img": "img/caa512cf-f12f-4af0-aa04-93c73a0f1de9.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els estafadors utilitzen l'smuggling ASCII per camuflar paraules clau i burlar els filtres d'SPAM basats en IA.",
+    "tags": [
+      "spam",
+      "ascii smuggling",
+      "unicode",
+      "seguretat",
+      "microsoft",
+      "filtres",
+      "ia",
+      "estafes"
+    ],
+    "title": "Els estafadors adopten l'smuggling ASCII per burlar els filtres d'SPAM",
+    "updated_at": "2026-09-04T19:15:50Z",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "b090b1b8-7e52-4742-8055-e111360de439",
+    "image_file": "b090b1b8-7e52-4742-8055-e111360de439.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
+    "img": "img/b090b1b8-7e52-4742-8055-e111360de439.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Científics extreuen ADN del virus de la verola ovina de pergamins medievals per rastrejar la seva evolució durant 3.500 anys.",
+    "tags": [
+      "medieval",
+      "pergamí",
+      "virus",
+      "verola ovina",
+      "ADN antic",
+      "història",
+      "ciència"
+    ],
+    "title": "El pergamí medieval, càpsula del temps del virus de la verola ovina",
+    "updated_at": "2026-09-04T19:15:47Z",
+    "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "ccdca527-ab62-4138-b0b2-e13e291729ff",
+    "image_file": "ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
+    "img": "img/ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El Pentàgon ha retirat la guia de cribratge de testosterona un dia després de publicar-la, sense detallar les millores ni les raons de la retirada.",
+    "tags": [
+      "pentagon",
+      "testosterona",
+      "militars",
+      "salut",
+      "politica",
+      "eeuu"
+    ],
+    "title": "El Pentàgon retira la política de test de testosterona sense explicacions",
+    "updated_at": "2026-09-04T19:15:44Z",
+    "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T18:54:25Z",
     "deep_status": "done",
     "id": "7d54d4ee-2efa-42fa-8ca8-2058ed92a455",
