@@ -1,6 +1,291 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-04T14:21:27Z",
+    "deep_status": "done",
+    "id": "0307c347-5725-4b30-b0fb-2ffff7b503c5",
+    "image_file": "0307c347-5725-4b30-b0fb-2ffff7b503c5.jpg",
+    "image_url": "https://productrise.app/storage/images/blogs/ai-mode-more-expensive-study-og.jpg",
+    "img": "img/0307c347-5725-4b30-b0fb-2ffff7b503c5.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un estudi revela que l'AI Mode de Google presenta els mateixos productes un 21,6% més cars que la cerca tradicional.",
+    "tags": [
+      "google",
+      "ai mode",
+      "preus",
+      "comparativa",
+      "cerca",
+      "productrise",
+      "estudi",
+      "consumidors"
+    ],
+    "title": "L'AI Mode de Google mostra productes un 21,6% més cars",
+    "updated_at": "2026-09-04T14:22:26Z",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:27Z",
+    "deep_status": "done",
+    "id": "02fb2808-97b6-4667-ade9-20cf0d2dc448",
+    "image_file": "02fb2808-97b6-4667-ade9-20cf0d2dc448.png",
+    "image_url": "https://spacetimedb.com/og/blog/how-does-spacetime-scale.png",
+    "img": "img/02fb2808-97b6-4667-ade9-20cf0d2dc448.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Spacetime analitza l'escalabilitat horitzontal en computació, emmagatzematge i xarxa, contrastant-ne les limitacions amb alternatives com CockroachDB.",
+    "tags": [
+      "spacetime",
+      "escalabilitat",
+      "bases de dades",
+      "horitzontal",
+      "computació",
+      "emmagatzematge",
+      "xarxa",
+      "cognomdb"
+    ],
+    "title": "Escala de Spacetime: tres dimensions i límits de l'escalabilitat horitzontal",
+    "updated_at": "2026-09-04T14:22:16Z",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:26Z",
+    "deep_status": "done",
+    "id": "b03ecc59-6556-4848-89e7-98e4c746e853",
+    "image_file": "b03ecc59-6556-4848-89e7-98e4c746e853.jpg",
+    "image_url": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/08/Groz-Stephen-Feinberg-DOD-082126.jpg?fit=2000%2C1333&ssl=1",
+    "img": "img/b03ecc59-6556-4848-89e7-98e4c746e853.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un advocat que representa el Pentagon en un tracte de minerals també gestiona els actius de Stephen Feinberg, segon civil del Departament de Defensa, generant dubtes ètics.",
+    "tags": [
+      "pentagon",
+      "defensa",
+      "minerals",
+      "conflicte",
+      "cerberus",
+      "feinberg",
+      "legal",
+      "etica"
+    ],
+    "title": "Advocat del Pentagon amb vincles a Cerberus en tracte de minerals",
+    "updated_at": "2026-09-04T14:22:01Z",
+    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:27Z",
+    "deep_status": "done",
+    "id": "c2c4fa53-e8b3-4b22-9c53-8907b535d3ea",
+    "image_file": "c2c4fa53-e8b3-4b22-9c53-8907b535d3ea.jpg",
+    "image_url": "https://www.sciencealert.com/images/2026/09/tuna-parasite.jpg",
+    "img": "img/c2c4fa53-e8b3-4b22-9c53-8907b535d3ea.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un estudi revela que el 96% de les tonyines brasileres analitzades presenten paràsits, destacant la necessitat d'inspecció sanitària.",
+    "tags": [
+      "tuna",
+      "parasits",
+      "brasils",
+      "salut",
+      "pesca",
+      "seguretat alimentaria",
+      "anisakis",
+      "ciència"
+    ],
+    "title": "El 96% dels tonyines brasileres porten paràsits",
+    "updated_at": "2026-09-04T14:21:59Z",
+    "url": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected"
+  },
+  {
+    "code_stats": {
+      "bytes": 41229,
+      "files": 1,
+      "has_readme": true,
+      "languages": {
+        "Markdown": {
+          "files": 1,
+          "loc": 178
+        }
+      },
+      "loc": 178,
+      "top_languages": [
+        {
+          "files": 1,
+          "lang": "Markdown",
+          "loc": 178
+        }
+      ]
+    },
+    "created_at": "2026-09-04T14:21:27Z",
+    "deep_status": "done",
+    "id": "06430b24-8c0f-4262-a268-7398eca059fd",
+    "image_file": "06430b24-8c0f-4262-a268-7398eca059fd.png",
+    "image_url": "https://opengraph.githubassets.com/c7b03c4566ca0a046385883a72592309bf73319aa1732886335712a55e444255/hawshemi/lg-c5-webos25-region-change",
+    "img": "img/06430b24-8c0f-4262-a268-7398eca059fd.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un script bypassa la restricció artificial que desactiva el 5 GHz a LG, permetent activar-lo canviant la configuració de regió del televisor.",
+    "tags": [
+      "lg",
+      "webos",
+      "wifi",
+      "5ghz",
+      "tutorial",
+      "script",
+      "regió",
+      "configuració"
+    ],
+    "title": "Soluciona el Wi-Fi 5 GHz bloquejat a LG amb un canvi de regió",
+    "updated_at": "2026-09-04T14:21:50Z",
+    "url": "https://github.com/hawshemi/lg-c5-webos25-region-change"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:26Z",
+    "deep_status": "none",
+    "id": "3650033e-6676-48c4-a3cb-769b21fa66ac",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T14:21:37Z",
+    "url": "https://www.wsj.com/finance/investing/norways-oil-fund-proposes-cut-to-government-bond-holdings-d930893f"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T12:51:21Z",
+    "deep_status": "none",
+    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-04T14:21:36Z",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:27Z",
+    "deep_status": "none",
+    "id": "28c8aea4-4be7-492e-9c14-b0db64ef9696",
+    "image_file": "28c8aea4-4be7-492e-9c14-b0db64ef9696.png",
+    "image_url": "https://bob.ibm.com/bob-og.png",
+    "img": "img/28c8aea4-4be7-492e-9c14-b0db64ef9696.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "IBM Bob és un soci de desenvolupament amb IA que accelera la modernització de sistemes legats i optimitza els cicles de vida del programari empresarial.",
+    "tags": [
+      "ibm",
+      "bob",
+      "ia",
+      "desenvolupament",
+      "modernització",
+      "codi",
+      "empresarial",
+      "productivitat"
+    ],
+    "title": "IBM Bob, l'agent d'IA que modernitza el desenvolupament de programari",
+    "updated_at": "2026-09-04T14:21:35Z",
+    "url": "https://bob.ibm.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:21:26Z",
+    "deep_status": "none",
+    "id": "f30127e0-4f75-4913-bb6a-14f5cbfc460b",
+    "image_file": "f30127e0-4f75-4913-bb6a-14f5cbfc460b.jpg",
+    "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fffb53d0f-d70d-4af0-9421-6588104ccf76.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+    "img": "img/f30127e0-4f75-4913-bb6a-14f5cbfc460b.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Els votants de Pennsilvània s'oposen a la construcció de data centers, advertint que la gent serà perjudicada.",
+    "tags": [
+      "pennsilvània",
+      "data centers",
+      "votants",
+      "oposició",
+      "energia",
+      "infraestructura",
+      "política",
+      "controvèrsia"
+    ],
+    "title": "Votants de Pennsilvània contra data centers",
+    "updated_at": "2026-09-04T14:21:31Z",
+    "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T14:15:21Z",
+    "deep_status": "done",
+    "id": "d7bfab1b-e5fc-4929-88d6-c15ce527141c",
+    "image_file": "d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
+    "img": "img/d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica",
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Fairphone llança als EUA el Gen 6+, un mòdul dissenyat per a la longevitat i la reparació fàcil, prioritzant la sostenibilitat i la propietat real del dispositiu.",
+    "tags": [
+      "fairphone",
+      "gen 6+",
+      "reparabilitat",
+      "sostenibilitat",
+      "tecnologia",
+      "mercat americà",
+      "modularitat",
+      "electrònica"
+    ],
+    "title": "Fairphone Gen 6+: el telèfon ètic i reparable que arriba als EUA",
+    "updated_at": "2026-09-04T14:21:27Z",
+    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-04T14:15:21Z",
     "deep_status": "done",
     "id": "b874631a-b20a-4e9f-830e-771b627ce192",
@@ -28,35 +313,6 @@
     "title": "Startups europees recapten fons i Isar Aerospace intenta llançar",
     "updated_at": "2026-09-04T14:15:45Z",
     "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T14:15:21Z",
-    "deep_status": "done",
-    "id": "d7bfab1b-e5fc-4929-88d6-c15ce527141c",
-    "image_file": "d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
-    "img": "img/d7bfab1b-e5fc-4929-88d6-c15ce527141c.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "positive",
-    "status": "done",
-    "summary": "Fairphone llança als EUA el Gen 6+, un mòdul dissenyat per a la longevitat i la reparació fàcil, prioritzant la sostenibilitat i la propietat real del dispositiu.",
-    "tags": [
-      "fairphone",
-      "gen 6+",
-      "reparabilitat",
-      "sostenibilitat",
-      "tecnologia",
-      "mercat americà",
-      "modularitat",
-      "electrònica"
-    ],
-    "title": "Fairphone Gen 6+: el telèfon ètic i reparable que arriba als EUA",
-    "updated_at": "2026-09-04T14:15:41Z",
-    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6"
   },
   {
     "code_stats": null,
@@ -141,23 +397,6 @@
     "title": "O&O ShutUp10++: Controla la privadesa de Windows",
     "updated_at": "2026-09-04T12:51:44Z",
     "url": "https://www.oo-software.com/en/shutup10"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T12:51:21Z",
-    "deep_status": "none",
-    "id": "e79c37e1-561c-41b9-b713-0b0fb798dfed",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-04T12:51:22Z",
-    "url": "https://www.ycombinator.com/companies/subimage/jobs/nctfgkk-founding-engineer"
   },
   {
     "code_stats": null,
