@@ -1,6 +1,60 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T18:01:25Z",
+    "deep_status": "done",
+    "id": "5944b327-0164-41b3-bdd2-a9e52feb7682",
+    "image_file": "5944b327-0164-41b3-bdd2-a9e52feb7682.jpg",
+    "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/PoliceFlockv2.jpg",
+    "img": "img/5944b327-0164-41b3-bdd2-a9e52feb7682.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Un veterà va ser detingut il·legalment per gravar una detenció; la policia va utilitzar Flock més de 100 vegades per rastrejar-lo com a represàlia.",
+    "tags": [
+      "flock",
+      "wisconsin",
+      "veterà",
+      "repressàlia",
+      "privacitat",
+      "polícia",
+      "drets",
+      "tecnologia",
+      "justícia"
+    ],
+    "title": "Policies de Wisconsin utilitzen Flock per rastrejar un veterà",
+    "updated_at": "2026-09-05T18:01:48Z",
+    "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T17:00:23Z",
+    "deep_status": "none",
+    "id": "bb4c3343-74f2-445e-b959-253186245efe",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'autor reflexiona sobre com la politització excessiva ha erosionat les relacions veïnals i la convivència quotidiana, valorant la discreció del passat.",
+    "tags": [
+      "veïns",
+      "política",
+      "comunitat",
+      "societat",
+      "relacions",
+      "vida quotidiana"
+    ],
+    "title": "La pèrdua de la proximitat veïnal per la política",
+    "updated_at": "2026-09-05T18:01:28Z",
+    "url": "https://marco.org/2026/09/04/bob-and-van"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T17:00:23Z",
     "deep_status": "done",
     "id": "08b23ac4-4174-4880-a8a4-c5cc36ab15bb",
@@ -52,23 +106,6 @@
     "title": "La indústria tabaquètica va impulsar els aliments ultraprocessats",
     "updated_at": "2026-09-05T17:00:40Z",
     "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T17:00:23Z",
-    "deep_status": "none",
-    "id": "bb4c3343-74f2-445e-b959-253186245efe",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-05T17:00:33Z",
-    "url": "https://marco.org/2026/09/04/bob-and-van"
   },
   {
     "code_stats": null,
