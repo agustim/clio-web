@@ -1,6 +1,85 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T19:02:21Z",
+    "deep_status": "done",
+    "id": "7fee67c3-3094-4570-ad89-6c2379bf8d78",
+    "image_file": "7fee67c3-3094-4570-ad89-6c2379bf8d78.jpg",
+    "image_url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/Rust_fungus_-_Flickr_-_gailhampshire.jpg",
+    "img": "img/7fee67c3-3094-4570-ad89-6c2379bf8d78.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Anàlisi de com Rust implementa la polimorfia dinàmica amb dyn Trait i vtables, comparant-ho amb C++ i explorant la monomorfització.",
+    "tags": [
+      "rust",
+      "vtables",
+      "polimorfia",
+      "memòria",
+      "trait",
+      "c++",
+      "monomorfització",
+      "dyn"
+    ],
+    "title": "Com funcionen els vtables de Rust en memòria",
+    "updated_at": "2026-09-05T19:02:42Z",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T19:02:21Z",
+    "deep_status": "done",
+    "id": "abd0bb03-b1d4-48d7-b189-68262854c607",
+    "image_file": "abd0bb03-b1d4-48d7-b189-68262854c607.png",
+    "image_url": "https://feld.com/og-default.png",
+    "img": "img/abd0bb03-b1d4-48d7-b189-68262854c607.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Un home de 60 anys reflexiona sobre què li importa realment i comparteix una llista de les veritables luxes de la vida.",
+    "tags": [
+      "luxes",
+      "reflexió",
+      "vida",
+      "edat",
+      "família"
+    ],
+    "title": "Les veritables luxes de la vida",
+    "updated_at": "2026-09-05T19:02:37Z",
+    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T19:02:21Z",
+    "deep_status": "none",
+    "id": "0e375b5b-0062-4732-bdb6-970f3c4621e1",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Traducció al anglès del llibre francès sobre OCaml, finançada per la fundació del programari i amb llicència CC BY SA 4.0.",
+    "tags": [
+      "ocaml",
+      "programació",
+      "llibre",
+      "traducció",
+      "codi obert",
+      "licència"
+    ],
+    "title": "Llibre d'OCaml traduït al anglès amb llicència oberta",
+    "updated_at": "2026-09-05T19:02:24Z",
+    "url": "https://usr.lmf.cnrs.fr/lpo"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T18:01:25Z",
     "deep_status": "done",
     "id": "5944b327-0164-41b3-bdd2-a9e52feb7682",
