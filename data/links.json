@@ -1,6 +1,94 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T15:59:23Z",
+    "deep_status": "done",
+    "id": "9f724ec5-6523-444c-8fae-7c0d2276df0d",
+    "image_file": "9f724ec5-6523-444c-8fae-7c0d2276df0d.jpg",
+    "image_url": "https://www.propublica.org/wp-content/uploads/2026/09/Podcast_social-image_3m_final.jpg?w=1200",
+    "img": "img/9f724ec5-6523-444c-8fae-7c0d2276df0d.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "3M sabia des dels anys 70 que els PFAS eren tòxics però ho va ocultar, provocant una catàstrofe global.",
+    "tags": [
+      "3m",
+      "pfas",
+      "químics eterns",
+      "transparència",
+      "salut pública",
+      "investigació"
+    ],
+    "title": "Com 3M va amagar la toxicitat dels químics eterns",
+    "updated_at": "2026-09-05T15:59:43Z",
+    "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:27Z",
+    "deep_status": "none",
+    "id": "c0badbae-79f5-4ec7-9e2e-3740aa011249",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T15:59:33Z",
+    "url": "https://simonwillison.net/2026/sep/2/claudes-new-system-prompt"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T15:59:23Z",
+    "deep_status": "none",
+    "id": "5da98540-22e7-4f86-a5ec-b11f50115cd6",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T15:59:33Z",
+    "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T15:59:23Z",
+    "deep_status": "none",
+    "id": "164a38ed-66b5-4de5-a372-84002f662bcf",
+    "image_file": "164a38ed-66b5-4de5-a372-84002f662bcf.png",
+    "image_url": "https://kk.org/cooltools/wp-content/themes/ct2016/images/logo.png",
+    "img": "img/164a38ed-66b5-4de5-a372-84002f662bcf.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El poeta Stanley Kunitz va patir la censura de la seva mare sobre el seu pare, fet que va influir en la seva obra i activisme contra la censura.",
+    "tags": [
+      "stanley kunitz",
+      "poesia",
+      "censura",
+      "biografia",
+      "literatura",
+      "antiamericana"
+    ],
+    "title": "L'antiga censura familiar que va marcar Stanley Kunitz",
+    "updated_at": "2026-09-05T15:59:28Z",
+    "url": "https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T14:58:26Z",
     "deep_status": "done",
     "id": "f0660666-36b5-4aeb-afc4-ca2a43bcc3d9",
@@ -77,23 +165,6 @@
     "title": "Ignora-ho tot per defecte amb Git",
     "updated_at": "2026-09-05T14:58:50Z",
     "url": "https://packagemain.tech/p/gitignore-everything-by-default"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T14:58:27Z",
-    "deep_status": "none",
-    "id": "c0badbae-79f5-4ec7-9e2e-3740aa011249",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-05T14:58:40Z",
-    "url": "https://simonwillison.net/2026/sep/2/claudes-new-system-prompt"
   },
   {
     "code_stats": null,
