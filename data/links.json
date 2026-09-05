@@ -1,6 +1,51 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T05:56:21Z",
+    "deep_status": "done",
+    "id": "4d24efd4-2aee-4b19-bd0a-b9fee6d439a6",
+    "image_file": "4d24efd4-2aee-4b19-bd0a-b9fee6d439a6.png",
+    "image_url": "https://www.coderabbit.ai/content/assets/gpt-6-astra/header.png",
+    "img": "img/4d24efd4-2aee-4b19-bd0a-b9fee6d439a6.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "GPT-6 Astra detecta més errors en codi complex que competidors, però amb un cost significativament superior.",
+    "tags": [
+      "gpt-6",
+      "astra",
+      "openai",
+      "codi",
+      "preus",
+      "intel·ligència artificial",
+      "desenvolupament"
+    ],
+    "title": "GPT-6 Astra: millora en codi complex i preu elevat",
+    "updated_at": "2026-09-05T05:56:40Z",
+    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T00:56:21Z",
+    "deep_status": "none",
+    "id": "6868a3d9-a4c2-41ad-9c4e-87ca7460dc87",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T05:56:22Z",
+    "url": "https://www.charlespetzold.com/blog/2026/09/can-guitar-frets-perform-multiplication.html"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T01:56:21Z",
     "deep_status": "none",
     "id": "a86a35d1-2f24-44cb-ae22-4e5d15895a95",
@@ -24,23 +69,6 @@
     "title": "Forgejo impulsa el projecte",
     "updated_at": "2026-09-05T04:26:23Z",
     "url": "https://codeberg.org/mv12star/shitter/wiki/instances"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T00:56:21Z",
-    "deep_status": "none",
-    "id": "6868a3d9-a4c2-41ad-9c4e-87ca7460dc87",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-05T04:26:22Z",
-    "url": "https://www.charlespetzold.com/blog/2026/09/can-guitar-frets-perform-multiplication.html"
   },
   {
     "code_stats": null,
