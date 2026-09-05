@@ -1,6 +1,31 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T09:26:22Z",
+    "deep_status": "done",
+    "id": "21aea166-2777-41d0-ac42-288510fe190f",
+    "image_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Les eines d'IA redueixen el temps de resolució, però els enginyers perden pràctica i poden fallar en incidents complexos.",
+    "tags": [
+      "ia",
+      "sre",
+      "automatització",
+      "seguretat",
+      "enginyeria",
+      "formació"
+    ],
+    "title": "La IA resol incidències i els enginyers perden contacte amb els sistemes",
+    "updated_at": "2026-09-05T09:26:42Z",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T09:15:21Z",
     "deep_status": "done",
     "id": "bed20116-a550-43f2-bb05-c27d40e4f752",
