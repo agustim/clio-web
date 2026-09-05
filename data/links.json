@@ -1,6 +1,160 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T14:58:26Z",
+    "deep_status": "done",
+    "id": "f0660666-36b5-4aeb-afc4-ca2a43bcc3d9",
+    "image_file": "f0660666-36b5-4aeb-afc4-ca2a43bcc3d9.jpg",
+    "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T192943Z_1189723666_RC2NBNAQY6VR_RTRMADP_3_CLIMATE-CHANGE-SWISS-GLACIERS-1024x683.jpg",
+    "img": "img/f0660666-36b5-4aeb-afc4-ca2a43bcc3d9.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'ONU admet que la temperatura global superarà el límit de 1,5 °C en els pròxims anys, tot i que es manté l'objectiu de reduir-ho posteriorment.",
+    "tags": [
+      "onu",
+      "canvi climàtic",
+      "escalfament global",
+      "parís",
+      "temperatura",
+      "emissions"
+    ],
+    "title": "L'ONU confirma que el planeta superarà el llindar de 1,5 °C",
+    "updated_at": "2026-09-05T14:58:56Z",
+    "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:26Z",
+    "deep_status": "done",
+    "id": "86e40494-812f-47e9-9a02-50f2967e13b0",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El codi pot empitjorar indefinidament sense límits físics, a diferència d'estructures reals.",
+    "tags": [
+      "codi",
+      "deute_tècnic",
+      "software",
+      "amazon",
+      "arquitectura",
+      "complexitat"
+    ],
+    "title": "Per què el codi mai no s'ofega",
+    "updated_at": "2026-09-05T14:58:52Z",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:26Z",
+    "deep_status": "done",
+    "id": "6e62dc20-2a35-40e0-a8c3-ac62fbf19451",
+    "image_file": "6e62dc20-2a35-40e0-a8c3-ac62fbf19451.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!n_v-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66737cc1-4fea-4340-a7cf-1401dc895d52_1280x720.jpeg",
+    "img": "img/6e62dc20-2a35-40e0-a8c3-ac62fbf19451.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Proposa ignorar tots els fitxers per defecte i permetre només els explícits per evitar commits accidentals de dades sensibles o innecessàries.",
+    "tags": [
+      "git",
+      "gitignore",
+      "programacio",
+      "desenvolupament",
+      "seguretat",
+      "go",
+      "typescript"
+    ],
+    "title": "Ignora-ho tot per defecte amb Git",
+    "updated_at": "2026-09-05T14:58:50Z",
+    "url": "https://packagemain.tech/p/gitignore-everything-by-default"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:27Z",
+    "deep_status": "none",
+    "id": "c0badbae-79f5-4ec7-9e2e-3740aa011249",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T14:58:40Z",
+    "url": "https://simonwillison.net/2026/sep/2/claudes-new-system-prompt"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:27Z",
+    "deep_status": "none",
+    "id": "58d72c68-5364-4a56-8014-920af1ff9a8d",
+    "image_file": "58d72c68-5364-4a56-8014-920af1ff9a8d.jpg",
+    "image_url": "https://assets.buttondown.email/images/fe616cfc-8872-4971-ad45-313755d84434.jpg?w=960&fit=max",
+    "img": "img/58d72c68-5364-4a56-8014-920af1ff9a8d.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El Spartan, emulador Apple II+ per al C64, va arribar tard i rebre crítiques, però la seva publicitat amb un mímics és icònica i les unitats s'han venut per més de 5.500 dòlars.",
+    "tags": [
+      "commodore 64",
+      "spartan",
+      "mimic systems",
+      "apple ii+",
+      "publicitat",
+      "retrocomputació",
+      "perifèrics"
+    ],
+    "title": "El Spartan de Commodore 64: un perifèric tardà i publicitat estrafolària",
+    "updated_at": "2026-09-05T14:58:31Z",
+    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-03T17:11:21Z",
+    "deep_status": "done",
+    "id": "04603837-67d7-436f-9332-1bd225cd2284",
+    "image_file": "04603837-67d7-436f-9332-1bd225cd2284.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
+    "img": "img/04603837-67d7-436f-9332-1bd225cd2284.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica",
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "La cerimònia dels Nobel de la Ximplesa 2026 es trasllada a Zúric per qüestions de seguretat, amb guardons per a recerques sobre besades i aerodinàmica nasal.",
+    "tags": [
+      "ig nobel",
+      "ciència",
+      "cerimònia",
+      "zúric",
+      "besades",
+      "recerca",
+      "premis",
+      "2026"
+    ],
+    "title": "Guanyadors dels Nobel de la Ximplesa 2026",
+    "updated_at": "2026-09-05T14:58:26Z",
+    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T13:57:23Z",
     "deep_status": "none",
     "id": "bc160d50-e227-4f36-a0c5-aba7f02aae08",
@@ -4245,35 +4399,6 @@
     "title": null,
     "updated_at": "2026-09-03T18:11:29Z",
     "url": "https://github.com/audacity/audacity/releases/tag/audacity-4.0.0"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-03T17:11:21Z",
-    "deep_status": "done",
-    "id": "04603837-67d7-436f-9332-1bd225cd2284",
-    "image_file": "04603837-67d7-436f-9332-1bd225cd2284.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
-    "img": "img/04603837-67d7-436f-9332-1bd225cd2284.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "neutral",
-    "status": "done",
-    "summary": "La cerimònia dels Nobel de la Ximplesa 2026 es trasllada a Zúric per qüestions de seguretat, amb guardons per a recerques sobre besades i aerodinàmica nasal.",
-    "tags": [
-      "ig nobel",
-      "ciència",
-      "cerimònia",
-      "zúric",
-      "besades",
-      "recerca",
-      "premis",
-      "2026"
-    ],
-    "title": "Guanyadors dels Nobel de la Ximplesa 2026",
-    "updated_at": "2026-09-03T17:11:51Z",
-    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners"
   },
   {
     "code_stats": null,
