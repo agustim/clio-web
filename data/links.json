@@ -1,6 +1,65 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T13:57:23Z",
+    "deep_status": "none",
+    "id": "bc160d50-e227-4f36-a0c5-aba7f02aae08",
+    "image_file": "bc160d50-e227-4f36-a0c5-aba7f02aae08.png",
+    "image_url": "https://devquasar.com/wp-content/uploads/2023/12/Black-logo-no-background.png",
+    "img": "img/bc160d50-e227-4f36-a0c5-aba7f02aae08.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'AMD BC-250, un xip PS5 reutilitzat per a mineria, permet jugar a Cyberpunk 2077 amb modificacions.",
+    "tags": [
+      "amd",
+      "bc-250",
+      "ps5",
+      "gaming",
+      "pc",
+      "hardware",
+      "linux",
+      "cyberpunk",
+      "modding",
+      "economy"
+    ],
+    "title": "L'AMD BC-250: la placa de joc de 60 dòlars amb xip PS5",
+    "updated_at": "2026-09-05T13:57:41Z",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-04T19:15:21Z",
+    "deep_status": "done",
+    "id": "ccdca527-ab62-4138-b0b2-e13e291729ff",
+    "image_file": "ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
+    "img": "img/ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica",
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El Pentàgon ha retirat la guia de cribratge de testosterona un dia després de publicar-la, sense detallar les millores ni les raons de la retirada.",
+    "tags": [
+      "pentagon",
+      "testosterona",
+      "militars",
+      "salut",
+      "politica",
+      "eeuu"
+    ],
+    "title": "El Pentàgon retira la política de test de testosterona sense explicacions",
+    "updated_at": "2026-09-05T13:57:23Z",
+    "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T12:57:21Z",
     "deep_status": "none",
     "id": "571a9fe1-e56f-40ce-9299-0cb41339d8b3",
@@ -1326,33 +1385,6 @@
     "title": "El pergamí medieval, càpsula del temps del virus de la verola ovina",
     "updated_at": "2026-09-04T19:15:47Z",
     "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-04T19:15:21Z",
-    "deep_status": "done",
-    "id": "ccdca527-ab62-4138-b0b2-e13e291729ff",
-    "image_file": "ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
-    "img": "img/ccdca527-ab62-4138-b0b2-e13e291729ff.jpg",
-    "link_type": "article",
-    "reporters": [
-      "ars-technica"
-    ],
-    "sentiment": "negative",
-    "status": "done",
-    "summary": "El Pentàgon ha retirat la guia de cribratge de testosterona un dia després de publicar-la, sense detallar les millores ni les raons de la retirada.",
-    "tags": [
-      "pentagon",
-      "testosterona",
-      "militars",
-      "salut",
-      "politica",
-      "eeuu"
-    ],
-    "title": "El Pentàgon retira la política de test de testosterona sense explicacions",
-    "updated_at": "2026-09-04T19:15:44Z",
-    "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy"
   },
   {
     "code_stats": null,
