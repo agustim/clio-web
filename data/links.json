@@ -1,6 +1,202 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "done",
+    "id": "d226ae90-ecf2-49f7-84d2-6eba8f4e63ee",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Una llista d'afirmacions falses sobre les xarxes LAN que els desenvolupadors solen acceptar com a certes, tot i que algunes poden variar segons el context.",
+    "tags": [
+      "lan",
+      "programadors",
+      "xarxes",
+      "mitges",
+      "tecnologia"
+    ],
+    "title": "Mites sobre les LANs que els programadors creuen",
+    "updated_at": "2026-09-05T23:03:53Z",
+    "url": "https://dreamstation.systems/personal/lanfalsehoods.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "done",
+    "id": "eef09dd6-d050-47b4-820e-f6b6c84a89e1",
+    "image_file": "eef09dd6-d050-47b4-820e-f6b6c84a89e1.png",
+    "image_url": "https://terrytao.wordpress.com/wp-content/uploads/2014/02/circuit-1.png",
+    "img": "img/eef09dd6-d050-47b4-820e-f6b6c84a89e1.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Terence Tao formalitza la barrera de supercriticalitat i demostra el trencament en temps finit per a una versió promediada de Navier-Stokes en 3D.",
+    "tags": [
+      "navier-stokes",
+      "terence tao",
+      "matemàtiques",
+      "blowup",
+      "supercrialitat",
+      "equacions",
+      "anàlisi"
+    ],
+    "title": "Tao demostra el trencament en temps finit per a una equació de Navier-Stokes",
+    "updated_at": "2026-09-05T23:03:52Z",
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "done",
+    "id": "11941e80-cce2-4d79-8a48-c456925b177b",
+    "image_file": "11941e80-cce2-4d79-8a48-c456925b177b.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY-2560-80.jpg",
+    "img": "img/11941e80-cce2-4d79-8a48-c456925b177b.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El coet Spectrum de la companyia alemanya Isar Aerospace ha assolit l'òrbita des de Noruega, marcant un hit històric per a Europa.",
+    "tags": [
+      "cosmos",
+      "alemanya",
+      "noruega",
+      "tecnologia",
+      "espai",
+      "coets",
+      "innovació"
+    ],
+    "title": "Alemanya aconsegueix posar un coet en òrbita des d'Europa",
+    "updated_at": "2026-09-05T23:03:51Z",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "failed",
+    "id": "6604b8bb-66b5-478b-a324-816a4235ae5f",
+    "image_file": "6604b8bb-66b5-478b-a324-816a4235ae5f.png",
+    "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
+    "img": "img/6604b8bb-66b5-478b-a324-816a4235ae5f.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Els dos districtes escolars més grans dels EUA han restringit l'ús de la intel·ligència artificial a les aules, una mesura celebrada per les coalicions de pares i mestres.",
+    "tags": [
+      "educació",
+      "ia",
+      "nova york",
+      "los angeles",
+      "escoles",
+      "regulació",
+      "tecnologia",
+      "moratòria"
+    ],
+    "title": "NYC i LAUSD imposen moratòries sobre IA a les escoles",
+    "updated_at": "2026-09-05T23:03:39Z",
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:26Z",
+    "deep_status": "none",
+    "id": "434599c4-8311-4da5-b65d-b209898d65fa",
+    "image_file": "434599c4-8311-4da5-b65d-b209898d65fa.jpg",
+    "image_url": "https://www.isaraerospace.com/images/_1200x630_crop_center-center_none/social-media-image@1200x627.jpg",
+    "img": "img/434599c4-8311-4da5-b65d-b209898d65fa.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Isar Aerospace ha esdevingut la primera empresa comercial europea en posar satèl·lits a l'òrbita amb el seu coet Spectrum des de Noruega.",
+    "tags": [
+      "isar aerospace",
+      "espai",
+      "europa",
+      "llançament",
+      "spectrum",
+      "satèl·lits",
+      "noruega",
+      "andøya"
+    ],
+    "title": "Isar Aerospace, primera empresa europea en llançar satèl·lits a l'òrbita",
+    "updated_at": "2026-09-05T23:03:33Z",
+    "url": "https://isaraerospace.com/mission-updates-overview"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:26Z",
+    "deep_status": "none",
+    "id": "a8a28cb0-e09c-4667-83a1-8807aaca35b3",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "arXivLabs permet desenvolupar i compartir funcionalitats seguint valors d'obertura, comunitat i privadesa.",
+    "tags": [
+      "arxiv",
+      "arxivlabs",
+      "colaboracio",
+      "obertura",
+      "comunitat",
+      "privadesa",
+      "desenvolupament"
+    ],
+    "title": "arXivLabs: Col·laboració oberta per a noves funcionalitats",
+    "updated_at": "2026-09-05T23:03:32Z",
+    "url": "https://arxiv.org/abs/2609.03344"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:26Z",
+    "deep_status": "none",
+    "id": "328aa660-7a89-41b0-b8a2-66cfcdc7cc9c",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T23:03:30Z",
+    "url": "https://www.youtube.com/watch?v=ss1duqljecc"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "none",
+    "id": "eab30a45-47a5-422b-9a62-49ae6080a640",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T23:03:26Z",
+    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T19:02:21Z",
     "deep_status": "done",
     "id": "7fee67c3-3094-4570-ad89-6c2379bf8d78",
