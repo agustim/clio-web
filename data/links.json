@@ -1,6 +1,35 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T16:15:21Z",
+    "deep_status": "done",
+    "id": "62b79549-5b67-42c2-a9a0-c84448894eb5",
+    "image_file": "62b79549-5b67-42c2-a9a0-c84448894eb5.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
+    "img": "img/62b79549-5b67-42c2-a9a0-c84448894eb5.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La NHTSA investiga si el Cybercab sense volant compleix els estàndards de seguretat federals, després que Tesla iniciés operacions sense sol·licitar una exempció prèvia.",
+    "tags": [
+      "tesla",
+      "cybercab",
+      "nhtsa",
+      "investigacio",
+      "robotaxi",
+      "seguretat",
+      "autonoms",
+      "eeuu"
+    ],
+    "title": "Tesla Cybercab investigat per incumplir normes de seguretat",
+    "updated_at": "2026-09-05T16:15:39Z",
+    "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T15:59:23Z",
     "deep_status": "done",
     "id": "9f724ec5-6523-444c-8fae-7c0d2276df0d",
