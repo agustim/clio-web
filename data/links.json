@@ -1,6 +1,77 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-05T17:00:23Z",
+    "deep_status": "done",
+    "id": "08b23ac4-4174-4880-a8a4-c5cc36ab15bb",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Els treballadors nord-americans de Wikimedia Foundation han guanyat l'elecció sindical per unir-se a CWA Local 9415, marcant un punt d'inflexió en la lluita per la negociació col·lectiva.",
+    "tags": [
+      "wikimedia",
+      "sindicalisme",
+      "cwa",
+      "wikipedia",
+      "treballadors",
+      "eeuu",
+      "negociació",
+      "drets",
+      "solidaritat",
+      "tecnologia"
+    ],
+    "title": "Treballadors de Wikimedia guanyen elecció sindical amb CWA",
+    "updated_at": "2026-09-05T17:00:43Z",
+    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T17:00:23Z",
+    "deep_status": "done",
+    "id": "052c8d5c-e3d9-4e82-b1fa-9a81209e8610",
+    "link_type": "news",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La compra de marques alimentàries per part del tabac als anys 60 va generar aliments hiperpalatables responsables de l'augment de l'obesitat.",
+    "tags": [
+      "tobacco",
+      "ultra-processed",
+      "obesity",
+      "berkeley",
+      "health",
+      "food",
+      "history",
+      "research"
+    ],
+    "title": "La indústria tabaquètica va impulsar els aliments ultraprocessats",
+    "updated_at": "2026-09-05T17:00:40Z",
+    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T17:00:23Z",
+    "deep_status": "none",
+    "id": "bb4c3343-74f2-445e-b959-253186245efe",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-05T17:00:33Z",
+    "url": "https://marco.org/2026/09/04/bob-and-van"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-05T16:15:21Z",
     "deep_status": "done",
     "id": "62b79549-5b67-42c2-a9a0-c84448894eb5",
