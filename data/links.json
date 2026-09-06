@@ -1,6 +1,178 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T23:43:23Z",
+    "deep_status": "done",
+    "id": "443325ca-9ce6-4102-b501-db9ac3ba3349",
+    "image_file": "443325ca-9ce6-4102-b501-db9ac3ba3349.png",
+    "image_url": "https://austinhenley.com/blog/images/python1024.png",
+    "img": "img/443325ca-9ce6-4102-b501-db9ac3ba3349.png",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "L'autor crea un intèrpret de Python minimalista en 1024 bytes de C, sense macros ni llibreries, utilitzant recursivitat i golf de codi.",
+    "tags": [
+      "python",
+      "c",
+      "code golf",
+      "interpreter",
+      "programming",
+      "challenge"
+    ],
+    "title": "Un intèrpret de Python en 1024 bytes de C",
+    "updated_at": "2026-09-06T23:43:44Z",
+    "url": "https://austinhenley.com/blog/python1024.html"
+  },
+  {
+    "code_stats": {
+      "bytes": 6183819,
+      "files": 177,
+      "has_readme": true,
+      "languages": {
+        "C": {
+          "files": 66,
+          "loc": 7039
+        },
+        "C++": {
+          "files": 1,
+          "loc": 52
+        },
+        "Config": {
+          "files": 4,
+          "loc": 326
+        },
+        "HTML": {
+          "files": 1,
+          "loc": 336
+        },
+        "JavaScript": {
+          "files": 6,
+          "loc": 8
+        },
+        "Markdown": {
+          "files": 2,
+          "loc": 287
+        },
+        "Swift": {
+          "files": 97,
+          "loc": 45901
+        }
+      },
+      "loc": 53949,
+      "top_languages": [
+        {
+          "files": 97,
+          "lang": "Swift",
+          "loc": 45901
+        },
+        {
+          "files": 66,
+          "lang": "C",
+          "loc": 7039
+        },
+        {
+          "files": 1,
+          "lang": "HTML",
+          "loc": 336
+        },
+        {
+          "files": 4,
+          "lang": "Config",
+          "loc": 326
+        },
+        {
+          "files": 2,
+          "lang": "Markdown",
+          "loc": 287
+        }
+      ]
+    },
+    "created_at": "2026-09-06T23:43:23Z",
+    "deep_status": "done",
+    "id": "9cb323a0-cd50-4dcf-b887-b88ae911266d",
+    "image_file": "9cb323a0-cd50-4dcf-b887-b88ae911266d.png",
+    "image_url": "https://opengraph.githubassets.com/89fcaec607a7f784450d54f5329995a50fcc25a44e6907ec6ed6e8d7db61aec0/FulltimeFeline/Sol",
+    "img": "img/9cb323a0-cd50-4dcf-b887-b88ae911266d.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Sol és un reproductor de música natiu per a macOS amb sortida bit-perfecta, suport per a Subsonic i Navidrome, i sense cap cost ni compte d'usuari.",
+    "tags": [
+      "macos",
+      "music",
+      "player",
+      "open-source",
+      "subsonic",
+      "navidrome",
+      "bit-perfect",
+      "metadata",
+      "podcasts",
+      "free"
+    ],
+    "title": "Sol: reproductor natiu per a macOS sense subscripcions ni comptes",
+    "updated_at": "2026-09-06T23:43:37Z",
+    "url": "https://github.com/fulltimefeline/sol"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T23:43:23Z",
+    "deep_status": "none",
+    "id": "87112329-6d78-4d16-8ae7-15d3e1126443",
+    "link_type": "social",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Liquid Network pausa la xarxa després que uns hackers retirisin 4.000 BTC del fons federatiu mitjançant la clau PAK de SideSwap.",
+    "tags": [
+      "liquid network",
+      "bitcoin",
+      "hack",
+      "blockchain",
+      "security",
+      "btc"
+    ],
+    "title": "Liquid Network paralitzada per la retirada de 4.000 BTC",
+    "updated_at": "2026-09-06T23:43:27Z",
+    "url": "https://twitter.com/liquid_btc/status/2096696272447218108"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T23:43:23Z",
+    "deep_status": "none",
+    "id": "17056884-08fb-4148-a7d1-bc133d5d3c7c",
+    "image_file": "17056884-08fb-4148-a7d1-bc133d5d3c7c.jpg",
+    "image_url": "https://www.piie.com/sites/default/files/2026-08/MT1SIPA000RQXILD.jpg",
+    "img": "img/17056884-08fb-4148-a7d1-bc133d5d3c7c.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La publicació d'un informe sobre votants no ciutadans i decisions sobre privadesa al Cens revelen ingerències polítiques que compromet la integritat del sistema estadístic.",
+    "tags": [
+      "cens",
+      "estat units",
+      "política",
+      "estadístiques",
+      "credibilitat",
+      "transparència",
+      "vot"
+    ],
+    "title": "Intervenció política al Cens dels EUA posa en risc la credibilitat estadística",
+    "updated_at": "2026-09-06T23:43:27Z",
+    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T22:42:22Z",
     "deep_status": "done",
     "id": "359d8787-aa70-46c0-8ac6-565ad64b3334",
