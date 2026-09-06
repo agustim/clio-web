@@ -1,6 +1,184 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T16:10:22Z",
+    "deep_status": "done",
+    "id": "29da5b1b-e3b7-44ef-9fa4-7488c54c621e",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Perfil d'usuari a la xarxa social Mastodon.",
+    "tags": [
+      "xarxes-socials",
+      "mastodon",
+      "usuari",
+      "digital",
+      "social"
+    ],
+    "title": "Ritalin Invitees",
+    "updated_at": "2026-09-06T17:11:52Z",
+    "url": "https://beige.party/@intransitivelie/117057396732763183"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "done",
+    "id": "25d14395-b764-42b8-9839-5a6344cf915d",
+    "image_file": "25d14395-b764-42b8-9839-5a6344cf915d.png",
+    "image_url": "https://kaeruct.github.io/android-chrome-512x512.png",
+    "img": "img/25d14395-b764-42b8-9839-5a6344cf915d.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "La confiança és clau en l'era de la IA; cal fomentar-la mitjançant l'agilitat, la responsabilitat dels enginyers i eines deterministes per garantir la qualitat.",
+    "tags": [
+      "ai",
+      "confiança",
+      "codi",
+      "enginyeria",
+      "qualitat",
+      "responsabilitat",
+      "entropia",
+      "productivitat"
+    ],
+    "title": "Cultivar la confiança per dominar l'entropia del codi amb IA",
+    "updated_at": "2026-09-06T17:11:51Z",
+    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "d1713c1a-8ae4-49cc-a858-f751753c4c32",
+    "image_file": "d1713c1a-8ae4-49cc-a858-f751753c4c32.png",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill",
+    "img": "img/d1713c1a-8ae4-49cc-a858-f751753c4c32.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI confirma l'èxit dels interns d'IA i accelera la recerca, prioritzant la seguretat i el control humà davant els riscos de l'RSI.",
+    "tags": [
+      "openai",
+      "ia",
+      "recerca",
+      "seguretat",
+      "automatització",
+      "agi",
+      "agents",
+      "alineació"
+    ],
+    "title": "OpenAI accelera la recerca amb agents d'IA autònoms",
+    "updated_at": "2026-09-06T17:11:32Z",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "c77c409f-7fea-409e-b9ec-f7a1b056645c",
+    "image_file": "c77c409f-7fea-409e-b9ec-f7a1b056645c.png",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
+    "img": "img/c77c409f-7fea-409e-b9ec-f7a1b056645c.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El científic cap d'OpenAI adverteix que la IA podria superar els humans i millorar-se sola, exigint precaució extrema.",
+    "tags": [
+      "openai",
+      "ia",
+      "seguretat",
+      "tecnologia",
+      "futur",
+      "intel·ligència",
+      "recursivitat",
+      "alerta"
+    ],
+    "title": "OpenAI alerta del risc d'autoaprenentatge recursiu de la IA",
+    "updated_at": "2026-09-06T17:11:26Z",
+    "url": "https://openai.com/index/an-alien-mind"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "632245b4-7760-4772-9d5d-029abbbf6e02",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "NetBSD Project anuncia NetBSD 9.5, l'última versió de la branca 9, amb correccions de seguretat i estabilitat, i finalitza el suport per a aquesta branca.",
+    "tags": [
+      "netbsd",
+      "linux",
+      "software",
+      "actualització",
+      "seguretat",
+      "estabilitat",
+      "tecnologia"
+    ],
+    "title": "NetBSD 9.5, l'última versió de la branca 9, arriba amb suport finalitzat",
+    "updated_at": "2026-09-06T17:11:26Z",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "d6ddbac5-a1e8-4f80-9a59-7626c0dbfce1",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Diversos grups, com la NASA o NEC, utilitzen NetBSD per investigar TCP, IPv6 i seguretat, aprofitant-ne la portabilitat com a plataforma de recerca.",
+    "tags": [
+      "netbsd",
+      "investigació",
+      "tcp",
+      "ipv6",
+      "seguretat",
+      "nasa",
+      "neceurope",
+      "kame"
+    ],
+    "title": "Investigació i demostracions amb NetBSD",
+    "updated_at": "2026-09-06T17:11:25Z",
+    "url": "https://www.netbsd.org/gallery/research.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T17:11:22Z",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T16:10:23Z",
     "deep_status": "done",
     "id": "f247193a-a439-44f9-9ddf-bc0d6f88a199",
@@ -80,23 +258,6 @@
     "title": "Emocions dividides davant la IA: por, ràbia i esperança",
     "updated_at": "2026-09-06T16:10:49Z",
     "url": "https://beza1e1.tuxen.de/ai_feelings.html"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T16:10:22Z",
-    "deep_status": "none",
-    "id": "29da5b1b-e3b7-44ef-9fa4-7488c54c621e",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T16:10:27Z",
-    "url": "https://beige.party/@intransitivelie/117057396732763183"
   },
   {
     "code_stats": null,
