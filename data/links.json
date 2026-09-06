@@ -1,6 +1,63 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T03:36:22Z",
+    "deep_status": "done",
+    "id": "f8ca21b4-42b0-4d31-b25f-5ee899c077b3",
+    "image_file": "f8ca21b4-42b0-4d31-b25f-5ee899c077b3.jpg",
+    "image_url": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
+    "img": "img/f8ca21b4-42b0-4d31-b25f-5ee899c077b3.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "GPT-6 Astra lidera en precisió i velocitat per agafar blocs, però empaten en el trencaclosques.",
+    "tags": [
+      "gpt-6",
+      "astra",
+      "claude",
+      "robotica",
+      "manipulacio",
+      "ia",
+      "test",
+      "rendiment"
+    ],
+    "title": "GPT-6 Astra supera Claude en manipulació robòtica",
+    "updated_at": "2026-09-06T03:36:42Z",
+    "url": "https://openai.robocurve.org/gpt-6-astra"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T03:36:22Z",
+    "deep_status": "none",
+    "id": "ab0f8d58-b931-41ef-af4d-8592361571e2",
+    "image_file": "ab0f8d58-b931-41ef-af4d-8592361571e2.jpg",
+    "image_url": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+    "img": "img/ab0f8d58-b931-41ef-af4d-8592361571e2.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El programa Gateside permet als membres de TSA PreCheck accedir a la zona de portes per saludar o menjar, fins i tot sense viatjar.",
+    "tags": [
+      "tsa",
+      "precheck",
+      "gateside",
+      "viatge",
+      "aeroport",
+      "seguretat",
+      "eeuu"
+    ],
+    "title": "TSA PreCheck permet accedir a la zona de portes sense volar",
+    "updated_at": "2026-09-06T03:36:25Z",
+    "url": "https://www.tsa.gov/precheck/gateside-tsa-precheck"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T02:06:21Z",
     "deep_status": "none",
     "id": "27fd3635-95cc-4a10-b7dd-e93dba37a422",
