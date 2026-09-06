@@ -1,5 +1,293 @@
 [
   {
+    "code_stats": {
+      "bytes": 33348046,
+      "files": 1561,
+      "has_readme": true,
+      "languages": {
+        "CSS": {
+          "files": 2,
+          "loc": 363
+        },
+        "Config": {
+          "files": 375,
+          "loc": 29931
+        },
+        "JavaScript": {
+          "files": 5,
+          "loc": 3464
+        },
+        "Markdown": {
+          "files": 82,
+          "loc": 49192
+        },
+        "Python": {
+          "files": 23,
+          "loc": 12762
+        },
+        "Rust": {
+          "files": 1070,
+          "loc": 428130
+        },
+        "Shell": {
+          "files": 4,
+          "loc": 1353
+        }
+      },
+      "loc": 525195,
+      "top_languages": [
+        {
+          "files": 1070,
+          "lang": "Rust",
+          "loc": 428130
+        },
+        {
+          "files": 82,
+          "lang": "Markdown",
+          "loc": 49192
+        },
+        {
+          "files": 375,
+          "lang": "Config",
+          "loc": 29931
+        },
+        {
+          "files": 23,
+          "lang": "Python",
+          "loc": 12762
+        },
+        {
+          "files": 5,
+          "lang": "JavaScript",
+          "loc": 3464
+        }
+      ]
+    },
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "done",
+    "id": "fd5b0084-672a-4416-ac88-b68bf664f723",
+    "image_file": "fd5b0084-672a-4416-ac88-b68bf664f723.png",
+    "image_url": "https://repository-images.githubusercontent.com/1271145357/6ad51b53-3160-44f7-b254-2774f8c74d11",
+    "img": "img/fd5b0084-672a-4416-ac88-b68bf664f723.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Meclaw transforma arbres de directoris en colònies d'agents mitjançant un sol binari Rust, on la topologia es defineix amb fitxers i es modifica en temps real sense necessitat de codi ni SDK.",
+    "tags": [
+      "rust",
+      "ai",
+      "agents",
+      "meclaw",
+      "open source",
+      "software",
+      "topology",
+      "filesystem"
+    ],
+    "title": "Meclaw: un sistema agèntic basat en fitxers i un binari Rust",
+    "updated_at": "2026-09-06T21:12:39Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "code_stats": {
+      "bytes": 115195,
+      "files": 10,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 3,
+          "loc": 1625
+        },
+        "HTML": {
+          "files": 1,
+          "loc": 72
+        },
+        "JavaScript": {
+          "files": 4,
+          "loc": 169
+        },
+        "Markdown": {
+          "files": 1,
+          "loc": 119
+        },
+        "Shell": {
+          "files": 1,
+          "loc": 52
+        }
+      },
+      "loc": 2037,
+      "top_languages": [
+        {
+          "files": 3,
+          "lang": "Config",
+          "loc": 1625
+        },
+        {
+          "files": 4,
+          "lang": "JavaScript",
+          "loc": 169
+        },
+        {
+          "files": 1,
+          "lang": "Markdown",
+          "loc": 119
+        },
+        {
+          "files": 1,
+          "lang": "HTML",
+          "loc": 72
+        },
+        {
+          "files": 1,
+          "lang": "Shell",
+          "loc": 52
+        }
+      ]
+    },
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "done",
+    "id": "e138f1d4-5f4c-49c1-b893-d3c9cc7d8a0d",
+    "image_file": "e138f1d4-5f4c-49c1-b893-d3c9cc7d8a0d.png",
+    "image_url": "https://opengraph.githubassets.com/5dc1e994e2b3e6245fb990ecb7f9c0057dd5549b510737628d494692599c0cd7/marsbos/mador",
+    "img": "img/e138f1d4-5f4c-49c1-b893-d3c9cc7d8a0d.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Mador és un mòdul ES natiu de 855 bytes que afegeix estat reactiu al DOM sense necessitat de components ni virtual DOM.",
+    "tags": [
+      "mador",
+      "dom",
+      "reactivitat",
+      "javascript",
+      "es-module",
+      "npm",
+      "open-source"
+    ],
+    "title": "Mador: reactivitat lleugera per al DOM existent",
+    "updated_at": "2026-09-06T21:12:38Z",
+    "url": "https://github.com/marsbos/mador"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "done",
+    "id": "47691078-a0d6-45c1-b149-c917639849ca",
+    "link_type": "blog",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Anubis implementa una prova de treball per frenar el raspatge massiu d'empreses d'IA, tot i que pot causar inactivitat del servidor.",
+    "tags": [
+      "anubis",
+      "ia",
+      "raspatge",
+      "seguretat",
+      "web",
+      "techaro"
+    ],
+    "title": "Anubis bloqueja l'accés per protegir contra raspadors d'IA",
+    "updated_at": "2026-09-06T21:12:37Z",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "none",
+    "id": "73c42ae7-4dad-40fc-8782-db515f18e3b4",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La cursa de la IA provoca escassetat de components i puja de preus, convertint la tecnologia en un consumidor dominant que desplaça la producció humana.",
+    "tags": [
+      "ia",
+      "escassetat",
+      "economia",
+      "tecnologia",
+      "robotica",
+      "mercado",
+      "inversion",
+      "inflacion"
+    ],
+    "title": "Escassetat global per la demanda desmesurada de la IA",
+    "updated_at": "2026-09-06T21:12:28Z",
+    "url": "https://out-of-hell.xylon.me.uk/shortage.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T21:12:25Z",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "none",
+    "id": "b4e0b741-bef9-49ee-8a9e-6df6cf44251d",
+    "image_file": "b4e0b741-bef9-49ee-8a9e-6df6cf44251d.png",
+    "image_url": "https://getvodforge.com/social-preview.png",
+    "img": "img/b4e0b741-bef9-49ee-8a9e-6df6cf44251d.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "VODForge és un descargador gratuït i de codi obert per a YouTube que converteix vídeos i àudios amb control de qualitat i metadades.",
+    "tags": [
+      "vodforge",
+      "youtube",
+      "descàrregues",
+      "macos",
+      "windows",
+      "codi obert",
+      "mp4",
+      "mp3",
+      "yt-dlp",
+      "ffmpeg"
+    ],
+    "title": "VODForge, descàrregues de YouTube segures per a macOS i Windows",
+    "updated_at": "2026-09-06T21:12:25Z",
+    "url": "https://getvodforge.com"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "none",
+    "id": "c911424b-d4e1-473a-8071-3bc7de882624",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T21:12:23Z",
+    "url": "https://grapheneos.social/@grapheneos/117225539756835649"
+  },
+  {
     "code_stats": null,
     "created_at": "2026-09-06T20:11:22Z",
     "deep_status": "done",
@@ -26,23 +314,6 @@
     "title": "El mercat premia els cotxes amb CarPlay: Honda ven més que Chevrolet",
     "updated_at": "2026-09-06T20:11:38Z",
     "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T17:11:21Z",
-    "deep_status": "none",
-    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T20:11:26Z",
-    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
   },
   {
     "code_stats": null,
