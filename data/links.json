@@ -1,6 +1,178 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T12:07:21Z",
+    "deep_status": "done",
+    "id": "6665684e-8449-423c-a976-0841e21e9088",
+    "image_file": "6665684e-8449-423c-a976-0841e21e9088.webp",
+    "image_url": "https://victoriametrics.com/blog/go-swiss-table-map/preview.webp",
+    "img": "img/6665684e-8449-423c-a976-0841e21e9088.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Go 1.Go 1.24 implementa mapes amb Swiss Tables per millorar el rendiment, substituint l'estructura anterior amb un disseny més eficient.",
+    "tags": [
+      "go",
+      "programacio",
+      "swiss-tables",
+      "mapes",
+      "rendiment",
+      "runtime"
+    ],
+    "title": "Com funcionen els mapes de Go amb Swiss Tables",
+    "updated_at": "2026-09-06T12:07:59Z",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T12:07:21Z",
+    "deep_status": "done",
+    "id": "ccc19d75-4904-4d89-b18e-b9ed6a9a53cc",
+    "image_file": "ccc19d75-4904-4d89-b18e-b9ed6a9a53cc.jpg",
+    "image_url": "https://www.trendingtopics.eu/wp-content/uploads/2026/08/Stability_AI_Founder_TechBQ-scaled-social.jpg",
+    "img": "img/ccc19d75-4904-4d89-b18e-b9ed6a9a53cc.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Emad Mostaque alerta que la infraestructura digital és fràgil i prediu que Internet deixarà de funcionar en els propers anys.",
+    "tags": [
+      "emad mostaque",
+      "stability ai",
+      "internet",
+      "seguretat",
+      "ia",
+      "soberania",
+      "hacking",
+      "deepseek"
+    ],
+    "title": "Emad Mostaque: Internet caurà en pocs anys",
+    "updated_at": "2026-09-06T12:07:53Z",
+    "url": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T12:07:21Z",
+    "deep_status": "done",
+    "id": "d639a242-712a-4e31-bfc6-90db60fcd990",
+    "image_file": "d639a242-712a-4e31-bfc6-90db60fcd990.jpg",
+    "image_url": "https://d2vqpl3tx84ay5.cloudfront.net/2026/EU-flags.jpg",
+    "img": "img/d639a242-712a-4e31-bfc6-90db60fcd990.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'autor abandona les llicències permissives com MIT per adoptar la EUPL-1.2, considerant que les primeres beneficien les grans corporacions en detriment dels usuaris.",
+    "tags": [
+      "llicencia",
+      "software lliure",
+      "eupl",
+      "mit",
+      "open source",
+      "copyleft",
+      "flowhub",
+      "noflo"
+    ],
+    "title": "L'autor canvia la llicència del seu programari a la EUPL-1.2",
+    "updated_at": "2026-09-06T12:07:45Z",
+    "url": "https://bergie.iki.fi/blog/eupl"
+  },
+  {
+    "code_stats": {
+      "bytes": 293904,
+      "files": 73,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 26,
+          "loc": 1437
+        },
+        "Markdown": {
+          "files": 4,
+          "loc": 705
+        },
+        "Python": {
+          "files": 43,
+          "loc": 3554
+        }
+      },
+      "loc": 5696,
+      "top_languages": [
+        {
+          "files": 43,
+          "lang": "Python",
+          "loc": 3554
+        },
+        {
+          "files": 26,
+          "lang": "Config",
+          "loc": 1437
+        },
+        {
+          "files": 4,
+          "lang": "Markdown",
+          "loc": 705
+        }
+      ]
+    },
+    "created_at": "2026-09-06T12:07:21Z",
+    "deep_status": "done",
+    "id": "a7cb3a98-bc79-4deb-96ee-f4b390dd4fff",
+    "image_file": "a7cb3a98-bc79-4deb-96ee-f4b390dd4fff.png",
+    "image_url": "https://opengraph.githubassets.com/f73967121eede6f964024942ac25f802cf0e1da7f53ff43111360605e283c45d/pigeonlabsHQ/pigeon",
+    "img": "img/a7cb3a98-bc79-4deb-96ee-f4b390dd4fff.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Pigeon restringeix els permisos dels agents d'IA mitjançant credencials signades per limitar el seu abast i evitar accions no autoritzades.",
+    "tags": [
+      "ai",
+      "security",
+      "agents",
+      "credentials",
+      "python",
+      "authorization"
+    ],
+    "title": "Pigeon: controla l'autoritat delegada dels agents d'IA",
+    "updated_at": "2026-09-06T12:07:44Z",
+    "url": "https://github.com/pigeonlabshq/pigeon"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T12:07:21Z",
+    "deep_status": "none",
+    "id": "446f0fa0-f063-49de-b906-7360d332dd60",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Keen Bean genera esborranys, tasques i diagrames i decisions durant les reunions, processant l'àudio localment sense enviar dades a servidors externs.",
+    "tags": [
+      "macos",
+      "reunions",
+      "productivitat",
+      "privadesa",
+      "ia",
+      "markdown"
+    ],
+    "title": "Keen Bean: assistent de reunions que genera esborranys locals",
+    "updated_at": "2026-09-06T12:07:24Z",
+    "url": "https://keenbean.app"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T11:15:21Z",
     "deep_status": "done",
     "id": "09fed7ca-80d6-497a-8308-5ae2079c7a43",
