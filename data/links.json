@@ -1,5 +1,151 @@
 [
   {
+    "code_stats": {
+      "bytes": 930452,
+      "files": 70,
+      "has_readme": true,
+      "languages": {
+        "CSS": {
+          "files": 34,
+          "loc": 4100
+        },
+        "Config": {
+          "files": 7,
+          "loc": 377
+        },
+        "JavaScript": {
+          "files": 5,
+          "loc": 515
+        },
+        "Markdown": {
+          "files": 2,
+          "loc": 273
+        },
+        "Python": {
+          "files": 22,
+          "loc": 3150
+        }
+      },
+      "loc": 8415,
+      "top_languages": [
+        {
+          "files": 34,
+          "lang": "CSS",
+          "loc": 4100
+        },
+        {
+          "files": 22,
+          "lang": "Python",
+          "loc": 3150
+        },
+        {
+          "files": 5,
+          "lang": "JavaScript",
+          "loc": 515
+        },
+        {
+          "files": 7,
+          "lang": "Config",
+          "loc": 377
+        },
+        {
+          "files": 2,
+          "lang": "Markdown",
+          "loc": 273
+        }
+      ]
+    },
+    "created_at": "2026-09-06T18:41:21Z",
+    "deep_status": "done",
+    "id": "c86047ae-7159-42ab-9dfe-7541785bb2a5",
+    "image_file": "c86047ae-7159-42ab-9dfe-7541785bb2a5.png",
+    "image_url": "https://opengraph.githubassets.com/11431af7e58234c4bbded645d9d755ed6d81fc949f17ef0cd8177b1cbe8f5d50/zedeus/nitter",
+    "img": "img/c86047ae-7159-42ab-9dfe-7541785bb2a5.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El projecte Nitter, alternativa oberta a Twitter, continuarà la seva activitat després de rebre una carta de cessament d'X Corp.",
+    "tags": [
+      "nitter",
+      "twitter",
+      "privacitat",
+      "codi_obert",
+      "x_corp",
+      "alternativa",
+      "software_lliure",
+      "seguretat"
+    ],
+    "title": "Nitter, alternativa a Twitter, continuarà malgrat carta de cessament",
+    "updated_at": "2026-09-06T18:41:34Z",
+    "url": "https://github.com/zedeus/nitter"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T18:41:21Z",
+    "deep_status": "none",
+    "id": "860a9555-a332-4531-a4a5-94e2cc97fb90",
+    "image_file": "860a9555-a332-4531-a4a5-94e2cc97fb90.png",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6QiOsDAtMDSQDtyJdqygZ3/e00d303b22fcbefb76ebb13ed003f6b9/OAI_Monitoring_internal_deployments_for_loss_of_control_risks_SEO_16x9.png?w=1600&h=900&fit=fill",
+    "img": "img/860a9555-a332-4531-a4a5-94e2cc97fb90.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "OpenAI utilitza un sistema de monitorització amb GPT-5.4 per detectar comportaments desalineats en agents interns de codificació i mitigar riscos de seguretat.",
+    "tags": [
+      "openai",
+      "ia",
+      "seguretat",
+      "alineació",
+      "monitorització",
+      "agents",
+      "codificació",
+      "gpt-5"
+    ],
+    "title": "OpenAI monitoritza agents de codificació per detectar desalineació",
+    "updated_at": "2026-09-06T18:41:26Z",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T18:41:22Z",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T18:41:21Z",
+    "deep_status": "none",
+    "id": "888dca22-7c74-4f9a-ab74-9aed0ada871a",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T18:41:22Z",
+    "url": "https://kuber.studio/blog/reflections/recreating-minecraft-is-not-a-benchmark"
+  },
+  {
     "code_stats": null,
     "created_at": "2026-09-06T16:10:22Z",
     "deep_status": "done",
@@ -159,23 +305,6 @@
     "title": "Investigació i demostracions amb NetBSD",
     "updated_at": "2026-09-06T17:11:25Z",
     "url": "https://www.netbsd.org/gallery/research.html"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T17:11:21Z",
-    "deep_status": "none",
-    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T17:11:22Z",
-    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
   },
   {
     "code_stats": null,
