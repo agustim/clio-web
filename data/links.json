@@ -1,6 +1,92 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T12:15:21Z",
+    "deep_status": "done",
+    "id": "a734b702-ff64-4fb0-b0e2-692c1e14f5df",
+    "image_file": "a734b702-ff64-4fb0-b0e2-692c1e14f5df.jpg",
+    "image_url": "https://media.wired.com/photos/6a9b6e21074e05014033d571/191:100/w_1280,c_limit/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg",
+    "img": "img/a734b702-ff64-4fb0-b0e2-692c1e14f5df.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Anàlisi de motxilles per a portàtil provades en viatges i feina, destacant l'Everlane per valor i el Thule per enginyeria.",
+    "tags": [
+      "motxilles",
+      "portàtil",
+      "viatge",
+      "feina",
+      "recomanacions",
+      "equipatge",
+      "tecnologia",
+      "resenyes"
+    ],
+    "title": "Les millors motxilles per a portàtil que val la pena comprar",
+    "updated_at": "2026-09-06T12:15:52Z",
+    "url": "https://www.wired.com/story/best-laptop-backpacks"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T12:15:21Z",
+    "deep_status": "done",
+    "id": "d119b022-798f-4209-8eb2-fec912e2a82b",
+    "image_file": "d119b022-798f-4209-8eb2-fec912e2a82b.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+    "img": "img/d119b022-798f-4209-8eb2-fec912e2a82b.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Isar Aerospace esdevé la primera empresa europea en llançar un coet orbital comercial des de Noruega, liderant la competició en un mercat estancat.",
+    "tags": [
+      "isar aerospace",
+      "coet",
+      "europa",
+      "espai",
+      "comercial",
+      "noruega",
+      "llançament",
+      "tecnologia"
+    ],
+    "title": "Isar Aerospace, primera empresa europea amb llançador orbital comercial",
+    "updated_at": "2026-09-06T12:15:49Z",
+    "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T12:15:21Z",
+    "deep_status": "done",
+    "id": "006f30dd-3030-44e3-a642-fba783e9b390",
+    "image_file": "006f30dd-3030-44e3-a642-fba783e9b390.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg",
+    "img": "img/006f30dd-3030-44e3-a642-fba783e9b390.jpg",
+    "link_type": "article",
+    "reporters": [
+      "ars-technica"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La dieta basada en cultius terrestres redueix els omega-3 del salmó de granja, qüestionant-ne els beneficis nutricionals.",
+    "tags": [
+      "salmó",
+      "nutrició",
+      "granja",
+      "omega-3",
+      "dieta",
+      "ambient",
+      "aqüicultura"
+    ],
+    "title": "El salmó de granja perd nutrients clau per la seva dieta",
+    "updated_at": "2026-09-06T12:15:49Z",
+    "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T12:07:21Z",
     "deep_status": "done",
     "id": "6665684e-8449-423c-a976-0841e21e9088",
