@@ -1,5 +1,145 @@
 [
   {
+    "code_stats": null,
+    "created_at": "2026-09-06T20:11:22Z",
+    "deep_status": "done",
+    "id": "716f352d-0c34-4cad-946f-f27b7b5e96d2",
+    "image_file": "716f352d-0c34-4cad-946f-f27b7b5e96d2.png",
+    "image_url": "https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/08/image.gen.png",
+    "img": "img/716f352d-0c34-4cad-946f-f27b7b5e96d2.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El Honda Prologue amb CarPlay supera el Chevrolet Blazer sense aquesta funció, demostrant que els clients valoren la integració mòbil.",
+    "tags": [
+      "carplay",
+      "honda",
+      "chevrolet",
+      "ev",
+      "venudes",
+      "tecnologia",
+      "mercat"
+    ],
+    "title": "El mercat premia els cotxes amb CarPlay: Honda ven més que Chevrolet",
+    "updated_at": "2026-09-06T20:11:38Z",
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T20:11:26Z",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T18:41:21Z",
+    "deep_status": "none",
+    "id": "888dca22-7c74-4f9a-ab74-9aed0ada871a",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T20:11:26Z",
+    "url": "https://kuber.studio/blog/reflections/recreating-minecraft-is-not-a-benchmark"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T20:11:22Z",
+    "deep_status": "none",
+    "id": "e74a59e2-cf9d-4073-9848-636c65b8980e",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Un usuari busca dades sobre coets de rescat britànics, qüestionant si eren propulsors o canons per llançar cables i demanant diferències tècniques.",
+    "tags": [
+      "hackernews",
+      "regne-unit",
+      "coets",
+      "rescat",
+      "història",
+      "tecnologia"
+    ],
+    "title": "Recerca d'informació sobre coets de rescat al Regne Unit",
+    "updated_at": "2026-09-06T20:11:26Z",
+    "url": "https://news.ycombinator.com/item?id=49589730"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T20:11:22Z",
+    "deep_status": "failed",
+    "id": "3d3b0c4b-2d9a-4e16-81c0-ca2309ffd3ef",
+    "image_file": "3d3b0c4b-2d9a-4e16-81c0-ca2309ffd3ef.png",
+    "image_url": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "img": "img/3d3b0c4b-2d9a-4e16-81c0-ca2309ffd3ef.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Es publica una actualització del fitxer README de Nitter amb canvis en dos fitxers.",
+    "tags": [
+      "nitter",
+      "readme",
+      "git",
+      "commit",
+      "open-source"
+    ],
+    "title": "Actualització del README de Nitter",
+    "updated_at": "2026-09-06T20:11:26Z",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T20:11:22Z",
+    "deep_status": "none",
+    "id": "451dfc3d-c92e-4841-81a3-dc2067249426",
+    "image_file": "451dfc3d-c92e-4841-81a3-dc2067249426.jpg",
+    "image_url": "https://kepter.app/assets/og.jpg",
+    "img": "img/451dfc3d-c92e-4841-81a3-dc2067249426.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Chad Maltby ha creat Kepter, una eina visual que elimina la jerarquia de carpetes per facilitar la cerca de fitxers i reduir la càrrega cognitiva.",
+    "tags": [
+      "finder",
+      "macos",
+      "software",
+      "productivitat",
+      "kepter",
+      "tecnologia",
+      "usuaris"
+    ],
+    "title": "Un desenvolupador crea Kepter per superar la frustració amb el Finder",
+    "updated_at": "2026-09-06T20:11:25Z",
+    "url": "https://kepter.app/finder"
+  },
+  {
     "code_stats": {
       "bytes": 930452,
       "files": 70,
@@ -110,40 +250,6 @@
     "title": "OpenAI monitoritza agents de codificació per detectar desalineació",
     "updated_at": "2026-09-06T18:41:26Z",
     "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T17:11:21Z",
-    "deep_status": "none",
-    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T18:41:22Z",
-    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T18:41:21Z",
-    "deep_status": "none",
-    "id": "888dca22-7c74-4f9a-ab74-9aed0ada871a",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T18:41:22Z",
-    "url": "https://kuber.studio/blog/reflections/recreating-minecraft-is-not-a-benchmark"
   },
   {
     "code_stats": null,
