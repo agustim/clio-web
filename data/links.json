@@ -1,5 +1,187 @@
 [
   {
+    "code_stats": null,
+    "created_at": "2026-09-06T22:42:22Z",
+    "deep_status": "done",
+    "id": "359d8787-aa70-46c0-8ac6-565ad64b3334",
+    "image_file": "359d8787-aa70-46c0-8ac6-565ad64b3334.webp",
+    "image_url": "https://cdn.neowin.com/news/images/uploaded/2026/01/1769196499_windows_11_thinking_story.webp",
+    "img": "img/359d8787-aa70-46c0-8ac6-565ad64b3334.webp",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'edició especial de Windows 11 per a desenvolupadors genera dubtes per ser només un rebranding de maquinari amb configuracions replicables.",
+    "tags": [
+      "microsoft",
+      "windows 11",
+      "project zenith",
+      "desenvolupadors",
+      "maquinari",
+      "màrqueting"
+    ],
+    "title": "Project Zenith de Microsoft, un altre fracàs de màrqueting",
+    "updated_at": "2026-09-06T22:43:13Z",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T22:42:22Z",
+    "deep_status": "done",
+    "id": "cfe0835a-12ad-47c6-a412-0f41d480e907",
+    "image_file": "cfe0835a-12ad-47c6-a412-0f41d480e907.png",
+    "image_url": "https://d2lang.com/img/opengraph.png",
+    "img": "img/cfe0835a-12ad-47c6-a412-0f41d480e907.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "El projecte D2 passa a ser no lucratiu sota Hack Club, abandonant el model for-profit i centrant-se en el desenvolupament obert i impulsat per IA.",
+    "tags": [
+      "d2",
+      "hack-club",
+      "open-source",
+      "non-profit",
+      "ai",
+      "diagramming",
+      "software"
+    ],
+    "title": "D2 esdevé no lucratiu amb el patrocini de Hack Club",
+    "updated_at": "2026-09-06T22:42:49Z",
+    "url": "https://d2lang.com/blog/d2-non-profit"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T22:42:22Z",
+    "deep_status": "done",
+    "id": "4059c5b1-a7ed-4f40-ab5d-ef2b85c82b67",
+    "image_file": "4059c5b1-a7ed-4f40-ab5d-ef2b85c82b67.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!KoXQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ff0da94-941d-4191-ad4e-ac8e65ee7364_1100x1389.jpeg",
+    "img": "img/4059c5b1-a7ed-4f40-ab5d-ef2b85c82b67.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Voyager, Galileo i Cassini han revelat que sis llunes gelades tenen oceans subterranis, convertint-les en els llocs més propensos a acollir vida al sistema solar.",
+    "tags": [
+      "llunes gelades",
+      "oceà subterrani",
+      "vida extraterrestre",
+      "europa",
+      "encèlad",
+      "tità",
+      "júpiter",
+      "saturn",
+      "exploració espacial"
+    ],
+    "title": "Les llunes gelades són mons oceànics",
+    "updated_at": "2026-09-06T22:42:49Z",
+    "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T21:12:21Z",
+    "deep_status": "done",
+    "id": "c911424b-d4e1-473a-8071-3bc7de882624",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "GrapheneOS és un sistema operatiu mòbil basat en Android que prioritza la privadesa i la seguretat dels usuaris mitjançant millores de seguretat del nucli i proteccions contra amenaces.",
+    "tags": [
+      "grapheneos",
+      "android",
+      "privadesa",
+      "seguretat",
+      "software",
+      "linux",
+      "smartphone",
+      "open source"
+    ],
+    "title": "GrapheneOS",
+    "updated_at": "2026-09-06T22:42:28Z",
+    "url": "https://grapheneos.social/@grapheneos/117225539756835649"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T22:42:22Z",
+    "deep_status": "none",
+    "id": "0e73962a-7c33-40c0-99c9-5d1256948802",
+    "image_file": "0e73962a-7c33-40c0-99c9-5d1256948802.png",
+    "image_url": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+    "img": "img/0e73962a-7c33-40c0-99c9-5d1256948802.png",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Asahi Linux integra oficialment el suport per a xips M3, amb gairebé tota la funcionalitat operativa excepte GPU i DCP complets.",
+    "tags": [
+      "asahi linux",
+      "macos",
+      "m3",
+      "linux",
+      "apple silicon",
+      "fedora",
+      "open source",
+      "hardware"
+    ],
+    "title": "Asahi Linux ja suporta oficialment els Mac amb xip M3",
+    "updated_at": "2026-09-06T22:42:28Z",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T17:11:21Z",
+    "deep_status": "none",
+    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T22:42:26Z",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T22:42:22Z",
+    "deep_status": "none",
+    "id": "6b487419-7f81-4a87-b33f-f7d3d11c9111",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "arXivLabs permet col·laborar en el desenvolupament de noves funcionalitats per a la plataforma, prioritzant l'obertura, la comunitat i la privadesa de les dades.",
+    "tags": [
+      "arxiv",
+      "arxivlabs",
+      "desenvolupament",
+      "col·laboració",
+      "obertura",
+      "privadesa",
+      "comunitat"
+    ],
+    "title": "arXivLabs: desenvolupament col·laboratiu de noves funcionalitats",
+    "updated_at": "2026-09-06T22:42:25Z",
+    "url": "https://arxiv.org/abs/2505.12540"
+  },
+  {
     "code_stats": {
       "bytes": 33348046,
       "files": 1561,
@@ -224,23 +406,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-06T17:11:21Z",
-    "deep_status": "none",
-    "id": "dd3f88ec-98d4-4cb6-8713-c402ed5599ff",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T21:12:25Z",
-    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bnedvad-founding-gtm"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-06T21:12:21Z",
     "deep_status": "none",
     "id": "b4e0b741-bef9-49ee-8a9e-6df6cf44251d",
@@ -269,23 +434,6 @@
     "title": "VODForge, descàrregues de YouTube segures per a macOS i Windows",
     "updated_at": "2026-09-06T21:12:25Z",
     "url": "https://getvodforge.com"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T21:12:21Z",
-    "deep_status": "none",
-    "id": "c911424b-d4e1-473a-8071-3bc7de882624",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T21:12:23Z",
-    "url": "https://grapheneos.social/@grapheneos/117225539756835649"
   },
   {
     "code_stats": null,
