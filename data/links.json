@@ -1,5 +1,166 @@
 [
   {
+    "code_stats": null,
+    "created_at": "2026-09-06T00:04:22Z",
+    "deep_status": "done",
+    "id": "fe6dd1ff-5502-41b1-b4ce-4c2be4c477b9",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El 78% dels lectors abandonen immediatament un text si detecten que està redactat per IA, i el 71% evita l'autor.",
+    "tags": [
+      "lectura",
+      "ia",
+      "escriptura",
+      "autenticitat",
+      "lectors",
+      "contingut",
+      "tecnologia",
+      "opinió"
+    ],
+    "title": "La revolta dels lectors contra els textos generats per IA",
+    "updated_at": "2026-09-06T00:04:45Z",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader"
+  },
+  {
+    "code_stats": {
+      "bytes": 650082,
+      "files": 104,
+      "has_readme": true,
+      "languages": {
+        "Config": {
+          "files": 4,
+          "loc": 307
+        },
+        "Go": {
+          "files": 12,
+          "loc": 4184
+        },
+        "Markdown": {
+          "files": 87,
+          "loc": 7966
+        },
+        "Ruby": {
+          "files": 1,
+          "loc": 49
+        }
+      },
+      "loc": 12506,
+      "top_languages": [
+        {
+          "files": 87,
+          "lang": "Markdown",
+          "loc": 7966
+        },
+        {
+          "files": 12,
+          "lang": "Go",
+          "loc": 4184
+        },
+        {
+          "files": 4,
+          "lang": "Config",
+          "loc": 307
+        },
+        {
+          "files": 1,
+          "lang": "Ruby",
+          "loc": 49
+        }
+      ]
+    },
+    "created_at": "2026-09-06T00:04:22Z",
+    "deep_status": "done",
+    "id": "137fcfed-d599-493b-a4df-c7a63223d48c",
+    "image_file": "137fcfed-d599-493b-a4df-c7a63223d48c.png",
+    "image_url": "https://opengraph.githubassets.com/00fdb4ea13f56c399e41d7276f1583287544e6e45a18527e6564922d16f0d236/okf-memory/okf-agent-memory",
+    "img": "img/137fcfed-d599-493b-a4df-c7a63223d48c.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Okf-agent-memory ofereix memòria persistent nativa a Git per a agents IA, reduint el consum de tokens un 80% sense dependències externes.",
+    "tags": [
+      "ai",
+      "go",
+      "git",
+      "memory",
+      "okf",
+      "coding",
+      "agents",
+      "tools"
+    ],
+    "title": "Memòria persistent per agents IA amb Git i Go",
+    "updated_at": "2026-09-06T00:04:35Z",
+    "url": "https://github.com/okf-memory/okf-agent-memory"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T00:04:22Z",
+    "deep_status": "none",
+    "id": "e429647c-473f-449e-a3a7-7d5d56dd7ecf",
+    "image_file": "e429647c-473f-449e-a3a7-7d5d56dd7ecf.jpg",
+    "image_url": "https://www.economist.com/content-assets/images/20260808_LDD001.jpg",
+    "img": "img/e429647c-473f-449e-a3a7-7d5d56dd7ecf.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "La ciutadania utilitza la IA per reclamar drets, inundant les burocracies britàniques amb queixes i amençant el funcionament de l'Estat.",
+    "tags": [
+      "ia",
+      "britania",
+      "administració",
+      "queixes",
+      "crisi",
+      "democràcia"
+    ],
+    "title": "La IA col·lapsa l'administració britànica",
+    "updated_at": "2026-09-06T00:04:29Z",
+    "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:26Z",
+    "deep_status": "none",
+    "id": "328aa660-7a89-41b0-b8a2-66cfcdc7cc9c",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T00:04:24Z",
+    "url": "https://www.youtube.com/watch?v=ss1duqljecc"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T23:03:25Z",
+    "deep_status": "none",
+    "id": "eab30a45-47a5-422b-9a62-49ae6080a640",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T00:04:22Z",
+    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
+  },
+  {
     "code_stats": {
       "bytes": 31329296,
       "files": 1899,
@@ -291,40 +452,6 @@
     "title": "arXivLabs: Col·laboració oberta per a noves funcionalitats",
     "updated_at": "2026-09-05T23:03:32Z",
     "url": "https://arxiv.org/abs/2609.03344"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T23:03:26Z",
-    "deep_status": "none",
-    "id": "328aa660-7a89-41b0-b8a2-66cfcdc7cc9c",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-05T23:03:30Z",
-    "url": "https://www.youtube.com/watch?v=ss1duqljecc"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T23:03:25Z",
-    "deep_status": "none",
-    "id": "eab30a45-47a5-422b-9a62-49ae6080a640",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-05T23:03:26Z",
-    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
   },
   {
     "code_stats": null,
