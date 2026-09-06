@@ -1,6 +1,85 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T04:37:21Z",
+    "deep_status": "done",
+    "id": "fc65e1a1-ea47-4e8a-8d16-2a834b8f6db8",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Benedict Evans argumenta que la IA no resol automàticament la ineficiència empresarial, ja que identificar i definir els problemes reals és més difícil que construir les eines.",
+    "tags": [
+      "ai",
+      "software",
+      "automatitzacio",
+      "benedict evans",
+      "innovacio",
+      "productivitat"
+    ],
+    "title": "Evans: la IA no automatitza tot per si sola",
+    "updated_at": "2026-09-06T04:37:48Z",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T04:37:21Z",
+    "deep_status": "done",
+    "id": "1f0f9f64-5fe6-4611-9863-9b94f5999307",
+    "image_file": "1f0f9f64-5fe6-4611-9863-9b94f5999307.jpg",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
+    "img": "img/1f0f9f64-5fe6-4611-9863-9b94f5999307.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "Trump signa una ordre executiva per retirar la protecció federal del llop gris i el llop mexicà, una mesura que els grups conservacionistes critiquen per posar en risc els esforços de recuperació de les poblacions.",
+    "tags": [
+      "trump",
+      "llop",
+      "estat units",
+      "medi ambient",
+      "protecció fauna"
+    ],
+    "title": "Trump retira la protecció federal del llop gris",
+    "updated_at": "2026-09-06T04:37:47Z",
+    "url": "https://www.bbc.com/news/articles/c62k677d4lzo"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T04:37:21Z",
+    "deep_status": "done",
+    "id": "d423531c-6403-4603-8e8a-3f28b4c45276",
+    "image_file": "d423531c-6403-4603-8e8a-3f28b4c45276.jpg",
+    "image_url": "https://www.vmcdn.ca/f/files/via/images/arts/penthouse-lake-ontario-sign-vancouver-instagram.jpg;w=1200;h=1090;mode=crop",
+    "img": "img/d423531c-6403-4603-8e8a-3f28b4c45276.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El Penthouse Night Club de Vancouver ha perdut el seu compte d'Instagram després de publicar una burla al marit sobre el conflicte amb Trump pel llac Ontario.",
+    "tags": [
+      "canada",
+      "vancouver",
+      "instagram",
+      "trump",
+      "penthouse",
+      "social media",
+      "humor",
+      "política"
+    ],
+    "title": "El club de Vancouver perd Instagram per una burla a Trump",
+    "updated_at": "2026-09-06T04:37:45Z",
+    "url": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T03:36:22Z",
     "deep_status": "done",
     "id": "f8ca21b4-42b0-4d31-b25f-5ee899c077b3",
