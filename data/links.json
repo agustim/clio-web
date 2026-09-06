@@ -1,6 +1,133 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T16:10:23Z",
+    "deep_status": "done",
+    "id": "f247193a-a439-44f9-9ddf-bc0d6f88a199",
+    "image_file": "f247193a-a439-44f9-9ddf-bc0d6f88a199.png",
+    "image_url": "http://static1.squarespace.com/static/61d0d6b5e7f7444a96edf02f/61d13ab7c4b8820975553483/6a7f6d80c9c2044d6e7b38c5/1786737910443/ganon-name-origin-zelda.png?format=1500w",
+    "img": "img/f247193a-a439-44f9-9ddf-bc0d6f88a199.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Teories suggereixen que el disseny de Ganon s'inspira en Ganikomoru, un monstre de Kamen Rider, per la seva aparença i nom.",
+    "tags": [
+      "ganon",
+      "kamen rider",
+      "zelda",
+      "videojocs",
+      "teories",
+      "origen",
+      "gerudo",
+      "cultura pop"
+    ],
+    "title": "L'origen de Ganon podria venir de Kamen Rider",
+    "updated_at": "2026-09-06T16:10:55Z",
+    "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T16:10:22Z",
+    "deep_status": "done",
+    "id": "b555ac0e-1adb-4ed3-921d-c7624af6839e",
+    "image_file": "b555ac0e-1adb-4ed3-921d-c7624af6839e.png",
+    "image_url": "https://albertapolitics.ca/wp-content/uploads/HouseWithPanels.png",
+    "img": "img/b555ac0e-1adb-4ed3-921d-c7624af6839e.png",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El govern albertenc aplica una taxa de 14 dòlars per panell, criticada com a càstig arbitrari que encareix l'energia renovable sense justificació tècnica.",
+    "tags": [
+      "ucp",
+      "solar",
+      "taxes",
+      "canada",
+      "energia",
+      "política",
+      "reciclatge"
+    ],
+    "title": "UCP imposa taxa punitiva sobre panells solars",
+    "updated_at": "2026-09-06T16:10:52Z",
+    "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T16:10:22Z",
+    "deep_status": "done",
+    "id": "1b3b40d3-2ca1-4b32-8a71-03e35af7beec",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'autor expressa por, ràbia i tristesa per l'impacte de la IA, però també admiració tècnica i esperança per la innovació.",
+    "tags": [
+      "ia",
+      "neural",
+      "societat",
+      "artistes",
+      "política",
+      "tecnologia",
+      "futur"
+    ],
+    "title": "Emocions dividides davant la IA: por, ràbia i esperança",
+    "updated_at": "2026-09-06T16:10:49Z",
+    "url": "https://beza1e1.tuxen.de/ai_feelings.html"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T16:10:22Z",
+    "deep_status": "none",
+    "id": "29da5b1b-e3b7-44ef-9fa4-7488c54c621e",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T16:10:27Z",
+    "url": "https://beige.party/@intransitivelie/117057396732763183"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T15:09:23Z",
+    "deep_status": "none",
+    "id": "a3c6da9a-e465-4c43-bc01-2cfce3809189",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El col·lectiu Autistici/Inventati anuncia el tancament immediat dels seus serveis per protegir els usuaris de represàlies legals i polítiques.",
+    "tags": [
+      "autistici",
+      "inventati",
+      "internet",
+      "seguretat",
+      "privadesa",
+      "tecnologia",
+      "col·lectiu",
+      "tanca",
+      "serveis",
+      "usuaris"
+    ],
+    "title": "L'organització Autistici/Inventati tanca els seus serveis per seguretat",
+    "updated_at": "2026-09-06T16:10:26Z",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T15:09:23Z",
     "deep_status": "done",
     "id": "3a902c17-b402-4501-b40c-e8cf5a67aed8",
@@ -144,23 +271,6 @@
     "title": "Curs d'enginyeria d'oracles quàntics a IEEE Quantum Week 2026",
     "updated_at": "2026-09-06T15:09:29Z",
     "url": "https://shukla.io/quantum-oracle-engineering"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-06T15:09:23Z",
-    "deep_status": "none",
-    "id": "a3c6da9a-e465-4c43-bc01-2cfce3809189",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-06T15:09:28Z",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human"
   },
   {
     "code_stats": null,
