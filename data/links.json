@@ -1,6 +1,94 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T11:15:21Z",
+    "deep_status": "done",
+    "id": "09fed7ca-80d6-497a-8308-5ae2079c7a43",
+    "image_file": "09fed7ca-80d6-497a-8308-5ae2079c7a43.jpg",
+    "image_url": "https://media.wired.com/photos/6a9af4664c28b30a706b7171/191:100/w_1280,c_limit/eait-mda-2026-cyborg-cockroach-16.jpg",
+    "img": "img/09fed7ca-80d6-497a-8308-5ae2079c7a43.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Cucarates ciberborgs controlades elèctricament poden buscar víctimes i administrar medicaments en zones de desastre.",
+    "tags": [
+      "ciberborg",
+      "rescat",
+      "medicina",
+      "tecnologia",
+      "biomèdica",
+      "robots",
+      "insectes"
+    ],
+    "title": "Cucarates ciberborgs per a rescat i primers auxilis",
+    "updated_at": "2026-09-06T11:15:46Z",
+    "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T11:15:21Z",
+    "deep_status": "done",
+    "id": "9f1889d5-7c01-441f-9302-8ff0d8e2efcb",
+    "image_file": "9f1889d5-7c01-441f-9302-8ff0d8e2efcb.jpg",
+    "image_url": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg",
+    "img": "img/9f1889d5-7c01-441f-9302-8ff0d8e2efcb.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "L'autora prova Siri AI a iOS 27 beta, la troba útil però la deixa d'usar per vells hàbits i preferència per altres chatbots, tot i que els analistes veuen confiança en la privadesa d'Apple.",
+    "tags": [
+      "siri",
+      "apple",
+      "ai",
+      "ios",
+      "privadesa",
+      "tecnologia",
+      "beta",
+      "chatbot"
+    ],
+    "title": "La meva breu aventura amb Siri AI",
+    "updated_at": "2026-09-06T11:15:46Z",
+    "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T11:15:21Z",
+    "deep_status": "done",
+    "id": "35a1326d-29ad-48f1-be52-0d2a39ebe140",
+    "image_file": "35a1326d-29ad-48f1-be52-0d2a39ebe140.jpg",
+    "image_url": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/191:100/w_1280,c_limit/CustomeReminder.jpg",
+    "img": "img/35a1326d-29ad-48f1-be52-0d2a39ebe140.jpg",
+    "link_type": "article",
+    "reporters": [
+      "wired"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Windows 11 permet configurar recordatoris amb el Programador de tasques, l'aplicació Rellotge o Microsoft To Do per a una gestió eficient del temps.",
+    "tags": [
+      "windows11",
+      "recordatoris",
+      "productivitat",
+      "tasques",
+      "notificacions",
+      "programador",
+      "reloj",
+      "todo",
+      "apps",
+      "tecnologia"
+    ],
+    "title": "Com crear notificacions personalitzades a Windows 11",
+    "updated_at": "2026-09-06T11:15:41Z",
+    "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T10:37:21Z",
     "deep_status": "done",
     "id": "f1a758aa-4191-4446-8008-80130a5208b1",
