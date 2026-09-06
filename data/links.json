@@ -1,6 +1,143 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T10:37:21Z",
+    "deep_status": "done",
+    "id": "f1a758aa-4191-4446-8008-80130a5208b1",
+    "image_file": "f1a758aa-4191-4446-8008-80130a5208b1.jpg",
+    "image_url": "https://www.motherjones.com/wp-content/uploads/2026/09/jackson-ms-resized.jpg?w=1200&h=630&crop=1",
+    "img": "img/f1a758aa-4191-4446-8008-80130a5208b1.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El Cinquè Circuit confirma que la Constitució no garanteix l'accés a l'aigua neta, malgrat la contaminació per plom a Jackson.",
+    "tags": [
+      "judicis",
+      "aigua",
+      "estatunidencs",
+      "justícia",
+      "contaminació"
+    ],
+    "title": "El tribunal federal nega el dret constitucional a l'aigua potable als EUA",
+    "updated_at": "2026-09-06T10:37:40Z",
+    "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit"
+  },
+  {
+    "code_stats": {
+      "bytes": 983102,
+      "files": 94,
+      "has_readme": true,
+      "languages": {
+        "C": {
+          "files": 79,
+          "loc": 16772
+        },
+        "Config": {
+          "files": 2,
+          "loc": 1302
+        },
+        "Markdown": {
+          "files": 1,
+          "loc": 131
+        },
+        "Python": {
+          "files": 3,
+          "loc": 316
+        },
+        "Shell": {
+          "files": 9,
+          "loc": 584
+        }
+      },
+      "loc": 19105,
+      "top_languages": [
+        {
+          "files": 79,
+          "lang": "C",
+          "loc": 16772
+        },
+        {
+          "files": 2,
+          "lang": "Config",
+          "loc": 1302
+        },
+        {
+          "files": 9,
+          "lang": "Shell",
+          "loc": 584
+        },
+        {
+          "files": 3,
+          "lang": "Python",
+          "loc": 316
+        },
+        {
+          "files": 1,
+          "lang": "Markdown",
+          "loc": 131
+        }
+      ]
+    },
+    "created_at": "2026-09-06T10:37:21Z",
+    "deep_status": "done",
+    "id": "c8fdadb3-3635-47df-8d8e-36d983b06c70",
+    "image_file": "c8fdadb3-3635-47df-8d8e-36d983b06c70.png",
+    "image_url": "https://opengraph.githubassets.com/30ece56f8cbda82b8d4d815474245da9438c9b3bddadc9b383d3b27da003380e/iczelia/balrogg",
+    "img": "img/c8fdadb3-3635-47df-8d8e-36d983b06c70.png",
+    "link_type": "repo",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Balrogg comprimeix fitxers Vorbis i Opus sense pèrdua, reduint-ne la mida fins a un 15% mitjançant un recompressió intel·ligent.",
+    "tags": [
+      "balrogg",
+      "vorbis",
+      "opus",
+      "compressio",
+      "lossless",
+      "audio",
+      "software",
+      "github"
+    ],
+    "title": "Balrogg: recompressor sense pèrdua per a Vorbis i Opus",
+    "updated_at": "2026-09-06T10:37:37Z",
+    "url": "https://github.com/iczelia/balrogg"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T10:37:21Z",
+    "deep_status": "none",
+    "id": "48de48c5-ad4f-44e6-9703-1a6d26c7f660",
+    "image_file": "48de48c5-ad4f-44e6-9703-1a6d26c7f660.jpg",
+    "image_url": "https://quenq.com/apps/vc-web/preview.jpg",
+    "img": "img/48de48c5-ad4f-44e6-9703-1a6d26c7f660.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Quenq permet jugar a GTA Vice City al navegador amb estalvi de partides, compatibilitat amb comandaments i optimització de rendiment.",
+    "tags": [
+      "gta",
+      "vice city",
+      "quenq",
+      "browser",
+      "joc",
+      "emulador",
+      "webassembly"
+    ],
+    "title": "Juga a GTA Vice City Online directament al navegador",
+    "updated_at": "2026-09-06T10:37:24Z",
+    "url": "https://quenq.com/apps/vice-city-online"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T10:15:21Z",
     "deep_status": "done",
     "id": "4f90fd3a-01d7-45d6-a42c-f7c4ae4eba3a",
