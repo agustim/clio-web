@@ -1,6 +1,207 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "done",
+    "id": "f0e8c696-6eec-4835-961b-49021370e98c",
+    "image_file": "f0e8c696-6eec-4835-961b-49021370e98c.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/e10c00b15fd00abb6f0cc14ec8f5f45124a207a8/0_0_4782_3827/master/4782.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b653981a99b849908624f6357e924d61",
+    "img": "img/f0e8c696-6eec-4835-961b-49021370e98c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "Experts atribueixen l'olor associada a la vellesa al compost 2-nonenal, un subproducte natural del envelliment cutani que apareix a partir dels 40 anys.",
+    "tags": [
+      "vellesa",
+      "salut",
+      "ciència",
+      "2-nonenal",
+      "dermatologia",
+      "envelliment"
+    ],
+    "title": "L'olor de la vellesa: la veritat sobre el 2-nonenal",
+    "updated_at": "2026-09-06T13:08:17Z",
+    "url": "https://www.theguardian.com/wellness/2026/sep/03/old-person-smell"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "done",
+    "id": "32a10fae-9df6-4ac1-b0d0-4600b71723e5",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "L'autor critica l'ús d'LLMs per generar contingut a LinkedIn, argumentant que l'estil robòtic i la falta d'autenticitat fan que els lectors deixin de llegir.",
+    "tags": [
+      "linkedin",
+      "ia",
+      "contingut",
+      "autenticitat",
+      "escriptura",
+      "xarxes socials"
+    ],
+    "title": "LinkedIn: L'ús massiu d'IA arruïna l'autenticitat",
+    "updated_at": "2026-09-06T13:08:15Z",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "done",
+    "id": "5da766a9-b06b-4830-8cf7-2581718c1b4c",
+    "image_file": "5da766a9-b06b-4830-8cf7-2581718c1b4c.jpg",
+    "image_url": "https://olimex.wordpress.com/wp-content/uploads/2026/09/neo6502kbd-4.jpg",
+    "img": "img/5da766a9-b06b-4830-8cf7-2581718c1b4c.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Olimex llança la Neo6502kbd, una variant de hardware obert que integra CPU 6502, teclat, ports USB i HDMI per emular retrocomputadors clàssics.",
+    "tags": [
+      "olimex",
+      "neo6502kbd",
+      "retrocomputing",
+      "open source",
+      "6502",
+      "hardware",
+      "emulació"
+    ],
+    "title": "Olimex presenta Neo6502kbd: ordinador retro tot en un",
+    "updated_at": "2026-09-06T13:08:10Z",
+    "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "done",
+    "id": "a4e03e4d-ed2c-43a6-953b-9b705bd6a64f",
+    "image_file": "a4e03e4d-ed2c-43a6-953b-9b705bd6a64f.jpg",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!feJo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94fac428-a214-4f93-a506-c4d6a4918bb5_642x982.png",
+    "img": "img/a4e03e4d-ed2c-43a6-953b-9b705bd6a64f.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "James Marriott alerta en 'The New Dark Ages' sobre el col·lapse de la literàcia i el pànic parental per la pèrdua de la lectura.",
+    "tags": [
+      "lectura",
+      "literàcia",
+      "tecnologia",
+      "pànic",
+      "societat",
+      "cultura"
+    ],
+    "title": "El declivi de la lectura i la pànic per la crisi de la lectura",
+    "updated_at": "2026-09-06T13:07:53Z",
+    "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "none",
+    "id": "cec51bf4-0ee9-4a81-90c9-b87c693d4dec",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-06T13:07:33Z",
+    "url": "https://cceckman.com/writing/household-laser-cuts"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "none",
+    "id": "87e8e7e8-b523-4a03-9c6a-c69f16f4cdaa",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El xesc 4D utilitza coordenades X, Y, Z i W per moure's entre dos cubs, on W canvia de matriu sense alterar les altres coordenades.",
+    "tags": [
+      "xesc",
+      "4d",
+      "cubs",
+      "regles",
+      "tauler",
+      "coordenades",
+      "joc",
+      "estratègia"
+    ],
+    "title": "Regles del xesc 4D: Matrius i cubs",
+    "updated_at": "2026-09-06T13:07:31Z",
+    "url": "https://4d-chess.pages.dev"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "none",
+    "id": "7c8b02be-c468-461e-a5fd-fa79d2da7f1d",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "negative",
+    "status": "done",
+    "summary": "El blog Crooked Timber bloqueja dominis Gmail per spam fals, recomanant adreces temporals.",
+    "tags": [
+      "spam",
+      "gmail",
+      "seguretat",
+      "google",
+      "privadesa",
+      "email"
+    ],
+    "title": "Bloquegen Gmail per spam fals",
+    "updated_at": "2026-09-06T13:07:30Z",
+    "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-06T13:07:21Z",
+    "deep_status": "none",
+    "id": "64238579-dd52-41f4-922a-fe5fe8f31ed7",
+    "image_file": "64238579-dd52-41f4-922a-fe5fe8f31ed7.jpg",
+    "image_url": "https://dub.uu.nl/sites/default/files/styles/large/public/media/images/Isabella-Saccardi-Staff-pov-EN-003.jpg?itok=oijEYuhD",
+    "img": "img/64238579-dd52-41f4-922a-fe5fe8f31ed7.jpg",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "La investigadora Isabella Saccardi descobreix que la creativitat acadèmica també existeix dins dels límits, superant l'enviament cap a la llibertat artística absoluta.",
+    "tags": [
+      "creativitat",
+      "acadèmia",
+      "recerca",
+      "llibertat",
+      "límits",
+      "universitat",
+      "pensament"
+    ],
+    "title": "La creativitat existeix dins dels límits",
+    "updated_at": "2026-09-06T13:07:24Z",
+    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-06T12:15:21Z",
     "deep_status": "done",
     "id": "a734b702-ff64-4fb0-b0e2-692c1e14f5df",
