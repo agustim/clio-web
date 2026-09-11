@@ -1,6 +1,114 @@
 [
   {
     "code_stats": null,
+    "created_at": "2026-09-07T03:46:21Z",
+    "deep_status": "pending",
+    "id": "df4c4a66-c821-4c7f-9830-fd9376fcd5f0",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "done",
+    "summary": "El TPM signa els handshakes TLS sense exposar la clau, evitant el robatori en abocadors de memòria, a diferència de permisos, certificats curts o un KMS.",
+    "tags": [
+      "tpm",
+      "tls",
+      "go",
+      "mtls",
+      "claus",
+      "seguretat",
+      "atestacio",
+      "confidencial"
+    ],
+    "title": "Signar handshakes TLS dins d'un TPM",
+    "updated_at": "2026-09-11T08:03:12Z",
+    "url": "https://bschaatsbergen.com/posts/go-tpm-tls"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-08T16:57:21Z",
+    "deep_status": "none",
+    "id": "5a4f98ed-80cf-466c-be2c-13eb23963a02",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "failed",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-11T08:03:12Z",
+    "url": "https://www.freebsd.org/releases/14.5r/announce"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-09T10:32:21Z",
+    "deep_status": "none",
+    "id": "72e8827d-7712-4518-bf35-9dc3e369c788",
+    "link_type": "other",
+    "reporters": [
+      "metadata"
+    ],
+    "sentiment": "neutral",
+    "status": "processing",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-11T08:03:12Z",
+    "url": "https://www.metadata.cat/noticia/6502/catalunya-lidera-desplegament-bateries"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-05T14:58:27Z",
+    "deep_status": "pending",
+    "id": "c0badbae-79f5-4ec7-9e2e-3740aa011249",
+    "image_file": "c0badbae-79f5-4ec7-9e2e-3740aa011249.jpg",
+    "image_url": "https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg",
+    "img": "img/c0badbae-79f5-4ec7-9e2e-3740aa011249.jpg",
+    "link_type": "article",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "positive",
+    "status": "done",
+    "summary": "Anthropic publica els nous prompts de Claude, que prohibeixen reproduir lletres i personatges amb copyright arran de la demanda de Sony i Warner.",
+    "tags": [
+      "anthropic",
+      "claude",
+      "prompts",
+      "copyright",
+      "lletres",
+      "cancons",
+      "demanda",
+      "sony",
+      "warner",
+      "ia"
+    ],
+    "title": "Claude 5.1 prohibeix reproduir lletres i personatges amb copyright",
+    "updated_at": "2026-09-11T08:03:08Z",
+    "url": "https://simonwillison.net/2026/sep/2/claudes-new-system-prompt"
+  },
+  {
+    "code_stats": null,
+    "created_at": "2026-09-08T09:25:21Z",
+    "deep_status": "none",
+    "id": "541834b0-801a-4c9b-9e7e-1dafa7874735",
+    "link_type": "other",
+    "reporters": [
+      "hackernews"
+    ],
+    "sentiment": "neutral",
+    "status": "processing",
+    "summary": null,
+    "tags": [],
+    "title": null,
+    "updated_at": "2026-09-11T08:03:08Z",
+    "url": "https://anystation.net"
+  },
+  {
+    "code_stats": null,
     "created_at": "2026-09-07T04:46:23Z",
     "deep_status": "none",
     "id": "706abdfa-85ab-4036-944d-5d7d977bc696",
@@ -121,23 +229,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-07T03:46:21Z",
-    "deep_status": "none",
-    "id": "df4c4a66-c821-4c7f-9830-fd9376fcd5f0",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "processing",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-11T08:01:35Z",
-    "url": "https://bschaatsbergen.com/posts/go-tpm-tls"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-08-18T07:46:53Z",
     "deep_status": "none",
     "id": "539a804b-177b-479a-ae18-af0b21da9a9a",
@@ -239,23 +330,6 @@
     "title": null,
     "updated_at": "2026-09-11T08:01:22Z",
     "url": "https://www.youtube.com/watch?v=ss1duqljecc"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-05T14:58:27Z",
-    "deep_status": "none",
-    "id": "c0badbae-79f5-4ec7-9e2e-3740aa011249",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "processing",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-11T08:01:12Z",
-    "url": "https://simonwillison.net/2026/sep/2/claudes-new-system-prompt"
   },
   {
     "code_stats": null,
@@ -6519,23 +6593,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-09T10:32:21Z",
-    "deep_status": "none",
-    "id": "72e8827d-7712-4518-bf35-9dc3e369c788",
-    "link_type": "other",
-    "reporters": [
-      "metadata"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-09T14:32:24Z",
-    "url": "https://www.metadata.cat/noticia/6502/catalunya-lidera-desplegament-bateries"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-09T13:08:21Z",
     "deep_status": "none",
     "id": "6ea06587-5b5c-4104-9c42-5502b9299a9b",
@@ -7929,23 +7986,6 @@
   },
   {
     "code_stats": null,
-    "created_at": "2026-09-08T16:57:21Z",
-    "deep_status": "none",
-    "id": "5a4f98ed-80cf-466c-be2c-13eb23963a02",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-08T19:28:27Z",
-    "url": "https://www.freebsd.org/releases/14.5r/announce"
-  },
-  {
-    "code_stats": null,
     "created_at": "2026-09-08T19:28:21Z",
     "deep_status": "none",
     "id": "6b4f4d7c-8b62-4607-90a5-63119b9b8641",
@@ -9036,23 +9076,6 @@
     "title": "Meta no detecta centenes d'anuncis d'abús infantil amb IA",
     "updated_at": "2026-09-08T12:15:44Z",
     "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids"
-  },
-  {
-    "code_stats": null,
-    "created_at": "2026-09-08T09:25:21Z",
-    "deep_status": "none",
-    "id": "541834b0-801a-4c9b-9e7e-1dafa7874735",
-    "link_type": "other",
-    "reporters": [
-      "hackernews"
-    ],
-    "sentiment": "neutral",
-    "status": "failed",
-    "summary": null,
-    "tags": [],
-    "title": null,
-    "updated_at": "2026-09-08T11:26:23Z",
-    "url": "https://anystation.net"
   },
   {
     "code_stats": null,
